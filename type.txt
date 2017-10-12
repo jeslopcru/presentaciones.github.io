@@ -1287,3 +1287,218 @@ Escuela Municipal de Música y Danza
 Sección de Instituto Provincial de Formación de Adultos
 Centro de Convenio
 Escuela Autorizada de Música
+Centro de Educación de Adultos
+Colegio de Educación Infantil y Primaria
+Escuela Infantil
+Centro Privado de Educación Infantil
+Instituto de Educación Secundaria
+Centro Docente Privado
+Colegio Público Rural
+Conservatorio Elemental de Música
+Escuela Municipal de Música
+Centro Autorizado de Enseñanzas Deportivas
+Centro Docente Privado de Educación Especial
+Centro Específico de Educación Especial
+Centro Privado Autorizado Elemental de Música
+Colegio de Educación Primaria
+Conservatorio Profesional de Danza
+Conservatorio Profesional de Música
+Escuela de Arte
+Escuela Oficial de Idiomas
+Instituto Provincial de Formación de Adultos
+Centro Docente Privado Extranjero
+Escuela Municipal de Danza
+Escuela Hogar
+Escuela Municipal de Música y Danza
+Sección de Instituto Provincial de Formación de Adultos
+Centro de Convenio
+Escuela Autorizada de Música
+Sección de Educación Secundaria Obligatoria
+Centro Público Integrado de Formación Profesional
+Conservatorio Superior de Música
+Escuela Superior de Arte Dramático
+Centro Autorizado de Artes Plásticas y Diseño
+Centro Autorizado Superior de Artes Plásticas y Diseño
+Escuela Autorizada de Música y Danza
+Centro Autorizado de Música Profesional
+Escuela Autorizada de Danza
+Centro Autorizado de Danza Elemental
+Centro Privado Autorizado Profesional de Danza
+Centro Público de Enseñanzas Deportivas
+Conservatorio Superior de Danza
+Centro Público de Enseñanza a Distancia
+Colegio Rural Agrupado
+Escuela Pública de Música
+Sección de Instituto de Educación Secundaria
+Centro Privado Autorizado de Enseñanzas Deportivas
+
+Centro Privado de Educación Infantil Primaria y Secundaria
+Centro Público de Educación de Personas Adultas
+Centro Privado de Educación Secundaria
+Extensión de Escuela Oficial de Idiomas
+Conservatorio Municipal Profesional de Música
+Centro Privado de Educación Especial
+Centro Privado de Formación Profesional Específica
+Escuela Superior de Conservación y Restauración de Bienes Culturales
+Escuela de Capacitación Agraria
+Escuela Pública de Música y Danza
+Centro de Educación Especial
+Centro Privado de Educación Infantil y Primaria
+Escuela Privada de Música y Danza
+Extensión de Escuela Superior de Diseño
+Instituto de Formación Profesional Específica
+Residencia de Secundaria
+Centro Docente de Formación Militar
+Centro Privado de Educación Primaria
+Centro Autorizado de Enseñanzas Artísticas Profesionales de Música
+Centro Docente Privado Extranjero en España
+Centro Privado Autorizado Profesional de Música
+Centro Privado Autorizado Superior de Diseño
+Centro Privado de Educación de Personas Adultas
+Centro Privado de Educación Primaria y Secundaria
+Centro Privado Integrado de Formación Profesional
+Centro Público Integrado
+Escuela Privada de Música
+Escuela Superior de Diseño
+Aula de Educación de Adultos
+Col.legi Públic d'Educació Infantil i Primària
+Institut d'Educació Secundària (IES)
+Escola d'Educació Infantil
+Centre Privat d'Educació Infantil
+Escuela Municipal de Educación Infantil
+Escola Oficial d'Idiomes (EOI)
+Centro Privado de Educación Secundaria Obligatoria
+Instituto de Educación Secundaria Obligatoria
+Centre Privat amb diversos Ensenyaments de Regim General
+Centre Docent Privat Estranger a Espanya
+Centre Privat de Formació Professional Específica
+Centre Privat d'Educació Especial
+Col.legi Públic d'Educació Primària
+Conservatori Professional de Música
+Aula Hospitalaria
+Centre Privat d'Arts Plástiques i Disseny
+Centre Privat de Grau Elemental de Música i de Dansa
+Centre Privat d'Educació de Persones Adultes (Presencial)
+Centre Privat d'Educació Primària
+Centro Docente Extranjero de Enseñanzas Profesionales de Diseño
+Centro Privado Autorizado Elemental de Danza
+Centro Privado de Preescolar
+Escola Privada de Música i/o Dansa
+Escola Superior de Disseny
+Centre Privat de Grau Elemental de Música
+Centro Privado Integrado de Música y Enseñanzas de Régimen General
+Centro Público Integrado de Música y Enseñanzas de Régimen General
+Centro Privado Docente Extranjero para Alumnado Español y Extranjero
+Centro de Educación Obligatoria
+Centro de Educación de Personas Adultas
+Centro Privado Docente Extranjero para Alumnado Extranjero
+Centro Privado de Formación Profesional
+Conservatorio Insular de Música de Grado Elemental
+Instituto de Formación Profesional Marítimo Pesquera
+Instituto de Formación Profesional Agraria
+Centro Autorizado de Música de Grados Elemental y Medio
+Centro Autorizado Superior de Arte dramático
+Centro de Educación a Distancia
+Escuela de Arte y Superior de Diseño
+Centro Privado de Educación Infantil y Secundaria
+Centro Autorizado de Música de Grado Elemental
+Escuela Pública de Danza
+Centro Autorizado de Danza de Grado Elemental
+Centro Privado de Educación Infantil, Primaria y ESO
+Escuela Privada de Danza
+Colegio de Educación Obligatoria
+Colegio de Educación Infantil, Primaria y Secundaria
+Centro Autorizado de Enseñanzas Artísticas Profesionales de Danza
+Centro Docente Privado de Educación de Adultos
+Centro Privado Autorizado de Artes Plásticas y Diseño
+Centro Privado de Educación Primaria y ESO
+Centro privado autorizado de enseñanzas deportivas de fútbol
+Escuela de Música
+Escuela de Arte y Superior de Diseño y Conservación y Restauración de Bienes Culturales
+Colegio de Educación Infantil Primaria y Primer Ciclo de ESO
+Centro Privado Autorizado de Enseñanzas Deportivas de Invierno
+Escuela de Arte y Superior de Conservación y Restauración de Bienes Culturales
+Centro Privado Autorizado Superior del Vidrio
+Escuela de Música y Danza
+Centro Privado Autorizado de Enseñanzas Deportivas de Hípica
+Escuela de Danza
+Centro Autorizado Superior de Arte Dramático
+Instituto de Formación Profesional
+Escuela Superior de Conservación y Restauración de Bienes Culturales, Diseño y Cerámica
+Col·legi d'Educació Especial
+Escola Oficial d'Idiomes
+Aula de Formació d'adults
+Centre de Formació d'Adults
+Escola d'Arts
+Escola Superior de Conservació i Restauració de Béns Culturals
+Institut d'Educació Secundària i Artística
+Centre de Formació de Tècnics d'Esport
+Secció d'Educació Secundària
+Col·legi d'Educació Infantil i Primària
+Escola de Capacitació Agrària
+Escola de Formació de Tècnics d'Esport
+Centro de Formación Profesional Especial
+Conservatorio Elemental de Danza
+Conservatorio Municipal Elemental de Música
+Instituto de Bachillerato
+Centro Privado
+Colexio de Educación Infantil e Primaria
+Instituto de Educación Secundaria (IES)
+Colexio de Educación Especial
+Colexio de Educación Primaria
+Centro Integrado de Formación Profesional
+Centro Privado Autorizado de Artes Plásticas e Deseño
+Centro Público
+Centro Público de Educación de Persoas Adultas
+Escola Oficial de Idiomas
+Escola Privada de Música
+Escola Pública de Música
+Escola de Educación Infantil
+Escuela Naútico Pesquera
+Escola de Capacitación Agraria
+Escuelas Familiares Agrarias
+Centro Privado de Educación de Persoas Adultas
+Escola Pública de Danza
+Escola Privada de Danza
+Instituto Gallego de Formación Acuícola
+Centro Privado de Bachillerato
+Escuela de Educación Infantil, Casa de Niños
+Centro de Educación de Personas Adultas en Establecimientos Penitenciarios
+Escuela Municipal de Educación de Personas Adultas
+Unidad de Formación e Inserción Laboral
+Centro Privado Autorizado Superior de Danza
+Centro Autorizado Profesional de Música y Danza
+Centro Integrado de Enseñanzas Artísticas Profesionales de Música y de Educación Secundaria
+Centro Privado Autorizado Superior de Música
+Centro Regional de Enseñanzas Integradas
+Escuela Superior de Canto
+Centro Privado de Educación Infantil, Primaria, Secundaria y Educación Especial
+Centro Privado Concertado de Educación Infantil, Primaria, Secundaria y Educación Especial
+Centro Público de Educación Infantil y Básica
+Centro Integrado de Formación y Experiencias Agrarias
+Colegio Público de Educación Infantil y Primaria/Haur eta Lehen Hezkuntzako Ikastetxe Publikoa
+Centro Integrado Politécnico
+Instituto de Educación Secundaria/Bigarren Hezkuntzako Institutua
+Instituto de Educación Secundaria Obligatoria/Derrigorrezko Bigarren Hezkuntzako Institutua
+Centro Integrado
+Centro Integrado Superior de Energías Renovables
+Centro Integrado Politécnico/Ikastetxe Integratu Politeknikoa
+Centro Integrado en Administración, Comercio e Informática
+Centro Integrado Privado
+Colegio Rural Agrupado de Ed. Inf. y Primaria/Haur eta Lehen Hezkuntzako Herri Ikastetxe Bateratua
+Centro Docente Público de Formación Básica de Personas Adultas
+Centro Privado de Educación Infantil de Primer Ciclo
+Escuela Infantil de Primer Ciclo
+Centro Docente Privado de Formación Básica de Personas Adultas
+Centro Privado de Párvulos
+Centro Privado de Párvulos y Primaria
+Escuela Superior de Cerámica
+Centro Privado de Jardín de Infancia
+Escuela de Arte y Superior de Cerámica
+Escuela de Viticultura y Enología
+Centro Autorizado de Enseñanzas Artísticas Profesionales de Artes Plásticas y Diseño
+PARTZUERGOKO HAUR ESKOLA
+Instituto Municipal de Formación Profesional Básica
+ARTE DRAMATIKO ETA DANTZA GOI ESKOLA
+Centro Autorizado de Música Elemental
+HAUR-ESKOLA PRIBATUA

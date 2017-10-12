@@ -56,7 +56,7 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
             $type[$data[2]]++;
         }
 
-        createGuarderia($data);
+//        createGuarderia($data);
 
 //        if ($row == 1000) {
 //            break;
@@ -77,9 +77,9 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
 //var_dump($type2);
 //echo $row;
 
-//foreach ($provinceList as $province) {
-//    createProvince($province);
-//}
+foreach ($provinceList as $province) {
+    createProvince($province);
+}
 
 foreach ($locationList as $location) {
     createLocation($location);
