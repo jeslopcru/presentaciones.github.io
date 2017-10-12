@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="home">
+
+    <h1 class="page-heading">Elige la provincia donde quieres buscar la guardería</h1>
+
+    {{ content }}
+
+    <ul class="post-list">
+        {% assign tutorials = (site.posts | where: "categories" , "provincia") %}
+        {% for post in tutorials %}
+        <li>
+            <h2>
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.name | escape }}</a>
+            </h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+                <img src="{{ site.url }}/img/{{ post.img }}" alt="{{ post.title | escape }}">
+            </a>
+
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

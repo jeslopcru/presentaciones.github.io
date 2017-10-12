@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="home">
+
+    <h1 class="page-heading">Las mejores guarderías de {{ page.name }}</h1>
+
+    {{ content }}
+
+    <div class="row mb-3">
+        {% assign tutorials = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug) %}
+        {% for post in tutorials reversed %}
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-3">
+            <div class="card bg-primary text-center border-light">
+                <div class="card-body text-light">
+                    <a href="{{ site.url }}{{ post.url }}" class="btn-info">
+                        <h2 class="card-title">{{ post.name }}</h2>
+                    </a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="bg-success text-white">
+        <h2>Listado de localidades de {{ page.name }}</h2>
+        <div class="row">
+            {% assign tutorials = (site.posts | where: "categories" , "localidad" | where: "categories" , page.slug) %}
+            {% for post in tutorials reversed %}
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-3">
+                <a class="btn-info" href="{{ post.url | relative_url }}">
+                    <h3 class="text-sm">Guarderías en {{ post.name | escape }}</h3>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div class="home">
+    <h1 class="page-heading">Busca tu centro educativo</h1>
+    <div class="row">
+        <div class="col-12">
+            <label for="province-select">Example select</label>
+            <select class="form-control form-control-lg" id="province-select">
+                <option>Selecciona una provincia</option>
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <label for="location-select">Example select</label>
+            <select class="form-control form-control-lg" id="location-select">
+                <option>Selecciona una localidad</option>
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 mt-4">
+            <a class="btn btn-primary btn-block" href="#" role="button" id="search-button">Buscar</a>
+        </div>
+    </div>
+
+    <ul class="post-list">
+        {% assign tutorials = (site.posts | where: "categories", "provincia") %}
+        {% for post in tutorials reversed %}
+        <li>
+            <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.name | escape }}</a>
+            </h3>
+        </li>
+        {% endfor %}
+    </ul>
+
+    {{ content }}
+</div>
