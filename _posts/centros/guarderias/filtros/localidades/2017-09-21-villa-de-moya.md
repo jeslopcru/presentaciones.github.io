@@ -1,0 +1,12 @@
+---
+layout: centre
+title: "Guarderías en Villa De Moya"
+date: 2017-09-20 20:57:05 +0200
+categories:
+- localidad
+- villa-de-moya
+- las-palmas
+name: "Villa De Moya"
+slug: "villa-de-moya"
+permalink: /guarderias-en-villa-de-moya/
+---
