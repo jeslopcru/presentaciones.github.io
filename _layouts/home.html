@@ -25,16 +25,19 @@ layout: default
         </div>
     </div>
 
-    <ul class="post-list">
-        {% assign tutorials = (site.posts | where: "categories", "provincia") %}
-        {% for post in tutorials reversed %}
-        <li>
-            <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.name | escape }}</a>
-            </h3>
-        </li>
-        {% endfor %}
-    </ul>
+    <div class="bg-success text-white">
+        <h2>Listado de provincias</h2>
+        <div class="row">
+            {% assign tutorials = (site.posts | where: "categories", "provincia") %}
+            {% for post in tutorials reversed %}
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-3">
+                <a class="btn-info" href="{{ post.url | relative_url }}">
+                    <h3 class="text-sm">Guarderías en {{ post.name | escape }}</h3>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
 
     {{ content }}
 </div>
