@@ -1,5 +1,7 @@
 @charset "utf-8";
 
+$myg-native-select__padding: 1rem;
+
 body {
   margin: 0;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -22,6 +24,7 @@ html, body, main,
   flex-wrap: wrap;
   .page-heading {
     flex: 0 0 100%;
+    text-align: center;
   }
   .page-form {
     flex: 0 0 100%;
@@ -127,11 +130,9 @@ html, body, main,
   background-color: lighten(#f44336, 2);
 }
 
-$myg-native-select__padding: 1rem;
-
 .myg-native-select {
   position: relative;
-  margin: 1rem;
+  margin: 1rem 0;
 }
 
 .myg-native-select__select {
@@ -145,14 +146,13 @@ $myg-native-select__padding: 1rem;
   font-family: Roboto;
   font-size: 14px;
   padding: $myg-native-select__padding 3rem $myg-native-select__padding $myg-native-select__padding;
-
   outline: none;
   text-overflow: ellipsis;
-
   -webkit-appearance: button;
-  -moz-appearance:none
+  -moz-appearance:none;
+
   &::-ms-expand {
-    display: none; /* hide the default arrow in ie10 and ie11 */
+    display: none;
   }
 
   &:focus {
