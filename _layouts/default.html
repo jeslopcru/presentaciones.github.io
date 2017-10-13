@@ -7,6 +7,11 @@ layout: compress
     {% include head.html %}
 
 <style>
+    html, body, main,
+    .wrapper, .home, .first-content{
+        width: auto;
+        height: 100%;
+    }
     .text-sm{
         font-size: 1rem;
     }
@@ -15,7 +20,7 @@ layout: compress
     {% if jekyll.environment == 'production' %}
     {% endif %}
 
-    {% include header.html %}
+    <!--{% include header.html %}-->
 
     <main class="page-content container" aria-label="Content">
         <div class="wrapper">
