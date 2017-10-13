@@ -41,13 +41,13 @@ html, body, main,
     justify-content: space-between;
     flex-wrap: wrap;
     .list-item {
-      flex: 0 0 45%;
+      flex: 0 0 32%;
     }
   }
 }
 
 .text-sm{
-  font-size: 1rem;
+  font-size: .7rem;
 }
 
 .bt {
@@ -198,16 +198,20 @@ $myg-native-select__padding: 1rem;
   background: #fff;
   box-shadow: 0 1px 2px #999;
   font-family: sans-serif;
-  line-height: 30px;
-  list-style: none;
-  margin: 10px 0;
-  //padding: 20px 10px;
+  margin: 5px 0;
   text-align: center;
-  transform: translateZ(0);
   transition: box-shadow 0.25s ease-in;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   &:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     cursor: pointer;
+  }
+
+  a{
+    text-decoration: inherit;
+    color: inherit;
   }
 }
