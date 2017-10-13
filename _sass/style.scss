@@ -1,0 +1,213 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+}
+
+html, body, main,
+.wrapper, .home, .first-content{
+  width: auto;
+  height: 100%;
+}
+
+.first-content {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  .page-heading {
+    flex: 0 0 100%;
+  }
+  .page-form {
+    flex: 0 0 100%;
+  }
+}
+
+.second-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  h2 {
+    flex: 0 0 100%;
+  }
+  .list {
+    flex: 0 0 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    .list-item {
+      flex: 0 0 45%;
+    }
+  }
+}
+
+.text-sm{
+  font-size: 1rem;
+}
+
+.bt {
+  font-family: 'Ubuntu', sans-serif;
+  display: block;
+  padding: 0 20px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 4px;
+  color: #FFF;
+  border: 0;
+  outline: 0;
+  text-align: center;
+  transition: .2s ease-out;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-transform: uppercase;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+}
+
+.bt:hover {
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 7px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -1px rgba(0, 0, 0, 0.2);
+}
+
+.bt:before {
+  content: "";
+  position: absolute;
+  display: inline-block;
+  vertical-align: middle;
+  z-index: 1;
+  will-change: opacity, transform;
+  background-color: rgba(236, 240, 241, .3);
+  top: 50%;
+  left: 50%;
+  border-radius: 100%;
+  width: 0;
+  padding-top: 0;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+}
+
+.bt:active:before {
+  width: 120%;
+  padding-top: 120%;
+  transition: width .2s ease-out, padding-top .2s ease-out;
+}
+
+.default {
+  background-color: #009688;
+}
+
+.default:hover {
+  background-color: lighten(#009688, 2);
+}
+
+.one {
+  background-color: #2ecc71;
+}
+
+.one:hover {
+  background-color: lighten(#2ecc71, 2);
+}
+
+.two {
+  background-color: #f44336;
+}
+
+.two:hover {
+  background-color: lighten(#f44336, 2);
+}
+
+$myg-native-select__padding: 1rem;
+
+.myg-native-select {
+  position: relative;
+  margin: 1rem;
+}
+
+.myg-native-select__select {
+  width: 100%;
+  min-height: 48px;
+  display: block;
+  border: 0;
+  border: 1px solid rgba(0,0,0,0.12);
+  background-color: white;
+  border-radius: 0;
+  font-family: Roboto;
+  font-size: 14px;
+  padding: $myg-native-select__padding 3rem $myg-native-select__padding $myg-native-select__padding;
+
+  outline: none;
+  text-overflow: ellipsis;
+
+  -webkit-appearance: button;
+  -moz-appearance:none
+  &::-ms-expand {
+    display: none; /* hide the default arrow in ie10 and ie11 */
+  }
+
+  &:focus {
+    border: 1px solid #c0ffee;
+  }
+
+  .myg-native-select--with-icon & {
+    padding-left: 3rem;
+  }
+}
+
+.myg-native-select .material-icons {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  user-select: none;
+  cursor: pointer;
+  pointer-events: none;
+}
+
+.myg-native-select__icon {
+  left: $myg-native-select__padding;
+}
+.myg-native-select__arrow {
+  right: $myg-native-select__padding;
+}
+
+.test-holder {
+  width: 350px;
+  padding: 20px;
+}
+
+.second-content {
+  width: auto;
+  margin: auto;
+  .list {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.list-item {
+  background: #fff;
+  box-shadow: 0 1px 2px #999;
+  font-family: sans-serif;
+  line-height: 30px;
+  list-style: none;
+  margin: 10px 0;
+  //padding: 20px 10px;
+  text-align: center;
+  transform: translateZ(0);
+  transition: box-shadow 0.25s ease-in;
+
+  &:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+}

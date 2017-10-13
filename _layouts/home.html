@@ -2,36 +2,36 @@
 layout: default
 ---
 <div class="home">
-    <div class="first-content d-flex align-content-center flex-wrap">
-        <h1 class="page-heading col-12">Busca tu centro educativo</h1>
-        <div class="page-form col-12">
+    <div class="first-content">
+        <h1 class="page-heading">Busca tu centro educativo</h1>
+        <div class="page-form">
             <div class="row mt-4">
-                <div class="col-12">
-                    <select class="form-control form-control-lg" id="province-select">
+                <div class="myg-native-select">
+                    <select class="myg-native-select__select" id="province-select">
                         <option>Selecciona una provincia</option>
                     </select>
                 </div>
             </div>
             <div class="row mt-4">
-                <div class="col-12">
-                    <select class="form-control form-control-lg" id="location-select">
+                <div class="myg-native-select">
+                    <select class="myg-native-select__select" id="location-select">
                         <option>Selecciona una localidad</option>
                     </select>
                 </div>
             </div>
             <div class="row mt-4">
                 <div class="col-12">
-                    <a class="btn btn-primary btn-block" href="#" role="button" id="search-button">Buscar</a>
+                    <a class="bt default" href="#" role="button" id="search-button">Buscar</a>
                 </div>
             </div>
         </div>
     </div>
-    <div class="bg-success text-white">
+    <div class="second-content">
         <h2>Busca tu centro por provincia</h2>
-        <div class="row">
+        <div class="list">
             {% assign tutorials = (site.posts | where: "categories", "provincia") %}
             {% for post in tutorials reversed %}
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-3">
+            <div class="list-item">
                 <a class="btn-info" href="{{ post.url | relative_url }}">
                     <h3 class="text-sm">{{ post.name | escape }}</h3>
                 </a>
@@ -39,6 +39,5 @@ layout: default
             {% endfor %}
         </div>
     </div>
-
     {{ content }}
 </div>

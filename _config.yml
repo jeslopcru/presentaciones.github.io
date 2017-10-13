@@ -24,6 +24,10 @@ url: "https://presentaciones.github.io" # the base hostname & protocol for your 
 twitter_username: jekyllrb
 github_username:  jekyll
 
+sass:
+  style: compressed
+
+
 # Build settings
 markdown: kramdown
 theme: minima
