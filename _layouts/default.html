@@ -24,6 +24,44 @@ layout: compress
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--<link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">-->
     <script defer src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
-    <script defer src="{{ site.url }}/js/function.js"></script>
+    <!--<script defer src="{{ site.url }}/js/function.js"></script>-->
+    <script>
+        (function () {
+            $('#province-select').change(function () {
+                $('#location-select').empty();
+                $('#location-select').append($('<option>', {
+                    text: 'Selecciona una localidad'
+                }));
+                var value = this.value;
+                $.getJSON("provinceList.json", function (data) {
+                    $.each(data[value].provinceList, function (index, value) {
+                        $('#location-select').append($('<option>', {
+                            value: index,
+                            text: value.name
+                        }));
+                    });
+                }.bind(value));
+            });
+
+            $('#location-select').change(function () {
+                $('#search-button').attr('href', '/guarderias-en-' + this.value + '/');
+            });
+
+            if ($('#province-select').length) {
+                $.getJSON("provinceList.json", function (data) {
+                    $('#province-select').empty();
+                    $('#province-select').append($('<option>', {
+                        text: 'Selecciona una provincia'
+                    }));
+                    $.each(data, function (index, value) {
+                        $('#province-select').append($('<option>', {
+                            value: index,
+                            text: value.name
+                        }));
+                    });
+                });
+            }
+        })();
+    </script>
     </body>
 </html>
