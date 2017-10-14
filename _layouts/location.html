@@ -2,37 +2,55 @@
 layout: default
 ---
 <div class="home">
-
-    <h1 class="page-heading">Las mejores guarderías de {{ page.name }}</h1>
-
-    {{ content }}
-
-    <div class="row mb-3">
-        {% assign tutorials = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug) %}
-        {% for post in tutorials reversed %}
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-3">
-            <div class="card bg-primary text-center border-light">
-                <div class="card-body text-light">
-                    <a href="{{ site.url }}{{ post.url }}" class="btn-info">
-                        <h2 class="card-title">{{ post.name }}</h2>
+    <div class="first-content">
+        <h1 class="page-heading">Las mejores guarderías de {{ page.name }}</h1>
+        <div class="list-card">
+            {% assign tutorials = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug) %}
+            {% for post in tutorials reversed %}
+            <div class="card">
+                <a class="card-image" href="{{ site.url }}{{ post.url }}">
+                    <!--<img src="http://pipsum.com/400x180.jpg" class="activator" />-->
+                    <img src="{{ site.url }}/img/guarderia.jpg" class="activator" />
+                </a>
+                <div class="card-content ">
+                    <a href="{{ site.url }}{{ post.url }}"><h2 class="card-title">{{ post.name }}</h2></a>
+                </div>
+                <div class="entry-meta">
+                    <a href="{{ site.url }}{{ post.url }}" class="btn-floating btn-read-more">
+                        <i class="material-icons">chevron_right</i>
                     </a>
                 </div>
             </div>
+            {% endfor %}
         </div>
-        {% endfor %}
+        <!--<div class="row mb-3">-->
+            <!--{% assign tutorials = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug) %}-->
+            <!--{% for post in tutorials reversed %}-->
+            <!--<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-3">-->
+                <!--<div class="card bg-primary text-center border-light">-->
+                    <!--<div class="card-body text-light">-->
+                        <!--<a href="{{ site.url }}{{ post.url }}" class="btn-info">-->
+                            <!--<h2 class="card-title">{{ post.name }}</h2>-->
+                        <!--</a>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+            <!--{% endfor %}-->
+        <!--</div>-->
     </div>
 
-    <div class="bg-success text-white">
+    <div class="second-content">
         <h2>Listado de localidades de {{ page.name }}</h2>
-        <div class="row">
+        <div class="list">
             {% assign tutorials = (site.posts | where: "categories" , "localidad" | where: "categories" , page.slug) %}
             {% for post in tutorials reversed %}
-            <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 mb-3">
+            <div class="list-item">
                 <a class="btn-info" href="{{ post.url | relative_url }}">
-                    <h3 class="text-sm">Guarderías en {{ post.name | escape }}</h3>
+                    <h3 class="text-sm">{{ post.name | escape }}</h3>
                 </a>
             </div>
             {% endfor %}
         </div>
     </div>
+    {{ content }}
 </div>

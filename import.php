@@ -58,9 +58,9 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
 
         createGuarderia($data);
 
-//        if ($row == 1000) {
-//            break;
-//        }
+        if ($row == 1000) {
+            break;
+        }
     }
     fclose($handle);
 }
@@ -132,6 +132,9 @@ function createGuarderia(array $data)
 //    }
 
     $fileName = '_posts/centros/guarderias/centros/2017-09-21-' . $data[4] . '.md';
+    if(file_exists($fileName)) {
+        unlink($fileName);
+    }
     $title = ucwords(str_replace('"', "", $data[3]));
     $permalink = '/guarderias/' . $data[6] . '.html';
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
@@ -171,7 +174,7 @@ function createProvince(array $province)
 {
     $fileName = '_posts/centros/guarderias/filtros/provincias/2017-09-21-' . $province['slug'] . '.md';
     if(file_exists($fileName)) {
-        return;
+        unlink($fileName);
     }
     $title = ucwords(str_replace('"', "", $province['name']));
     $permalink = '/guarderias-en-' . $province['slug'] . '/';
@@ -196,7 +199,7 @@ function createLocation(array $location)
 
     $fileName = '_posts/centros/guarderias/filtros/localidades/2017-09-21-' . $location['slug'] . '.md';
     if(file_exists($fileName)) {
-        return;
+        unlink($fileName);
     }
     $title = ucwords(str_replace('"', "", $location['name']));
     $permalink = '/guarderias-en-' . $location['slug'] . '/';
