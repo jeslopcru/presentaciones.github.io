@@ -56,7 +56,7 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
             $type[$data[2]]++;
         }
 
-//        createGuarderia($data);
+        createGuarderia($data);
 
 //        if ($row == 1000) {
 //            break;
@@ -78,7 +78,7 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
 //echo $row;
 
 foreach ($provinceList as $province) {
-    createProvince($province);
+//    createProvince($province);
 }
 
 foreach ($locationList as $location) {
@@ -87,28 +87,32 @@ foreach ($locationList as $location) {
 
 
 foreach ($type as $key => $t) {
-    file_put_contents('type.txt', $key . "\n", FILE_APPEND);
+//    file_put_contents('type.txt', $key . "\n", FILE_APPEND);
 }
 
 function getTypeCenter($type)
 {
-    $guarderia = ['Colegio de Educación Infantil y Primaria',
-        'Centro Privado de Educación Infantil Primaria y Secundaria',
-        'Centro Privado de Educación Infantil y Primaria',
-        'Centro Privado de Educación Infantil y Secundaria',
-        'Centro Privado de Educación Infantil, Primaria y ESO',
-        'Colegio de Educación Infantil, Primaria y Secundaria',
-        'Colegio de Educación Infantil Primaria y Primer Ciclo de ESO',
-        'Colexio de Educación Infantil e Primaria',
-        'Escuela de Educación Infantil, Casa de Niños',
-        'Centro Privado de Educación Infantil, Primaria, Secundaria y Educación Especial',
-        'Centro Privado Concertado de Educación Infantil, Primaria, Secundaria y Educación Especial',
-        'Centro Público de Educación Infantil y Básica',
-        'Colegio Público de Educación Infantil y Primaria/Haur eta Lehen Hezkuntzako Ikastetxe Publikoa',
-        'Centro Privado de Educación Infantil de Primer Ciclo',
-        'Colegio de Educación Infantil y Primaria',
-        'Colegio de Educación Infantil y Primaria',
-        'Colegio de Educación Infantil y Primaria'];
+    $guarderia = [
+//        'Colegio de Educación Infantil y Primaria',
+//        'Centro Privado de Educación Infantil Primaria y Secundaria',
+//        'Centro Privado de Educación Infantil y Primaria',
+//        'Centro Privado de Educación Infantil y Secundaria',
+//        'Centro Privado de Educación Infantil, Primaria y ESO',
+//        'Colegio de Educación Infantil, Primaria y Secundaria',
+//        'Colegio de Educación Infantil Primaria y Primer Ciclo de ESO',
+//        'Colexio de Educación Infantil e Primaria',
+//        'Escuela de Educación Infantil, Casa de Niños',
+//        'Centro Privado de Educación Infantil, Primaria, Secundaria y Educación Especial',
+//        'Centro Privado Concertado de Educación Infantil, Primaria, Secundaria y Educación Especial',
+//        'Centro Público de Educación Infantil y Básica',
+//        'Colegio Público de Educación Infantil y Primaria/Haur eta Lehen Hezkuntzako Ikastetxe Publikoa',
+//        'Centro Privado de Educación Infantil de Primer Ciclo',
+//        'Colegio de Educación Infantil y Primaria',
+//        'Colegio de Educación Infantil y Primaria',
+//        'Colegio de Educación Infantil y Primaria',
+        'Centro Privado de Educación Infantil',
+        'Escuela Infantil',
+    ];
 
     if (array_search($type, $guarderia) !== false) {
         return 'guarderia';
@@ -122,6 +126,10 @@ function createGuarderia(array $data)
     if (getTypeCenter($data[2]) !== 'guarderia') {
         return;
     }
+
+//    if($data[1] != 'Torrejon de Ardoz') {
+//        return;
+//    }
 
     $fileName = '_posts/centros/guarderias/centros/2017-09-21-' . $data[4] . '.md';
     $title = ucwords(str_replace('"', "", $data[3]));
@@ -165,6 +173,10 @@ function createProvince(array $province)
 
 function createLocation(array $location)
 {
+//    if($location['name'] != 'Torrejon de Ardoz') {
+//        return;
+//    }
+
     $fileName = '_posts/centros/guarderias/filtros/localidades/2017-09-21-' . $location['slug'] . '.md';
     $title = ucwords(str_replace('"', "", $location['name']));
     $permalink = '/guarderias-en-' . $location['slug'] . '/';
