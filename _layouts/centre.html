@@ -4,7 +4,7 @@ layout: default
 <div class="home">
     <div class="first-content">
         <h1 class="page-heading">Las mejores guarderías de {{ page.name }}</h1>
-        {% assign listPost = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug) %}
+        {% assign listPost = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug | sort: 'name') %}
         {% include list-card.html list=listPost %}
     </div>
     <div class="second-content">
