@@ -2,25 +2,15 @@
 layout: default
 ---
 <div class="home">
-
-    <h1 class="page-heading">Elige la guardería</h1>
-
+    <div class="first-content">
+        <h1 class="page-heading">Las mejores guarderías de {{ page.name }}</h1>
+        {% assign listPost = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug) %}
+        {% include list-card.html list=listPost %}
+    </div>
+    <div class="second-content">
+        <h2>Otras localidades</h2>
+        {% assign listPost = (site.posts | where: "categories" , "localidad" | where: "categories" , page.slug-province) %}
+        {% include list-highlighted.html list=listPost %}
+    </div>
     {{ content }}
-
-    <ul class="post-list">
-        {% assign tutorials = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug) %}
-        {% for post in tutorials %}
-        <li>
-            <h2>
-                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.name | escape }}</a>
-            </h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-
-            </a>
-
-            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-        </li>
-        {% endfor %}
-    </ul>
 </div>

@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Laujar De Andarax"
 slug: "laujar-de-andarax"
+slug-province: "almeria"
 permalink: /guarderias-en-laujar-de-andarax/
 ---

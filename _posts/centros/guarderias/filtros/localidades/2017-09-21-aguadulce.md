@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Aguadulce"
 slug: "aguadulce"
+slug-province: "almeria"
 permalink: /guarderias-en-aguadulce/
 ---

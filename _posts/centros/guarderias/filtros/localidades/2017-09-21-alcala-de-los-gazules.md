@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Alcala De Los Gazules"
 slug: "alcala-de-los-gazules"
+slug-province: "cadiz"
 permalink: /guarderias-en-alcala-de-los-gazules/
 ---

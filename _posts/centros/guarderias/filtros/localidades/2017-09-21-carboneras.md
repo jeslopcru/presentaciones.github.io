@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Carboneras"
 slug: "carboneras"
+slug-province: "almeria"
 permalink: /guarderias-en-carboneras/
 ---

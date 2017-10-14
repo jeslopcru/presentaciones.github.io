@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "El Llano De Don Antonio"
 slug: "el-llano-de-don-antonio"
+slug-province: "almeria"
 permalink: /guarderias-en-el-llano-de-don-antonio/
 ---

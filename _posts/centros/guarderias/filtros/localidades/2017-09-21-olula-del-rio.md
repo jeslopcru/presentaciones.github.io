@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Olula Del Rio"
 slug: "olula-del-rio"
+slug-province: "almeria"
 permalink: /guarderias-en-olula-del-rio/
 ---

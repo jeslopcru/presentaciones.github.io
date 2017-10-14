@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Campohermoso"
 slug: "campohermoso"
+slug-province: "almeria"
 permalink: /guarderias-en-campohermoso/
 ---

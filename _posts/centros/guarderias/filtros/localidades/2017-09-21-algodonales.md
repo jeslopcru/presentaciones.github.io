@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Algodonales"
 slug: "algodonales"
+slug-province: "cadiz"
 permalink: /guarderias-en-algodonales/
 ---

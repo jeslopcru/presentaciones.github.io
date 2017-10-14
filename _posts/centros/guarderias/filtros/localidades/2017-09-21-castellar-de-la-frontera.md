@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Castellar De La Frontera"
 slug: "castellar-de-la-frontera"
+slug-province: "cadiz"
 permalink: /guarderias-en-castellar-de-la-frontera/
 ---

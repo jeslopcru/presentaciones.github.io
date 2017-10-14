@@ -30,16 +30,8 @@ layout: default
     </div>
     <div class="second-content">
         <h2>Busca tu centro por provincia</h2>
-        <div class="list">
-            {% assign tutorials = (site.posts | where: "categories", "provincia") %}
-            {% for post in tutorials reversed %}
-            <div class="list-item">
-                <a class="btn-info" href="{{ post.url | relative_url }}">
-                    <h3 class="text-sm">{{ post.name | escape }}</h3>
-                </a>
-            </div>
-            {% endfor %}
-        </div>
+        {% assign listPost = (site.posts | where: "categories", "provincia") %}
+        {% include list-highlighted.html list=listPost %}
     </div>
     {{ content }}
 </div>

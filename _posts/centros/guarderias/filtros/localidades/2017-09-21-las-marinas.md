@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Las Marinas"
 slug: "las-marinas"
+slug-province: "almeria"
 permalink: /guarderias-en-las-marinas/
 ---

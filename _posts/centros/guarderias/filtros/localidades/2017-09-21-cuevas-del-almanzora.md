@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Cuevas Del Almanzora"
 slug: "cuevas-del-almanzora"
+slug-province: "almeria"
 permalink: /guarderias-en-cuevas-del-almanzora/
 ---

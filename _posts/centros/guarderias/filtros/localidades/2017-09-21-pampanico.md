@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Pampanico"
 slug: "pampanico"
+slug-province: "almeria"
 permalink: /guarderias-en-pampanico/
 ---

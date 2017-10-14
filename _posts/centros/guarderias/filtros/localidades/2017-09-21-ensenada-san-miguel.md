@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Ensenada San Miguel"
 slug: "ensenada-san-miguel"
+slug-province: "almeria"
 permalink: /guarderias-en-ensenada-san-miguel/
 ---

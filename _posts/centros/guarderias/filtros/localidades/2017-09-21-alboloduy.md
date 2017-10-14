@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Alboloduy"
 slug: "alboloduy"
+slug-province: "almeria"
 permalink: /guarderias-en-alboloduy/
 ---

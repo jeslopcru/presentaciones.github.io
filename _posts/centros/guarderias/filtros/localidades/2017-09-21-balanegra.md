@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Balanegra"
 slug: "balanegra"
+slug-province: "almeria"
 permalink: /guarderias-en-balanegra/
 ---

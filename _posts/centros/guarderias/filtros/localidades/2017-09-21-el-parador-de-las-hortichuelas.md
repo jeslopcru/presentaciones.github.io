@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "El Parador De Las Hortichuelas"
 slug: "el-parador-de-las-hortichuelas"
+slug-province: "almeria"
 permalink: /guarderias-en-el-parador-de-las-hortichuelas/
 ---

@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Las Norias"
 slug: "las-norias"
+slug-province: "almeria"
 permalink: /guarderias-en-las-norias/
 ---

@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "San Agustin"
 slug: "san-agustin"
+slug-province: "almeria"
 permalink: /guarderias-en-san-agustin/
 ---

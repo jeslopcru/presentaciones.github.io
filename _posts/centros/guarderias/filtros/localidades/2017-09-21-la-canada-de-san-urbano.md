@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "La Cañada De San Urbano"
 slug: "la-canada-de-san-urbano"
+slug-province: "almeria"
 permalink: /guarderias-en-la-canada-de-san-urbano/
 ---

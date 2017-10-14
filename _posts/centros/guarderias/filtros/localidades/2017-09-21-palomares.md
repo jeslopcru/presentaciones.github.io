@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Palomares"
 slug: "palomares"
+slug-province: "almeria"
 permalink: /guarderias-en-palomares/
 ---

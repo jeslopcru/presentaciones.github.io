@@ -213,6 +213,7 @@ function createLocation(array $location)
     file_put_contents($fileName, "" . '- ' . $location['province'] . "\n", FILE_APPEND);
     file_put_contents($fileName, 'name: "' . $title . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'slug: "' . $location['slug'] . "\"\n", FILE_APPEND);
+    file_put_contents($fileName, 'slug-province: "' . $location['province'] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'permalink: ' . $permalink . "\n", FILE_APPEND);
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
 }

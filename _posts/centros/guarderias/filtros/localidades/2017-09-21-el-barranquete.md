@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "El Barranquete"
 slug: "el-barranquete"
+slug-province: "almeria"
 permalink: /guarderias-en-el-barranquete/
 ---

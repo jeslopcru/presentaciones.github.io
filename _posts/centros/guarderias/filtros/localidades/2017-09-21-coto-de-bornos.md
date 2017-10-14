@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Coto De Bornos"
 slug: "coto-de-bornos"
+slug-province: "cadiz"
 permalink: /guarderias-en-coto-de-bornos/
 ---

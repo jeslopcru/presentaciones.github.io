@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Matagorda"
 slug: "matagorda"
+slug-province: "almeria"
 permalink: /guarderias-en-matagorda/
 ---

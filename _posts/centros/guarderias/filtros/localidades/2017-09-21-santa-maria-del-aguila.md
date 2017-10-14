@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Santa Maria Del Aguila"
 slug: "santa-maria-del-aguila"
+slug-province: "almeria"
 permalink: /guarderias-en-santa-maria-del-aguila/
 ---

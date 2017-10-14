@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Algeciras"
 slug: "algeciras"
+slug-province: "cadiz"
 permalink: /guarderias-en-algeciras/
 ---

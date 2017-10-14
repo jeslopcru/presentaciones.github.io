@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "San Isidro De Nijar"
 slug: "san-isidro-de-nijar"
+slug-province: "almeria"
 permalink: /guarderias-en-san-isidro-de-nijar/
 ---

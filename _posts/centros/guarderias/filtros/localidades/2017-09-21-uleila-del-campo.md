@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Uleila Del Campo"
 slug: "uleila-del-campo"
+slug-province: "almeria"
 permalink: /guarderias-en-uleila-del-campo/
 ---

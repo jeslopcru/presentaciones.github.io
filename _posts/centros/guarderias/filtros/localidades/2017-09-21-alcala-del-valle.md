@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Alcala Del Valle"
 slug: "alcala-del-valle"
+slug-province: "cadiz"
 permalink: /guarderias-en-alcala-del-valle/
 ---

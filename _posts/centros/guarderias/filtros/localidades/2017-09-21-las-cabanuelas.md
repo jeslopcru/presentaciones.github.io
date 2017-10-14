@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Las Cabañuelas"
 slug: "las-cabanuelas"
+slug-province: "almeria"
 permalink: /guarderias-en-las-cabanuelas/
 ---

@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Llanos De Vicar"
 slug: "llanos-de-vicar"
+slug-province: "almeria"
 permalink: /guarderias-en-llanos-de-vicar/
 ---

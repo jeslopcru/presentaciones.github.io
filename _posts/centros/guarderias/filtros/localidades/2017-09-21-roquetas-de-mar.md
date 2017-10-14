@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Roquetas De Mar"
 slug: "roquetas-de-mar"
+slug-province: "almeria"
 permalink: /guarderias-en-roquetas-de-mar/
 ---

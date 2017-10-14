@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Chiclana De La Frontera"
 slug: "chiclana-de-la-frontera"
+slug-province: "cadiz"
 permalink: /guarderias-en-chiclana-de-la-frontera/
 ---

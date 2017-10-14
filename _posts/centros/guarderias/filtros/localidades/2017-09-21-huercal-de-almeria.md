@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Huercal De Almeria"
 slug: "huercal-de-almeria"
+slug-province: "almeria"
 permalink: /guarderias-en-huercal-de-almeria/
 ---

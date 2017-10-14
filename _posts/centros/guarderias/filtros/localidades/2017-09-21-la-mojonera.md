@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "La Mojonera"
 slug: "la-mojonera"
+slug-province: "almeria"
 permalink: /guarderias-en-la-mojonera/
 ---

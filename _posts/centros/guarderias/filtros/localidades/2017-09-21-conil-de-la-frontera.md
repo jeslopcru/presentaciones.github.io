@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Conil De La Frontera"
 slug: "conil-de-la-frontera"
+slug-province: "cadiz"
 permalink: /guarderias-en-conil-de-la-frontera/
 ---

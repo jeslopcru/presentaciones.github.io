@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Velez-Rubio"
 slug: "velez-rubio"
+slug-province: "almeria"
 permalink: /guarderias-en-velez-rubio/
 ---

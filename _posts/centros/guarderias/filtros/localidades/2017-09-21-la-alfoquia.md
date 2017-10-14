@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "La Alfoquia"
 slug: "la-alfoquia"
+slug-province: "almeria"
 permalink: /guarderias-en-la-alfoquia/
 ---

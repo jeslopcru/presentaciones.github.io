@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Los Gallardos"
 slug: "los-gallardos"
+slug-province: "almeria"
 permalink: /guarderias-en-los-gallardos/
 ---

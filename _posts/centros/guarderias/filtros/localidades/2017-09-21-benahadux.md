@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Benahadux"
 slug: "benahadux"
+slug-province: "almeria"
 permalink: /guarderias-en-benahadux/
 ---

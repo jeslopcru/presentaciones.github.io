@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Alhama De Almeria"
 slug: "alhama-de-almeria"
+slug-province: "almeria"
 permalink: /guarderias-en-alhama-de-almeria/
 ---

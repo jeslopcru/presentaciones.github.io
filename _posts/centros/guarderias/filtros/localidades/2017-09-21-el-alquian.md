@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "El Alquian"
 slug: "el-alquian"
+slug-province: "almeria"
 permalink: /guarderias-en-el-alquian/
 ---

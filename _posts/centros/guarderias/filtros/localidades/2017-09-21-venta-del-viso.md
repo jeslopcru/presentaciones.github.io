@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Venta Del Viso"
 slug: "venta-del-viso"
+slug-province: "almeria"
 permalink: /guarderias-en-venta-del-viso/
 ---

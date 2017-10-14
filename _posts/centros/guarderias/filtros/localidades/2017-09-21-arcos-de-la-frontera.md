@@ -8,5 +8,6 @@ categories:
 - cadiz
 name: "Arcos De La Frontera"
 slug: "arcos-de-la-frontera"
+slug-province: "cadiz"
 permalink: /guarderias-en-arcos-de-la-frontera/
 ---

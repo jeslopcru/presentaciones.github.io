@@ -8,5 +8,6 @@ categories:
 - almeria
 name: "Puebla De Vicar"
 slug: "puebla-de-vicar"
+slug-province: "almeria"
 permalink: /guarderias-en-puebla-de-vicar/
 ---

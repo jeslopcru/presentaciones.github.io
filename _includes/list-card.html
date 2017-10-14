@@ -1,0 +1,18 @@
+<div class="list-card">
+    {% for post in include.list reversed %}
+    <div class="card">
+        <a class="card-image" href="{{ site.url }}{{ post.url }}">
+            <!--<img src="http://pipsum.com/400x180.jpg" class="activator" />-->
+            <img src="{{ site.url }}/img/guarderia.jpg" class="activator" />
+        </a>
+        <div class="card-content ">
+            <a href="{{ site.url }}{{ post.url }}"><h2 class="card-title">{{ post.name }}</h2></a>
+        </div>
+        <div class="entry-meta">
+            <a href="{{ site.url }}{{ post.url }}" class="btn-floating btn-read-more">
+                <i class="material-icons">chevron_right</i>
+            </a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
