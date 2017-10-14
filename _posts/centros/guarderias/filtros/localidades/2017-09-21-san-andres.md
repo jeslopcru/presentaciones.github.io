@@ -10,15 +10,3 @@ name: "San Andres"
 slug: "san-andres"
 permalink: /guarderias-en-san-andres/
 ---
----
-layout: centre
-title: "Guarderías en San Andres"
-date: 2017-09-20 20:57:05 +0200
-categories:
-- localidad
-- san-andres
-- cantabria
-name: "San Andres"
-slug: "san-andres"
-permalink: /guarderias-en-san-andres/
----

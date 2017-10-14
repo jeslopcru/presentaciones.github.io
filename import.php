@@ -82,7 +82,7 @@ foreach ($provinceList as $province) {
 }
 
 foreach ($locationList as $location) {
-    createLocation($location);
+//    createLocation($location);
 }
 
 
@@ -151,11 +151,28 @@ function createGuarderia(array $data)
     file_put_contents($fileName, 'type: "' . $data[5] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'permalink: ' . $permalink . "\n", FILE_APPEND);
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
+
+    $province = [
+        'name' => $data[0],
+        'slug' => $data[7],
+    ];
+
+    $location = [
+        'province' => $data[7],
+        'name' => $data[1],
+        'slug' => $data[8],
+    ];
+
+    createProvince($province);
+    createLocation($location);
 }
 
 function createProvince(array $province)
 {
     $fileName = '_posts/centros/guarderias/filtros/provincias/2017-09-21-' . $province['slug'] . '.md';
+    if(file_exists($fileName)) {
+        return;
+    }
     $title = ucwords(str_replace('"', "", $province['name']));
     $permalink = '/guarderias-en-' . $province['slug'] . '/';
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
@@ -178,6 +195,9 @@ function createLocation(array $location)
 //    }
 
     $fileName = '_posts/centros/guarderias/filtros/localidades/2017-09-21-' . $location['slug'] . '.md';
+    if(file_exists($fileName)) {
+        return;
+    }
     $title = ucwords(str_replace('"', "", $location['name']));
     $permalink = '/guarderias-en-' . $location['slug'] . '/';
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
