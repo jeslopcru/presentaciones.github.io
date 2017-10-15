@@ -4,33 +4,11 @@ layout: default
 <div class="home full-height">
     <div class="first-content full-height">
         <h1 class="page-heading">Busca tu centro educativo</h1>
-        <div class="page-form">
-            <div class="row mt-4">
-                <div class="myg-native-select">
-                    <select class="myg-native-select__select" id="province-select">
-                        <option>Selecciona una provincia</option>
-                    </select>
-                    <i class="material-icons myg-native-select__arrow">arrow_drop_down</i>
-                </div>
-            </div>
-            <div class="row mt-4">
-                <div class="myg-native-select">
-                    <select class="myg-native-select__select" id="location-select">
-                        <option>Selecciona una localidad</option>
-                    </select>
-                    <i class="material-icons myg-native-select__arrow">arrow_drop_down</i>
-                </div>
-            </div>
-            <div class="row mt-4">
-                <div class="col-12">
-                    <a class="bt default" href="#" role="button" id="search-button">Buscar</a>
-                </div>
-            </div>
-        </div>
+        {% include searcher.html %}
     </div>
     <div class="second-content">
         <h2>Busca tu centro por provincia</h2>
-        {% assign listPost = (site.posts | where: "categories", "provincia") %}
+        {% assign listPost = (site.posts | where: "categories", "provincia" | revered) %}
         {% include list-highlighted.html list=listPost %}
     </div>
     {{ content }}
