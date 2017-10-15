@@ -3,7 +3,6 @@
 $myg-native-select__padding: 1rem;
 
 body {
-  margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 1rem;
   font-weight: 400;
@@ -11,6 +10,8 @@ body {
   color: #212529;
   background-color: #fff;
   padding: 0 5%;
+  max-width: 1280px;
+  margin: auto;
 }
 
 html, body, main,
@@ -235,18 +236,6 @@ html, body, main,
   justify-content: space-between;
   .card {
     flex: 0 0 100%;
-    @media screen and (min-width: 480px) {
-      flex: 0 0 48%;
-    }
-    @media screen and (min-width: 720px) {
-      flex: 0 0 32%;
-    }
-    @media screen and (min-width: 960px) {
-      flex: 0 0 24%;
-    }
-    @media screen and (min-width: 1200px) {
-      flex: 0 0 19%;
-    }
     position: relative;
     margin: 0 0 2em;
     background: #fff;
@@ -425,4 +414,28 @@ i.right {
 
 .card .card-action a:not(.btn):not(.btn-floating):hover {
   color: #ffd8a6;
+}
+
+.flex-sm-2{
+  @media screen and (min-width: 480px) {
+    flex: 0 0 48%;
+  }
+}
+
+.flex-md-3{
+  @media screen and (min-width: 720px) {
+    flex: 0 0 32%;
+  }
+}
+
+.flex-lg-4{
+  @media screen and (min-width: 960px) {
+    flex: 0 0 24%;
+  }
+}
+
+.flex-xl-5{
+  @media screen and (min-width: 1200px) {
+    flex: 0 0 19%;
+  }
 }

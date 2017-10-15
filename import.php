@@ -58,9 +58,9 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
 
         createGuarderia($data);
 
-//        if ($row == 1000) {
-//            break;
-//        }
+        if ($row == 1000) {
+            break;
+        }
     }
     fclose($handle);
 }
@@ -152,6 +152,7 @@ function createGuarderia(array $data)
     file_put_contents($fileName, 'location: "' . $data[1] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'code: "' . $data[4] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'type: "' . $data[5] . "\"\n", FILE_APPEND);
+    file_put_contents($fileName, 'img: guarderia.jpg' . "\n", FILE_APPEND);
     file_put_contents($fileName, 'permalink: ' . $permalink . "\n", FILE_APPEND);
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
 
