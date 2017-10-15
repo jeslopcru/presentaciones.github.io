@@ -418,24 +418,24 @@ i.right {
 
 .flex-sm-2{
   @media screen and (min-width: 480px) {
-    flex: 0 0 48%;
+    flex: 0 0 48% !important;
   }
 }
 
 .flex-md-3{
   @media screen and (min-width: 720px) {
-    flex: 0 0 32%;
+    flex: 0 0 32% !important;
   }
 }
 
 .flex-lg-4{
   @media screen and (min-width: 960px) {
-    flex: 0 0 24%;
+    flex: 0 0 24% !important;
   }
 }
 
 .flex-xl-5{
   @media screen and (min-width: 1200px) {
-    flex: 0 0 19%;
+    flex: 0 0 19% !important;
   }
 }

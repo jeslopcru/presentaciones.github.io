@@ -1,9 +1,11 @@
 <div class="list">
-    {% for post in include.list reversed %}
+    {% for post in include.list %}
+    {% if post.title != page.title %}
     <div class="list-item">
         <a class="btn-info" href="{{ post.url | relative_url }}">
             <h3 class="text-sm">{{ post.name | escape }}</h3>
         </a>
     </div>
+    {% endif %}
     {% endfor %}
 </div>
