@@ -18,5 +18,10 @@ layout: default
             </div>
         </div>
     </div>
+    <div class="second-content">
+        <h2>Más guarderías en {{ page.location }}</h2>
+        {% assign listPost = (site.posts | where: "categories", "guarderia" | where: "province", page.province | where: "location", page.location | sort: 'name' | limit: 6) %}
+        {% include list-highlighted.html list=listPost %}
+    </div>
     {{ content }}
 </div>
