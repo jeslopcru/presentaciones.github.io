@@ -19,20 +19,10 @@ if (($handle = fopen("centros2.tsv", "r")) !== FALSE) {
             continue;
         }
 
-        $locationJS[$data[7]] = [
-            'name' => $data[0],
-            'slug' => $data[7],
-        ];
-
         $locationJS[$data[7]]['name'] = $data[0];
         $locationJS[$data[7]]['slug'] = $data[7];
         $locationJS[$data[7]]['provinceList'][$data[8]]['name'] = $data[1];
         $locationJS[$data[7]]['provinceList'][$data[8]]['slug'] = $data[8];
-
-//        $provinceJS[$data[7]][$data[8]] = [
-//            'name' => $data[1],
-//            'slug' => $data[8],
-//        ];
 
         $locationJS[$data[7]]['provinceList'][$data[8]] = [
             'name' => $data[1],
@@ -69,47 +59,9 @@ if (($handle = fopen("centros2.tsv", "r")) !== FALSE) {
 //ksort($locationJS);
 //file_put_contents('provinceList.json', json_encode($locationJS));
 
-////echo json_encode($provinceJS);
-//die();
-
-//var_dump($location);
-//var_dump($type);
-//var_dump($type2);
-//echo $row;
-
-foreach ($provinceList as $province) {
-//    createProvince($province);
-}
-
-foreach ($locationList as $location) {
-//    createLocation($location);
-}
-
-
-foreach ($type as $key => $t) {
-//    file_put_contents('type.txt', $key . "\n", FILE_APPEND);
-}
-
 function getTypeCenter($type)
 {
     $guarderia = [
-//        'Colegio de Educación Infantil y Primaria',
-//        'Centro Privado de Educación Infantil Primaria y Secundaria',
-//        'Centro Privado de Educación Infantil y Primaria',
-//        'Centro Privado de Educación Infantil y Secundaria',
-//        'Centro Privado de Educación Infantil, Primaria y ESO',
-//        'Colegio de Educación Infantil, Primaria y Secundaria',
-//        'Colegio de Educación Infantil Primaria y Primer Ciclo de ESO',
-//        'Colexio de Educación Infantil e Primaria',
-//        'Escuela de Educación Infantil, Casa de Niños',
-//        'Centro Privado de Educación Infantil, Primaria, Secundaria y Educación Especial',
-//        'Centro Privado Concertado de Educación Infantil, Primaria, Secundaria y Educación Especial',
-//        'Centro Público de Educación Infantil y Básica',
-//        'Colegio Público de Educación Infantil y Primaria/Haur eta Lehen Hezkuntzako Ikastetxe Publikoa',
-//        'Centro Privado de Educación Infantil de Primer Ciclo',
-//        'Colegio de Educación Infantil y Primaria',
-//        'Colegio de Educación Infantil y Primaria',
-//        'Colegio de Educación Infantil y Primaria',
         'Centro Privado de Educación Infantil',
         'Escuela Infantil',
     ];
