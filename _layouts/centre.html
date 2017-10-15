@@ -9,7 +9,7 @@ layout: default
     </div>
     <div class="second-content">
         <h2>Otras localidades</h2>
-        {% assign listPost = (site.posts | where: "categories" , "localidad" | where: "categories" , page.slug-province | sort: 'name' | reverse) %}
+        {% assign listPost = (site.posts | where: "categories" , "localidad" | where: "categories" , page.slug-province | sort: 'name') %}
         {% include list-highlighted.html list=listPost %}
     </div>
     {{ content }}
