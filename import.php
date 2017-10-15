@@ -58,9 +58,9 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
 
         createGuarderia($data);
 
-        if ($row == 10000) {
-            break;
-        }
+//        if ($row == 500) {
+//            break;
+//        }
     }
     fclose($handle);
 }
