@@ -5,9 +5,9 @@ date: 2017-09-20 20:57:05 +0200
 categories:
 - localidad
 - alegria-dulantzi
-- araba-alava
+- alava
 name: "Alegria-Dulantzi"
 slug: "alegria-dulantzi"
-slug-province: "araba-alava"
+slug-province: "alava"
 permalink: /guarderias-en-alegria-dulantzi/
 ---

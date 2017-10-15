@@ -5,9 +5,9 @@ date: 2017-09-20 20:57:05 +0200
 categories:
 - localidad
 - nanclares-de-la-oca-langraiz-oka
-- araba-alava
+- alava
 name: "Nanclares De La Oca/Langraiz Oka"
 slug: "nanclares-de-la-oca-langraiz-oka"
-slug-province: "araba-alava"
+slug-province: "alava"
 permalink: /guarderias-en-nanclares-de-la-oca-langraiz-oka/
 ---

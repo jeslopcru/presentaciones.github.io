@@ -5,9 +5,9 @@ date: 2017-09-20 20:57:05 +0200
 categories:
 - localidad
 - beniganim
-- valencia-valència
+- valencia
 name: "Beniganim"
 slug: "beniganim"
-slug-province: "valencia-valència"
+slug-province: "valencia"
 permalink: /guarderias-en-beniganim/
 ---

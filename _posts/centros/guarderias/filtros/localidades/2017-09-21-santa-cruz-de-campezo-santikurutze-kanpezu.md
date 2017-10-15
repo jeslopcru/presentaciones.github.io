@@ -5,9 +5,9 @@ date: 2017-09-20 20:57:05 +0200
 categories:
 - localidad
 - santa-cruz-de-campezo-santikurutze-kanpezu
-- araba-alava
+- alava
 name: "Santa Cruz De Campezo/Santikurutze Kanpezu"
 slug: "santa-cruz-de-campezo-santikurutze-kanpezu"
-slug-province: "araba-alava"
+slug-province: "alava"
 permalink: /guarderias-en-santa-cruz-de-campezo-santikurutze-kanpezu/
 ---

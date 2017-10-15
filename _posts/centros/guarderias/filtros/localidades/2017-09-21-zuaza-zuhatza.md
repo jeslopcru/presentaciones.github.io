@@ -5,9 +5,9 @@ date: 2017-09-20 20:57:05 +0200
 categories:
 - localidad
 - zuaza-zuhatza
-- araba-alava
+- alava
 name: "Zuaza/Zuhatza"
 slug: "zuaza-zuhatza"
-slug-province: "araba-alava"
+slug-province: "alava"
 permalink: /guarderias-en-zuaza-zuhatza/
 ---

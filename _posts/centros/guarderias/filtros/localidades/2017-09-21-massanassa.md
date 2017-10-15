@@ -5,9 +5,9 @@ date: 2017-09-20 20:57:05 +0200
 categories:
 - localidad
 - massanassa
-- valencia-valència
+- valencia
 name: "Massanassa"
 slug: "massanassa"
-slug-province: "valencia-valència"
+slug-province: "valencia"
 permalink: /guarderias-en-massanassa/
 ---

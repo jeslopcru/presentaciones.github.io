@@ -12,17 +12,17 @@ $provinceJS = [];
 $t[7] = ['name' => 0, 'slug' => 7, 'provinceList' => [8 => ['name' => 1, 'slug' => '8']]];
 $type = [];
 $type2 = [];
-if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
+if (($handle = fopen("centros2.tsv", "r")) !== FALSE) {
     while (($data = fgetcsv($handle, 2048, "\t")) !== FALSE) {
         $row++;
         if($row === 1) {
             continue;
         }
 
-//        $locationJS[$data[7]] = [
-//            'name' => $data[0],
-//            'slug' => $data[7],
-//        ];
+        $locationJS[$data[7]] = [
+            'name' => $data[0],
+            'slug' => $data[7],
+        ];
 
         $locationJS[$data[7]]['name'] = $data[0];
         $locationJS[$data[7]]['slug'] = $data[7];
@@ -34,10 +34,10 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
 //            'slug' => $data[8],
 //        ];
 
-//        $locationJS[$data[7]]['provinceList'][$data[8]] = [
-//            'name' => $data[1],
-//            'slug' => $data[8],
-//        ];
+        $locationJS[$data[7]]['provinceList'][$data[8]] = [
+            'name' => $data[1],
+            'slug' => $data[8],
+        ];
 
         $provinceList[$data[7]] = [
             'name' => $data[0],
@@ -68,7 +68,7 @@ if (($handle = fopen("centros.tsv", "r")) !== FALSE) {
 
 //ksort($locationJS);
 //file_put_contents('provinceList.json', json_encode($locationJS));
-//
+
 ////echo json_encode($provinceJS);
 //die();
 

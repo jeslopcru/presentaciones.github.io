@@ -5,9 +5,9 @@ date: 2017-09-20 20:57:05 +0200
 categories:
 - localidad
 - samaniego
-- araba-alava
+- alava
 name: "Samaniego"
 slug: "samaniego"
-slug-province: "araba-alava"
+slug-province: "alava"
 permalink: /guarderias-en-samaniego/
 ---
