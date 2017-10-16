@@ -33,4 +33,14 @@
             });
         });
     }
+
+    var cookieValue = Cookies.get("polity-cookie");
+    if(cookieValue !== '1') {
+        $('#popup-cookie').show();
+        console.log('NO HAY COOKIE');
+    }
+    $('#accept-polity-cookie').click(function () {
+        Cookies.set('polity-cookie', '1', {expires: 30, path: ''});
+        $('#popup-cookie').hide();
+    })
 })();

@@ -152,7 +152,6 @@ html, body, main,
   width: 100%;
   min-height: 48px;
   display: block;
-  border: 0;
   border: 1px solid rgba(0, 0, 0, 0.12);
   background-color: white;
   border-radius: 0;
@@ -492,4 +491,18 @@ a.float + div.label-container {
 a.float:hover + div.label-container {
   visibility: visible;
   opacity: 1;
+}
+
+.popup-cookie {
+  position: fixed;
+  width: auto;
+  background-color: white;
+  box-shadow: 0 0 15px #999;
+  bottom: 2%;
+  padding: 1%;
+  display: none;
+  p{
+    margin: 0;
+    font-size: .9rem;
+  }
 }
