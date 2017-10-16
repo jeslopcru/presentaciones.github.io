@@ -10,4 +10,8 @@ name: "Icod De Los Vinos"
 slug: "icod-de-los-vinos"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-icod-de-los-vinos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ICOD DE LOS VINOS"
+meta-description: "Listado con las mejores guarderías de ICOD DE LOS VINOS"
 ---

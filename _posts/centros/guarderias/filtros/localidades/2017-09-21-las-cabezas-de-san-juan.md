@@ -10,4 +10,8 @@ name: "Las Cabezas De San Juan"
 slug: "las-cabezas-de-san-juan"
 slug-province: "sevilla"
 permalink: /guarderias-en-las-cabezas-de-san-juan/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS CABEZAS DE SAN JUAN"
+meta-description: "Listado con las mejores guarderías de LAS CABEZAS DE SAN JUAN"
 ---

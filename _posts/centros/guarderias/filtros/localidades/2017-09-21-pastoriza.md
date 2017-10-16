@@ -10,4 +10,8 @@ name: "Pastoriza"
 slug: "pastoriza"
 slug-province: "a-coruna"
 permalink: /guarderias-en-pastoriza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PASTORIZA"
+meta-description: "Listado con las mejores guarderías de PASTORIZA"
 ---

@@ -10,4 +10,8 @@ name: "Estella/Lizarra"
 slug: "estella-lizarra"
 slug-province: "navarra"
 permalink: /guarderias-en-estella-lizarra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ESTELLA/LIZARRA"
+meta-description: "Listado con las mejores guarderías de ESTELLA/LIZARRA"
 ---

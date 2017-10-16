@@ -10,4 +10,8 @@ name: "Coto De Bornos"
 slug: "coto-de-bornos"
 slug-province: "cadiz"
 permalink: /guarderias-en-coto-de-bornos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COTO DE BORNOS"
+meta-description: "Listado con las mejores guarderías de COTO DE BORNOS"
 ---

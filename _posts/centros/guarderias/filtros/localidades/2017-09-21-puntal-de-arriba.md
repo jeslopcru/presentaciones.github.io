@@ -10,4 +10,8 @@ name: "Puntal De Arriba"
 slug: "puntal-de-arriba"
 slug-province: "a-coruna"
 permalink: /guarderias-en-puntal-de-arriba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUNTAL DE ARRIBA"
+meta-description: "Listado con las mejores guarderías de PUNTAL DE ARRIBA"
 ---

@@ -10,4 +10,8 @@ name: "Villa De Moya"
 slug: "villa-de-moya"
 slug-province: "las-palmas"
 permalink: /guarderias-en-villa-de-moya/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLA DE MOYA"
+meta-description: "Listado con las mejores guarderías de VILLA DE MOYA"
 ---

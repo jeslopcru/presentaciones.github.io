@@ -10,4 +10,8 @@ name: "San Agustin Del Guadalix"
 slug: "san-agustin-del-guadalix"
 slug-province: "madrid"
 permalink: /guarderias-en-san-agustin-del-guadalix/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN AGUSTIN DEL GUADALIX"
+meta-description: "Listado con las mejores guarderías de SAN AGUSTIN DEL GUADALIX"
 ---

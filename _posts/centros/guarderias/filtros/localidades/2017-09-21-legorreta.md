@@ -10,4 +10,8 @@ name: "Legorreta"
 slug: "legorreta"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-legorreta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LEGORRETA"
+meta-description: "Listado con las mejores guarderías de LEGORRETA"
 ---

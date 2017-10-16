@@ -10,4 +10,8 @@ name: "Sobradiel"
 slug: "sobradiel"
 slug-province: "zaragoza"
 permalink: /guarderias-en-sobradiel/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SOBRADIEL"
+meta-description: "Listado con las mejores guarderías de SOBRADIEL"
 ---

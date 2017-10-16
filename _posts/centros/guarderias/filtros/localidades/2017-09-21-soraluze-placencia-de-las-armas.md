@@ -10,4 +10,8 @@ name: "Soraluze/Placencia De Las Armas"
 slug: "soraluze-placencia-de-las-armas"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-soraluze-placencia-de-las-armas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SORALUZE/PLACENCIA DE LAS ARMAS"
+meta-description: "Listado con las mejores guarderías de SORALUZE/PLACENCIA DE LAS ARMAS"
 ---

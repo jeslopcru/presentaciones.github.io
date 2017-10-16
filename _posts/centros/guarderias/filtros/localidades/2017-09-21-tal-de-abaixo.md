@@ -10,4 +10,8 @@ name: "Tal De Abaixo"
 slug: "tal-de-abaixo"
 slug-province: "a-coruna"
 permalink: /guarderias-en-tal-de-abaixo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TAL DE ABAIXO"
+meta-description: "Listado con las mejores guarderías de TAL DE ABAIXO"
 ---

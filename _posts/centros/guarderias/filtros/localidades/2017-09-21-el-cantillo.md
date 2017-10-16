@@ -10,4 +10,8 @@ name: "El Cantillo"
 slug: "el-cantillo"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-el-cantillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL CANTILLO"
+meta-description: "Listado con las mejores guarderías de EL CANTILLO"
 ---

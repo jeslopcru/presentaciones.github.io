@@ -10,4 +10,8 @@ name: "Areeta/Las Arenas"
 slug: "areeta-las-arenas"
 slug-province: "bizkaia"
 permalink: /guarderias-en-areeta-las-arenas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AREETA/LAS ARENAS"
+meta-description: "Listado con las mejores guarderías de AREETA/LAS ARENAS"
 ---

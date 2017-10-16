@@ -10,4 +10,8 @@ name: "San Sebastian De Los Ballesteros"
 slug: "san-sebastian-de-los-ballesteros"
 slug-province: "cordoba"
 permalink: /guarderias-en-san-sebastian-de-los-ballesteros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN SEBASTIAN DE LOS BALLESTEROS"
+meta-description: "Listado con las mejores guarderías de SAN SEBASTIAN DE LOS BALLESTEROS"
 ---

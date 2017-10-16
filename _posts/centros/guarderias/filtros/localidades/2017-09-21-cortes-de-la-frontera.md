@@ -10,4 +10,8 @@ name: "Cortes De La Frontera"
 slug: "cortes-de-la-frontera"
 slug-province: "malaga"
 permalink: /guarderias-en-cortes-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CORTES DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de CORTES DE LA FRONTERA"
 ---

@@ -8,4 +8,8 @@ categories:
 name: "Ciudad Real"
 slug: "ciudad-real"
 permalink: /guarderias-en-ciudad-real/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CIUDAD REAL"
+meta-description: "Busca la mejor guardería de CIUDAD REAL para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles."
 ---

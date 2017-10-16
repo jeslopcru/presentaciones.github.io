@@ -10,4 +10,8 @@ name: "Caleta-La Guardia"
 slug: "caleta-la-guardia"
 slug-province: "granada"
 permalink: /guarderias-en-caleta-la-guardia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALETA-LA GUARDIA"
+meta-description: "Listado con las mejores guarderías de CALETA-LA GUARDIA"
 ---

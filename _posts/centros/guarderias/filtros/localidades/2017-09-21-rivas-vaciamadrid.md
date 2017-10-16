@@ -10,4 +10,8 @@ name: "Rivas-Vaciamadrid"
 slug: "rivas-vaciamadrid"
 slug-province: "madrid"
 permalink: /guarderias-en-rivas-vaciamadrid/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RIVAS-VACIAMADRID"
+meta-description: "Listado con las mejores guarderías de RIVAS-VACIAMADRID"
 ---

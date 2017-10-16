@@ -10,4 +10,8 @@ name: "Canillas De Aceituno"
 slug: "canillas-de-aceituno"
 slug-province: "malaga"
 permalink: /guarderias-en-canillas-de-aceituno/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANILLAS DE ACEITUNO"
+meta-description: "Listado con las mejores guarderías de CANILLAS DE ACEITUNO"
 ---

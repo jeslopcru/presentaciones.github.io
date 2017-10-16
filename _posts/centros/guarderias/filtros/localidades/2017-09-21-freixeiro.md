@@ -10,4 +10,8 @@ name: "Freixeiro"
 slug: "freixeiro"
 slug-province: "pontevedra"
 permalink: /guarderias-en-freixeiro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FREIXEIRO"
+meta-description: "Listado con las mejores guarderías de FREIXEIRO"
 ---

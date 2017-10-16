@@ -10,4 +10,8 @@ name: "El Puente Del Arzobispo"
 slug: "el-puente-del-arzobispo"
 slug-province: "toledo"
 permalink: /guarderias-en-el-puente-del-arzobispo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL PUENTE DEL ARZOBISPO"
+meta-description: "Listado con las mejores guarderías de EL PUENTE DEL ARZOBISPO"
 ---

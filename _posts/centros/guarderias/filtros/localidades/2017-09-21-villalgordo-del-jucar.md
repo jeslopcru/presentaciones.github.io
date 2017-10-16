@@ -10,4 +10,8 @@ name: "Villalgordo Del Jucar"
 slug: "villalgordo-del-jucar"
 slug-province: "albacete"
 permalink: /guarderias-en-villalgordo-del-jucar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLALGORDO DEL JUCAR"
+meta-description: "Listado con las mejores guarderías de VILLALGORDO DEL JUCAR"
 ---

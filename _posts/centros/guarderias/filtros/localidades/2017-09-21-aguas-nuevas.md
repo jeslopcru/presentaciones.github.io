@@ -10,4 +10,8 @@ name: "Aguas Nuevas"
 slug: "aguas-nuevas"
 slug-province: "albacete"
 permalink: /guarderias-en-aguas-nuevas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AGUAS NUEVAS"
+meta-description: "Listado con las mejores guarderías de AGUAS NUEVAS"
 ---

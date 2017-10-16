@@ -10,4 +10,8 @@ name: "Piedralaves"
 slug: "piedralaves"
 slug-province: "avila"
 permalink: /guarderias-en-piedralaves/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PIEDRALAVES"
+meta-description: "Listado con las mejores guarderías de PIEDRALAVES"
 ---

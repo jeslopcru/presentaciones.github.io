@@ -10,4 +10,8 @@ name: "Torrelavega"
 slug: "torrelavega"
 slug-province: "cantabria"
 permalink: /guarderias-en-torrelavega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORRELAVEGA"
+meta-description: "Listado con las mejores guarderías de TORRELAVEGA"
 ---

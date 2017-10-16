@@ -10,4 +10,8 @@ name: "Navalcarnero"
 slug: "navalcarnero"
 slug-province: "madrid"
 permalink: /guarderias-en-navalcarnero/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVALCARNERO"
+meta-description: "Listado con las mejores guarderías de NAVALCARNERO"
 ---

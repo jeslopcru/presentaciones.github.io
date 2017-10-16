@@ -10,4 +10,8 @@ name: "Artziniega"
 slug: "artziniega"
 slug-province: "alava"
 permalink: /guarderias-en-artziniega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARTZINIEGA"
+meta-description: "Listado con las mejores guarderías de ARTZINIEGA"
 ---

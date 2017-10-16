@@ -10,4 +10,8 @@ name: "Guarroman"
 slug: "guarroman"
 slug-province: "jaen"
 permalink: /guarderias-en-guarroman/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUARROMAN"
+meta-description: "Listado con las mejores guarderías de GUARROMAN"
 ---

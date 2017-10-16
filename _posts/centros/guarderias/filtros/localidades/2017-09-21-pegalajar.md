@@ -10,4 +10,8 @@ name: "Pegalajar"
 slug: "pegalajar"
 slug-province: "jaen"
 permalink: /guarderias-en-pegalajar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PEGALAJAR"
+meta-description: "Listado con las mejores guarderías de PEGALAJAR"
 ---

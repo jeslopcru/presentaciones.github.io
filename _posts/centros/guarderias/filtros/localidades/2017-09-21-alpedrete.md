@@ -10,4 +10,8 @@ name: "Alpedrete"
 slug: "alpedrete"
 slug-province: "madrid"
 permalink: /guarderias-en-alpedrete/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALPEDRETE"
+meta-description: "Listado con las mejores guarderías de ALPEDRETE"
 ---

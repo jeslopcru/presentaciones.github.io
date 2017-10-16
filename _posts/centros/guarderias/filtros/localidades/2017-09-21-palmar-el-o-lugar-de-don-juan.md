@@ -10,4 +10,8 @@ name: "Palmar (el) O Lugar De Don Juan"
 slug: "palmar-el-o-lugar-de-don-juan"
 slug-province: "murcia"
 permalink: /guarderias-en-palmar-el-o-lugar-de-don-juan/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PALMAR (EL) O LUGAR DE DON JUAN"
+meta-description: "Listado con las mejores guarderías de PALMAR (EL) O LUGAR DE DON JUAN"
 ---

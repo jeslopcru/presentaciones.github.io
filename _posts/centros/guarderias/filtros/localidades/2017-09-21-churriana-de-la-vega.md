@@ -10,4 +10,8 @@ name: "Churriana De La Vega"
 slug: "churriana-de-la-vega"
 slug-province: "granada"
 permalink: /guarderias-en-churriana-de-la-vega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CHURRIANA DE LA VEGA"
+meta-description: "Listado con las mejores guarderías de CHURRIANA DE LA VEGA"
 ---

@@ -10,4 +10,8 @@ name: "Villalpando"
 slug: "villalpando"
 slug-province: "zamora"
 permalink: /guarderias-en-villalpando/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLALPANDO"
+meta-description: "Listado con las mejores guarderías de VILLALPANDO"
 ---

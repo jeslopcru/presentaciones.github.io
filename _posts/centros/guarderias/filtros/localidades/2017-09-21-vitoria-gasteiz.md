@@ -10,4 +10,8 @@ name: "Vitoria-Gasteiz"
 slug: "vitoria-gasteiz"
 slug-province: "alava"
 permalink: /guarderias-en-vitoria-gasteiz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VITORIA-GASTEIZ"
+meta-description: "Listado con las mejores guarderías de VITORIA-GASTEIZ"
 ---

@@ -10,4 +10,8 @@ name: "Carrizo De La Ribera"
 slug: "carrizo-de-la-ribera"
 slug-province: "leon"
 permalink: /guarderias-en-carrizo-de-la-ribera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARRIZO DE LA RIBERA"
+meta-description: "Listado con las mejores guarderías de CARRIZO DE LA RIBERA"
 ---

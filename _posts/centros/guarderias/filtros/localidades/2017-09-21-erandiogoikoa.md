@@ -10,4 +10,8 @@ name: "Erandiogoikoa"
 slug: "erandiogoikoa"
 slug-province: "bizkaia"
 permalink: /guarderias-en-erandiogoikoa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ERANDIOGOIKOA"
+meta-description: "Listado con las mejores guarderías de ERANDIOGOIKOA"
 ---

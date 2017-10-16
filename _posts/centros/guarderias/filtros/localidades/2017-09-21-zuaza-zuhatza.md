@@ -10,4 +10,8 @@ name: "Zuaza/Zuhatza"
 slug: "zuaza-zuhatza"
 slug-province: "alava"
 permalink: /guarderias-en-zuaza-zuhatza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ZUAZA/ZUHATZA"
+meta-description: "Listado con las mejores guarderías de ZUAZA/ZUHATZA"
 ---

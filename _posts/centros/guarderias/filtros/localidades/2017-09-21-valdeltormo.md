@@ -10,4 +10,8 @@ name: "Valdeltormo"
 slug: "valdeltormo"
 slug-province: "teruel"
 permalink: /guarderias-en-valdeltormo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALDELTORMO"
+meta-description: "Listado con las mejores guarderías de VALDELTORMO"
 ---

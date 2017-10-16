@@ -10,4 +10,8 @@ name: "Adahuesca"
 slug: "adahuesca"
 slug-province: "huesca"
 permalink: /guarderias-en-adahuesca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ADAHUESCA"
+meta-description: "Listado con las mejores guarderías de ADAHUESCA"
 ---

@@ -10,4 +10,8 @@ name: "Viso Del Marques"
 slug: "viso-del-marques"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-viso-del-marques/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VISO DEL MARQUES"
+meta-description: "Listado con las mejores guarderías de VISO DEL MARQUES"
 ---

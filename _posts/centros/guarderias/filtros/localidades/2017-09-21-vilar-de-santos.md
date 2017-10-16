@@ -10,4 +10,8 @@ name: "Vilar De Santos"
 slug: "vilar-de-santos"
 slug-province: "ourense"
 permalink: /guarderias-en-vilar-de-santos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILAR DE SANTOS"
+meta-description: "Listado con las mejores guarderías de VILAR DE SANTOS"
 ---

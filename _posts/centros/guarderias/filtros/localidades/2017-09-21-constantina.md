@@ -10,4 +10,8 @@ name: "Constantina"
 slug: "constantina"
 slug-province: "sevilla"
 permalink: /guarderias-en-constantina/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CONSTANTINA"
+meta-description: "Listado con las mejores guarderías de CONSTANTINA"
 ---

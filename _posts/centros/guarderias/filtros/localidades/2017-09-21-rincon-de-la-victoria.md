@@ -10,4 +10,8 @@ name: "Rincon De La Victoria"
 slug: "rincon-de-la-victoria"
 slug-province: "malaga"
 permalink: /guarderias-en-rincon-de-la-victoria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RINCON DE LA VICTORIA"
+meta-description: "Listado con las mejores guarderías de RINCON DE LA VICTORIA"
 ---

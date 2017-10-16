@@ -10,4 +10,8 @@ name: "Pasai Antxo"
 slug: "pasai-antxo"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-pasai-antxo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PASAI ANTXO"
+meta-description: "Listado con las mejores guarderías de PASAI ANTXO"
 ---

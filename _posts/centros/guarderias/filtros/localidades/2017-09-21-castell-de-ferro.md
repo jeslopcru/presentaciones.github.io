@@ -10,4 +10,8 @@ name: "Castell De Ferro"
 slug: "castell-de-ferro"
 slug-province: "granada"
 permalink: /guarderias-en-castell-de-ferro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTELL DE FERRO"
+meta-description: "Listado con las mejores guarderías de CASTELL DE FERRO"
 ---

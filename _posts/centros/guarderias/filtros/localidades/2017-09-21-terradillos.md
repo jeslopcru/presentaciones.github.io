@@ -10,4 +10,8 @@ name: "Terradillos"
 slug: "terradillos"
 slug-province: "salamanca"
 permalink: /guarderias-en-terradillos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TERRADILLOS"
+meta-description: "Listado con las mejores guarderías de TERRADILLOS"
 ---

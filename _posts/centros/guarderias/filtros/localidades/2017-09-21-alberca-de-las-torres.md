@@ -10,4 +10,8 @@ name: "Alberca De Las Torres"
 slug: "alberca-de-las-torres"
 slug-province: "murcia"
 permalink: /guarderias-en-alberca-de-las-torres/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALBERCA DE LAS TORRES"
+meta-description: "Listado con las mejores guarderías de ALBERCA DE LAS TORRES"
 ---

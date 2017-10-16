@@ -10,4 +10,8 @@ name: "Cizur Menor"
 slug: "cizur-menor"
 slug-province: "navarra"
 permalink: /guarderias-en-cizur-menor/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CIZUR MENOR"
+meta-description: "Listado con las mejores guarderías de CIZUR MENOR"
 ---

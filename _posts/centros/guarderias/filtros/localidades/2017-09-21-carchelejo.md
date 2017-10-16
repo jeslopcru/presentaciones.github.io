@@ -10,4 +10,8 @@ name: "Carchelejo"
 slug: "carchelejo"
 slug-province: "jaen"
 permalink: /guarderias-en-carchelejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARCHELEJO"
+meta-description: "Listado con las mejores guarderías de CARCHELEJO"
 ---

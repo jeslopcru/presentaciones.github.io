@@ -10,4 +10,8 @@ name: "Guia De Isora"
 slug: "guia-de-isora"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-guia-de-isora/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUIA DE ISORA"
+meta-description: "Listado con las mejores guarderías de GUIA DE ISORA"
 ---

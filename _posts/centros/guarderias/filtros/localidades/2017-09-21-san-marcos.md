@@ -10,4 +10,8 @@ name: "San Marcos"
 slug: "san-marcos"
 slug-province: "a-coruna"
 permalink: /guarderias-en-san-marcos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN MARCOS"
+meta-description: "Listado con las mejores guarderías de SAN MARCOS"
 ---

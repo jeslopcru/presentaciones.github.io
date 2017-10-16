@@ -10,4 +10,8 @@ name: "Navahermosa"
 slug: "navahermosa"
 slug-province: "toledo"
 permalink: /guarderias-en-navahermosa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVAHERMOSA"
+meta-description: "Listado con las mejores guarderías de NAVAHERMOSA"
 ---

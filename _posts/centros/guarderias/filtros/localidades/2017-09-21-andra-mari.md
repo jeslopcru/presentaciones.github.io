@@ -10,4 +10,8 @@ name: "Andra Mari"
 slug: "andra-mari"
 slug-province: "bizkaia"
 permalink: /guarderias-en-andra-mari/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ANDRA MARI"
+meta-description: "Listado con las mejores guarderías de ANDRA MARI"
 ---

@@ -10,4 +10,8 @@ name: "Roquetas De Mar"
 slug: "roquetas-de-mar"
 slug-province: "almeria"
 permalink: /guarderias-en-roquetas-de-mar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ROQUETAS DE MAR"
+meta-description: "Listado con las mejores guarderías de ROQUETAS DE MAR"
 ---

@@ -10,4 +10,8 @@ name: "Santo Domingo"
 slug: "santo-domingo"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-santo-domingo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTO DOMINGO"
+meta-description: "Listado con las mejores guarderías de SANTO DOMINGO"
 ---

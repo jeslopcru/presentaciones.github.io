@@ -10,4 +10,8 @@ name: "Jaén Centro"
 slug: "jaen-centro"
 slug-province: "jaen"
 permalink: /guarderias-en-jaen-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de JAéN CENTRO"
+meta-description: "Listado con las mejores guarderías de JAéN CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Viandar De La Vera"
 slug: "viandar-de-la-vera"
 slug-province: "caceres"
 permalink: /guarderias-en-viandar-de-la-vera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VIANDAR DE LA VERA"
+meta-description: "Listado con las mejores guarderías de VIANDAR DE LA VERA"
 ---

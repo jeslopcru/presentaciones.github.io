@@ -10,4 +10,8 @@ name: "Pedrezuela"
 slug: "pedrezuela"
 slug-province: "madrid"
 permalink: /guarderias-en-pedrezuela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PEDREZUELA"
+meta-description: "Listado con las mejores guarderías de PEDREZUELA"
 ---

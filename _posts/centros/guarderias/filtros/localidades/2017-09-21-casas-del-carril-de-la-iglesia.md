@@ -10,4 +10,8 @@ name: "Casas Del Carril De La Iglesia"
 slug: "casas-del-carril-de-la-iglesia"
 slug-province: "murcia"
 permalink: /guarderias-en-casas-del-carril-de-la-iglesia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASAS DEL CARRIL DE LA IGLESIA"
+meta-description: "Listado con las mejores guarderías de CASAS DEL CARRIL DE LA IGLESIA"
 ---

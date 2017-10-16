@@ -10,4 +10,8 @@ name: "Villanueva Del Trabuco"
 slug: "villanueva-del-trabuco"
 slug-province: "malaga"
 permalink: /guarderias-en-villanueva-del-trabuco/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DEL TRABUCO"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DEL TRABUCO"
 ---

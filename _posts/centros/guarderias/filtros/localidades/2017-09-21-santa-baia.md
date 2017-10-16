@@ -10,4 +10,8 @@ name: "Santa Baia"
 slug: "santa-baia"
 slug-province: "pontevedra"
 permalink: /guarderias-en-santa-baia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA BAIA"
+meta-description: "Listado con las mejores guarderías de SANTA BAIA"
 ---

@@ -10,4 +10,8 @@ name: "Albarracin"
 slug: "albarracin"
 slug-province: "teruel"
 permalink: /guarderias-en-albarracin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALBARRACIN"
+meta-description: "Listado con las mejores guarderías de ALBARRACIN"
 ---

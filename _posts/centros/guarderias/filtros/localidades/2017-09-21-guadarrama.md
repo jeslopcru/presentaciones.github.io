@@ -10,4 +10,8 @@ name: "Guadarrama"
 slug: "guadarrama"
 slug-province: "madrid"
 permalink: /guarderias-en-guadarrama/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUADARRAMA"
+meta-description: "Listado con las mejores guarderías de GUADARRAMA"
 ---

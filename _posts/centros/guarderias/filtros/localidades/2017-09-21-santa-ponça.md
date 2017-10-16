@@ -10,4 +10,8 @@ name: "Santa Ponça"
 slug: "santa-ponça"
 slug-province: "illes-balears"
 permalink: /guarderias-en-santa-ponça/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA PONçA"
+meta-description: "Listado con las mejores guarderías de SANTA PONçA"
 ---

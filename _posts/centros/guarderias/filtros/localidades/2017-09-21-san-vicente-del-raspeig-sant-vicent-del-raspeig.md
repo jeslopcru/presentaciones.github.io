@@ -10,4 +10,8 @@ name: "San Vicente Del Raspeig/Sant Vicent Del Raspeig"
 slug: "san-vicente-del-raspeig-sant-vicent-del-raspeig"
 slug-province: "alicante"
 permalink: /guarderias-en-san-vicente-del-raspeig-sant-vicent-del-raspeig/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN VICENTE DEL RASPEIG/SANT VICENT DEL RASPEIG"
+meta-description: "Listado con las mejores guarderías de SAN VICENTE DEL RASPEIG/SANT VICENT DEL RASPEIG"
 ---

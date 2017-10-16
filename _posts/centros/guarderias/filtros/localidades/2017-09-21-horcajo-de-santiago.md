@@ -10,4 +10,8 @@ name: "Horcajo De Santiago"
 slug: "horcajo-de-santiago"
 slug-province: "cuenca"
 permalink: /guarderias-en-horcajo-de-santiago/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HORCAJO DE SANTIAGO"
+meta-description: "Listado con las mejores guarderías de HORCAJO DE SANTIAGO"
 ---

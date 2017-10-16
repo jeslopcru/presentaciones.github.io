@@ -10,4 +10,8 @@ name: "Aguadulce"
 slug: "aguadulce"
 slug-province: "sevilla"
 permalink: /guarderias-en-aguadulce/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AGUADULCE"
+meta-description: "Listado con las mejores guarderías de AGUADULCE"
 ---

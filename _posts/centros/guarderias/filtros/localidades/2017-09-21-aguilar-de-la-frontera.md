@@ -10,4 +10,8 @@ name: "Aguilar De La Frontera"
 slug: "aguilar-de-la-frontera"
 slug-province: "cordoba"
 permalink: /guarderias-en-aguilar-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AGUILAR DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de AGUILAR DE LA FRONTERA"
 ---

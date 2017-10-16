@@ -10,4 +10,8 @@ name: "El Real De La Jara"
 slug: "el-real-de-la-jara"
 slug-province: "sevilla"
 permalink: /guarderias-en-el-real-de-la-jara/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL REAL DE LA JARA"
+meta-description: "Listado con las mejores guarderías de EL REAL DE LA JARA"
 ---

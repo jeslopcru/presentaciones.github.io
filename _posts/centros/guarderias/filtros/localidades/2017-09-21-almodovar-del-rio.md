@@ -10,4 +10,8 @@ name: "Almodovar Del Rio"
 slug: "almodovar-del-rio"
 slug-province: "cordoba"
 permalink: /guarderias-en-almodovar-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMODOVAR DEL RIO"
+meta-description: "Listado con las mejores guarderías de ALMODOVAR DEL RIO"
 ---

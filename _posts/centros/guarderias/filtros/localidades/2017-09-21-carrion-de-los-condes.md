@@ -10,4 +10,8 @@ name: "Carrion De Los Condes"
 slug: "carrion-de-los-condes"
 slug-province: "palencia"
 permalink: /guarderias-en-carrion-de-los-condes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARRION DE LOS CONDES"
+meta-description: "Listado con las mejores guarderías de CARRION DE LOS CONDES"
 ---

@@ -10,4 +10,8 @@ name: "San Mamede"
 slug: "san-mamede"
 slug-province: "a-coruna"
 permalink: /guarderias-en-san-mamede/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN MAMEDE"
+meta-description: "Listado con las mejores guarderías de SAN MAMEDE"
 ---

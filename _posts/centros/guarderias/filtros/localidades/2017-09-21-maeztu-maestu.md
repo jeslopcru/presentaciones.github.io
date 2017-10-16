@@ -10,4 +10,8 @@ name: "Maeztu/Maestu"
 slug: "maeztu-maestu"
 slug-province: "alava"
 permalink: /guarderias-en-maeztu-maestu/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MAEZTU/MAESTU"
+meta-description: "Listado con las mejores guarderías de MAEZTU/MAESTU"
 ---

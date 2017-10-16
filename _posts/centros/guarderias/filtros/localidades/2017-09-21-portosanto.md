@@ -10,4 +10,8 @@ name: "Portosanto"
 slug: "portosanto"
 slug-province: "pontevedra"
 permalink: /guarderias-en-portosanto/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PORTOSANTO"
+meta-description: "Listado con las mejores guarderías de PORTOSANTO"
 ---

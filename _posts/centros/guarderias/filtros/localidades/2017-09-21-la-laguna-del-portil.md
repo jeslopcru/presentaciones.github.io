@@ -10,4 +10,8 @@ name: "La Laguna Del Portil"
 slug: "la-laguna-del-portil"
 slug-province: "huelva"
 permalink: /guarderias-en-la-laguna-del-portil/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA LAGUNA DEL PORTIL"
+meta-description: "Listado con las mejores guarderías de LA LAGUNA DEL PORTIL"
 ---

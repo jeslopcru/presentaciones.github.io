@@ -10,4 +10,8 @@ name: "Huercal-Overa"
 slug: "huercal-overa"
 slug-province: "almeria"
 permalink: /guarderias-en-huercal-overa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HUERCAL-OVERA"
+meta-description: "Listado con las mejores guarderías de HUERCAL-OVERA"
 ---

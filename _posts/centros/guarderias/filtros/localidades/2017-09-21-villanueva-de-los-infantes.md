@@ -10,4 +10,8 @@ name: "Villanueva De Los Infantes"
 slug: "villanueva-de-los-infantes"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-villanueva-de-los-infantes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE LOS INFANTES"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE LOS INFANTES"
 ---

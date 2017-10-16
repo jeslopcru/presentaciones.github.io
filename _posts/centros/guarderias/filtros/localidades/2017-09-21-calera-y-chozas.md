@@ -10,4 +10,8 @@ name: "Calera Y Chozas"
 slug: "calera-y-chozas"
 slug-province: "toledo"
 permalink: /guarderias-en-calera-y-chozas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALERA Y CHOZAS"
+meta-description: "Listado con las mejores guarderías de CALERA Y CHOZAS"
 ---

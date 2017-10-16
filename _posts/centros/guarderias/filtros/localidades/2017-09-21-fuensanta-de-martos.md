@@ -10,4 +10,8 @@ name: "Fuensanta De Martos"
 slug: "fuensanta-de-martos"
 slug-province: "jaen"
 permalink: /guarderias-en-fuensanta-de-martos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENSANTA DE MARTOS"
+meta-description: "Listado con las mejores guarderías de FUENSANTA DE MARTOS"
 ---

@@ -10,4 +10,8 @@ name: "Puertollano"
 slug: "puertollano"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-puertollano/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUERTOLLANO"
+meta-description: "Listado con las mejores guarderías de PUERTOLLANO"
 ---

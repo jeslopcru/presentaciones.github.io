@@ -10,4 +10,8 @@ name: "Palenciana"
 slug: "palenciana"
 slug-province: "cordoba"
 permalink: /guarderias-en-palenciana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PALENCIANA"
+meta-description: "Listado con las mejores guarderías de PALENCIANA"
 ---

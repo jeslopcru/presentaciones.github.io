@@ -10,4 +10,8 @@ name: "San Jose Del Valle"
 slug: "san-jose-del-valle"
 slug-province: "cadiz"
 permalink: /guarderias-en-san-jose-del-valle/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN JOSE DEL VALLE"
+meta-description: "Listado con las mejores guarderías de SAN JOSE DEL VALLE"
 ---

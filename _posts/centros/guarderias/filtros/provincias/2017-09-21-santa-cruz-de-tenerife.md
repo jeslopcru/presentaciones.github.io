@@ -8,4 +8,8 @@ categories:
 name: "Santa Cruz De Tenerife"
 slug: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-santa-cruz-de-tenerife/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA CRUZ DE TENERIFE"
+meta-description: "Busca la mejor guardería de SANTA CRUZ DE TENERIFE para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles."
 ---

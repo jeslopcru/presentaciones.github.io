@@ -10,4 +10,8 @@ name: "La Montiela"
 slug: "la-montiela"
 slug-province: "cordoba"
 permalink: /guarderias-en-la-montiela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA MONTIELA"
+meta-description: "Listado con las mejores guarderías de LA MONTIELA"
 ---

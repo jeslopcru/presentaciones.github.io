@@ -10,4 +10,8 @@ name: "Urrestilla"
 slug: "urrestilla"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-urrestilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de URRESTILLA"
+meta-description: "Listado con las mejores guarderías de URRESTILLA"
 ---

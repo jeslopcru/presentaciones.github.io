@@ -10,4 +10,8 @@ name: "Llucmajor"
 slug: "llucmajor"
 slug-province: "illes-balears"
 permalink: /guarderias-en-llucmajor/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LLUCMAJOR"
+meta-description: "Listado con las mejores guarderías de LLUCMAJOR"
 ---

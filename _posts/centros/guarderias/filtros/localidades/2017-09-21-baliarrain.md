@@ -10,4 +10,8 @@ name: "Baliarrain"
 slug: "baliarrain"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-baliarrain/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BALIARRAIN"
+meta-description: "Listado con las mejores guarderías de BALIARRAIN"
 ---

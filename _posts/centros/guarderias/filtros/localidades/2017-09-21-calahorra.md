@@ -10,4 +10,8 @@ name: "Calahorra"
 slug: "calahorra"
 slug-province: "la-rioja"
 permalink: /guarderias-en-calahorra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALAHORRA"
+meta-description: "Listado con las mejores guarderías de CALAHORRA"
 ---

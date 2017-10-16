@@ -10,4 +10,8 @@ name: "Roncal/Erronkari"
 slug: "roncal-erronkari"
 slug-province: "navarra"
 permalink: /guarderias-en-roncal-erronkari/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RONCAL/ERRONKARI"
+meta-description: "Listado con las mejores guarderías de RONCAL/ERRONKARI"
 ---

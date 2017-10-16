@@ -10,4 +10,8 @@ name: "Ciutadella De Menorca"
 slug: "ciutadella-de-menorca"
 slug-province: "illes-balears"
 permalink: /guarderias-en-ciutadella-de-menorca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CIUTADELLA DE MENORCA"
+meta-description: "Listado con las mejores guarderías de CIUTADELLA DE MENORCA"
 ---

@@ -10,4 +10,8 @@ name: "Guadalajara Centro"
 slug: "guadalajara-centro"
 slug-province: "guadalajara"
 permalink: /guarderias-en-guadalajara-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUADALAJARA CENTRO"
+meta-description: "Listado con las mejores guarderías de GUADALAJARA CENTRO"
 ---

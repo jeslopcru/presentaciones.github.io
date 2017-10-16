@@ -10,4 +10,8 @@ name: "Los Molinos"
 slug: "los-molinos"
 slug-province: "madrid"
 permalink: /guarderias-en-los-molinos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS MOLINOS"
+meta-description: "Listado con las mejores guarderías de LOS MOLINOS"
 ---

@@ -10,4 +10,8 @@ name: "Castreliños"
 slug: "castrelinos"
 slug-province: "pontevedra"
 permalink: /guarderias-en-castrelinos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTRELIñOS"
+meta-description: "Listado con las mejores guarderías de CASTRELIñOS"
 ---

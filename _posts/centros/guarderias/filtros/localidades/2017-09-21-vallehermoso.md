@@ -10,4 +10,8 @@ name: "Vallehermoso"
 slug: "vallehermoso"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-vallehermoso/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALLEHERMOSO"
+meta-description: "Listado con las mejores guarderías de VALLEHERMOSO"
 ---

@@ -10,4 +10,8 @@ name: "Sant Agusti Des Vedra"
 slug: "sant-agusti-des-vedra"
 slug-province: "illes-balears"
 permalink: /guarderias-en-sant-agusti-des-vedra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANT AGUSTI DES VEDRA"
+meta-description: "Listado con las mejores guarderías de SANT AGUSTI DES VEDRA"
 ---

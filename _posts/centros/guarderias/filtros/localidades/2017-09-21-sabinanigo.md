@@ -10,4 +10,8 @@ name: "Sabiñanigo"
 slug: "sabinanigo"
 slug-province: "huesca"
 permalink: /guarderias-en-sabinanigo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SABIñANIGO"
+meta-description: "Listado con las mejores guarderías de SABIñANIGO"
 ---

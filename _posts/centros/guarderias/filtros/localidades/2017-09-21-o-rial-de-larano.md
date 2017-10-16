@@ -10,4 +10,8 @@ name: "O Rial De Laraño"
 slug: "o-rial-de-larano"
 slug-province: "a-coruna"
 permalink: /guarderias-en-o-rial-de-larano/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de O RIAL DE LARAñO"
+meta-description: "Listado con las mejores guarderías de O RIAL DE LARAñO"
 ---

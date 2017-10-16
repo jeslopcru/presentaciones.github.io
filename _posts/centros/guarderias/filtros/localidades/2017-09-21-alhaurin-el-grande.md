@@ -10,4 +10,8 @@ name: "Alhaurin El Grande"
 slug: "alhaurin-el-grande"
 slug-province: "malaga"
 permalink: /guarderias-en-alhaurin-el-grande/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALHAURIN EL GRANDE"
+meta-description: "Listado con las mejores guarderías de ALHAURIN EL GRANDE"
 ---

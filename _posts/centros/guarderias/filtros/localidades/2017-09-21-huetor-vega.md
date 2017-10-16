@@ -10,4 +10,8 @@ name: "Huetor-Vega"
 slug: "huetor-vega"
 slug-province: "granada"
 permalink: /guarderias-en-huetor-vega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HUETOR-VEGA"
+meta-description: "Listado con las mejores guarderías de HUETOR-VEGA"
 ---

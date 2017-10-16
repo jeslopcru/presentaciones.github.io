@@ -10,4 +10,8 @@ name: "Camponaraya"
 slug: "camponaraya"
 slug-province: "leon"
 permalink: /guarderias-en-camponaraya/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAMPONARAYA"
+meta-description: "Listado con las mejores guarderías de CAMPONARAYA"
 ---

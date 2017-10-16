@@ -10,4 +10,8 @@ name: "Urrea De Gaen"
 slug: "urrea-de-gaen"
 slug-province: "teruel"
 permalink: /guarderias-en-urrea-de-gaen/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de URREA DE GAEN"
+meta-description: "Listado con las mejores guarderías de URREA DE GAEN"
 ---

@@ -10,4 +10,8 @@ name: "Doñinos De Salamanca"
 slug: "doninos-de-salamanca"
 slug-province: "salamanca"
 permalink: /guarderias-en-doninos-de-salamanca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DOñINOS DE SALAMANCA"
+meta-description: "Listado con las mejores guarderías de DOñINOS DE SALAMANCA"
 ---

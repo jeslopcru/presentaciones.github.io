@@ -10,4 +10,8 @@ name: "Campo Real"
 slug: "campo-real"
 slug-province: "madrid"
 permalink: /guarderias-en-campo-real/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAMPO REAL"
+meta-description: "Listado con las mejores guarderías de CAMPO REAL"
 ---

@@ -10,4 +10,8 @@ name: "San Leonardo De Yagüe"
 slug: "san-leonardo-de-yagüe"
 slug-province: "soria"
 permalink: /guarderias-en-san-leonardo-de-yagüe/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN LEONARDO DE YAGüE"
+meta-description: "Listado con las mejores guarderías de SAN LEONARDO DE YAGüE"
 ---

@@ -10,4 +10,8 @@ name: "Casas De Ves"
 slug: "casas-de-ves"
 slug-province: "albacete"
 permalink: /guarderias-en-casas-de-ves/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASAS DE VES"
+meta-description: "Listado con las mejores guarderías de CASAS DE VES"
 ---

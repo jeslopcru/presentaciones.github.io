@@ -10,4 +10,8 @@ name: "Guadalcazar"
 slug: "guadalcazar"
 slug-province: "cordoba"
 permalink: /guarderias-en-guadalcazar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUADALCAZAR"
+meta-description: "Listado con las mejores guarderías de GUADALCAZAR"
 ---

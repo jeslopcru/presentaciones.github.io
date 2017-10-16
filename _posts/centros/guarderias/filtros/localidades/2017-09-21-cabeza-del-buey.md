@@ -10,4 +10,8 @@ name: "Cabeza Del Buey"
 slug: "cabeza-del-buey"
 slug-province: "badajoz"
 permalink: /guarderias-en-cabeza-del-buey/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CABEZA DEL BUEY"
+meta-description: "Listado con las mejores guarderías de CABEZA DEL BUEY"
 ---

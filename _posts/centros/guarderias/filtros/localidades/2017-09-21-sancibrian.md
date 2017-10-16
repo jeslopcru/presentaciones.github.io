@@ -10,4 +10,8 @@ name: "Sancibrian"
 slug: "sancibrian"
 slug-province: "cantabria"
 permalink: /guarderias-en-sancibrian/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANCIBRIAN"
+meta-description: "Listado con las mejores guarderías de SANCIBRIAN"
 ---

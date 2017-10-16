@@ -10,4 +10,8 @@ name: "Almudevar"
 slug: "almudevar"
 slug-province: "huesca"
 permalink: /guarderias-en-almudevar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMUDEVAR"
+meta-description: "Listado con las mejores guarderías de ALMUDEVAR"
 ---

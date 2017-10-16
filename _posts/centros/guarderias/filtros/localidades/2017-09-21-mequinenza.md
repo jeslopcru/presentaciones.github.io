@@ -10,4 +10,8 @@ name: "Mequinenza"
 slug: "mequinenza"
 slug-province: "zaragoza"
 permalink: /guarderias-en-mequinenza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MEQUINENZA"
+meta-description: "Listado con las mejores guarderías de MEQUINENZA"
 ---

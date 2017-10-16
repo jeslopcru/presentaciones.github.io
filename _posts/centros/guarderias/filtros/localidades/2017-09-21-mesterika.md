@@ -10,4 +10,8 @@ name: "Mesterika"
 slug: "mesterika"
 slug-province: "bizkaia"
 permalink: /guarderias-en-mesterika/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MESTERIKA"
+meta-description: "Listado con las mejores guarderías de MESTERIKA"
 ---

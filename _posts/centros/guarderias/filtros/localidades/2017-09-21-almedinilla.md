@@ -10,4 +10,8 @@ name: "Almedinilla"
 slug: "almedinilla"
 slug-province: "cordoba"
 permalink: /guarderias-en-almedinilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMEDINILLA"
+meta-description: "Listado con las mejores guarderías de ALMEDINILLA"
 ---

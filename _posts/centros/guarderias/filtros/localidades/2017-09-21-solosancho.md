@@ -10,4 +10,8 @@ name: "Solosancho"
 slug: "solosancho"
 slug-province: "avila"
 permalink: /guarderias-en-solosancho/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SOLOSANCHO"
+meta-description: "Listado con las mejores guarderías de SOLOSANCHO"
 ---

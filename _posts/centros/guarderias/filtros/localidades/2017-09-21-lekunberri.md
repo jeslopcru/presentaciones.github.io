@@ -10,4 +10,8 @@ name: "Lekunberri"
 slug: "lekunberri"
 slug-province: "navarra"
 permalink: /guarderias-en-lekunberri/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LEKUNBERRI"
+meta-description: "Listado con las mejores guarderías de LEKUNBERRI"
 ---

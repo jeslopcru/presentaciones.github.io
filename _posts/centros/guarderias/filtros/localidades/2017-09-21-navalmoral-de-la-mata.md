@@ -10,4 +10,8 @@ name: "Navalmoral De La Mata"
 slug: "navalmoral-de-la-mata"
 slug-province: "caceres"
 permalink: /guarderias-en-navalmoral-de-la-mata/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVALMORAL DE LA MATA"
+meta-description: "Listado con las mejores guarderías de NAVALMORAL DE LA MATA"
 ---

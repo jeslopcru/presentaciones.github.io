@@ -10,4 +10,8 @@ name: "Hornachos"
 slug: "hornachos"
 slug-province: "badajoz"
 permalink: /guarderias-en-hornachos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HORNACHOS"
+meta-description: "Listado con las mejores guarderías de HORNACHOS"
 ---

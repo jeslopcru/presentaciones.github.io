@@ -10,4 +10,8 @@ name: "Herrera Del Duque"
 slug: "herrera-del-duque"
 slug-province: "badajoz"
 permalink: /guarderias-en-herrera-del-duque/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HERRERA DEL DUQUE"
+meta-description: "Listado con las mejores guarderías de HERRERA DEL DUQUE"
 ---

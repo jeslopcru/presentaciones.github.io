@@ -10,4 +10,8 @@ name: "Onzonilla"
 slug: "onzonilla"
 slug-province: "leon"
 permalink: /guarderias-en-onzonilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ONZONILLA"
+meta-description: "Listado con las mejores guarderías de ONZONILLA"
 ---

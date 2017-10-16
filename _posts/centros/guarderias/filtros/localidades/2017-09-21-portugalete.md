@@ -10,4 +10,8 @@ name: "Portugalete"
 slug: "portugalete"
 slug-province: "bizkaia"
 permalink: /guarderias-en-portugalete/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PORTUGALETE"
+meta-description: "Listado con las mejores guarderías de PORTUGALETE"
 ---

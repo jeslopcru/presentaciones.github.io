@@ -10,4 +10,8 @@ name: "Villarejo De Salvanes"
 slug: "villarejo-de-salvanes"
 slug-province: "madrid"
 permalink: /guarderias-en-villarejo-de-salvanes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAREJO DE SALVANES"
+meta-description: "Listado con las mejores guarderías de VILLAREJO DE SALVANES"
 ---

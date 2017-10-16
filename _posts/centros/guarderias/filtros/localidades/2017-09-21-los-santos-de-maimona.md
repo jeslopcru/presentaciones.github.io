@@ -10,4 +10,8 @@ name: "Los Santos De Maimona"
 slug: "los-santos-de-maimona"
 slug-province: "badajoz"
 permalink: /guarderias-en-los-santos-de-maimona/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS SANTOS DE MAIMONA"
+meta-description: "Listado con las mejores guarderías de LOS SANTOS DE MAIMONA"
 ---

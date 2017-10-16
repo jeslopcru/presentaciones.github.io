@@ -10,4 +10,8 @@ name: "San Pablo De Los Montes"
 slug: "san-pablo-de-los-montes"
 slug-province: "toledo"
 permalink: /guarderias-en-san-pablo-de-los-montes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN PABLO DE LOS MONTES"
+meta-description: "Listado con las mejores guarderías de SAN PABLO DE LOS MONTES"
 ---

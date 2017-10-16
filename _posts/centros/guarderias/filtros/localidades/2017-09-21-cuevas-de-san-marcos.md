@@ -10,4 +10,8 @@ name: "Cuevas De San Marcos"
 slug: "cuevas-de-san-marcos"
 slug-province: "malaga"
 permalink: /guarderias-en-cuevas-de-san-marcos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CUEVAS DE SAN MARCOS"
+meta-description: "Listado con las mejores guarderías de CUEVAS DE SAN MARCOS"
 ---

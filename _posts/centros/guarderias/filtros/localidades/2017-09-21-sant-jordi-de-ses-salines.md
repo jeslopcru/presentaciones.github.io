@@ -10,4 +10,8 @@ name: "Sant Jordi De Ses Salines"
 slug: "sant-jordi-de-ses-salines"
 slug-province: "illes-balears"
 permalink: /guarderias-en-sant-jordi-de-ses-salines/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANT JORDI DE SES SALINES"
+meta-description: "Listado con las mejores guarderías de SANT JORDI DE SES SALINES"
 ---

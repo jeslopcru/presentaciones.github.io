@@ -10,4 +10,8 @@ name: "Churriana"
 slug: "churriana"
 slug-province: "malaga"
 permalink: /guarderias-en-churriana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CHURRIANA"
+meta-description: "Listado con las mejores guarderías de CHURRIANA"
 ---

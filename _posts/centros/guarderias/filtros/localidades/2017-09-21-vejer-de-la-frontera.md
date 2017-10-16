@@ -10,4 +10,8 @@ name: "Vejer De La Frontera"
 slug: "vejer-de-la-frontera"
 slug-province: "cadiz"
 permalink: /guarderias-en-vejer-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VEJER DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de VEJER DE LA FRONTERA"
 ---

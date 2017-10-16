@@ -10,4 +10,8 @@ name: "Bolaños De Calatrava"
 slug: "bolanos-de-calatrava"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-bolanos-de-calatrava/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BOLAñOS DE CALATRAVA"
+meta-description: "Listado con las mejores guarderías de BOLAñOS DE CALATRAVA"
 ---

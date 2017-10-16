@@ -10,4 +10,8 @@ name: "Santo Tome"
 slug: "santo-tome"
 slug-province: "jaen"
 permalink: /guarderias-en-santo-tome/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTO TOME"
+meta-description: "Listado con las mejores guarderías de SANTO TOME"
 ---

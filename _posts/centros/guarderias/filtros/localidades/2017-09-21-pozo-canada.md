@@ -10,4 +10,8 @@ name: "Pozo Cañada"
 slug: "pozo-canada"
 slug-province: "albacete"
 permalink: /guarderias-en-pozo-canada/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POZO CAñADA"
+meta-description: "Listado con las mejores guarderías de POZO CAñADA"
 ---

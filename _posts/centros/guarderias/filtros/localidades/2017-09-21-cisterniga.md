@@ -10,4 +10,8 @@ name: "Cisterniga"
 slug: "cisterniga"
 slug-province: "valladolid"
 permalink: /guarderias-en-cisterniga/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CISTERNIGA"
+meta-description: "Listado con las mejores guarderías de CISTERNIGA"
 ---

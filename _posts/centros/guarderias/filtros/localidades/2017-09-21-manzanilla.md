@@ -10,4 +10,8 @@ name: "Manzanilla"
 slug: "manzanilla"
 slug-province: "huelva"
 permalink: /guarderias-en-manzanilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MANZANILLA"
+meta-description: "Listado con las mejores guarderías de MANZANILLA"
 ---

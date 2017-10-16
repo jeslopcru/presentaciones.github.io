@@ -10,4 +10,8 @@ name: "Villacastin"
 slug: "villacastin"
 slug-province: "segovia"
 permalink: /guarderias-en-villacastin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLACASTIN"
+meta-description: "Listado con las mejores guarderías de VILLACASTIN"
 ---

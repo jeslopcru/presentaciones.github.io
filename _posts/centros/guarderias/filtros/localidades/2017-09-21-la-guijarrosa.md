@@ -10,4 +10,8 @@ name: "La Guijarrosa"
 slug: "la-guijarrosa"
 slug-province: "cordoba"
 permalink: /guarderias-en-la-guijarrosa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA GUIJARROSA"
+meta-description: "Listado con las mejores guarderías de LA GUIJARROSA"
 ---

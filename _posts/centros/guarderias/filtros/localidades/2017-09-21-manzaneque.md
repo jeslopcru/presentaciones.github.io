@@ -10,4 +10,8 @@ name: "Manzaneque"
 slug: "manzaneque"
 slug-province: "toledo"
 permalink: /guarderias-en-manzaneque/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MANZANEQUE"
+meta-description: "Listado con las mejores guarderías de MANZANEQUE"
 ---

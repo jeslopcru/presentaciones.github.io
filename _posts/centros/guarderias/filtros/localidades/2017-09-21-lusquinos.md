@@ -10,4 +10,8 @@ name: "Lusquiños"
 slug: "lusquinos"
 slug-province: "pontevedra"
 permalink: /guarderias-en-lusquinos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LUSQUIñOS"
+meta-description: "Listado con las mejores guarderías de LUSQUIñOS"
 ---

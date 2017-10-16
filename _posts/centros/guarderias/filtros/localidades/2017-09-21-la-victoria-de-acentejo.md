@@ -10,4 +10,8 @@ name: "La Victoria De Acentejo"
 slug: "la-victoria-de-acentejo"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-la-victoria-de-acentejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA VICTORIA DE ACENTEJO"
+meta-description: "Listado con las mejores guarderías de LA VICTORIA DE ACENTEJO"
 ---

@@ -10,4 +10,8 @@ name: "Alonsotegi"
 slug: "alonsotegi"
 slug-province: "bizkaia"
 permalink: /guarderias-en-alonsotegi/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALONSOTEGI"
+meta-description: "Listado con las mejores guarderías de ALONSOTEGI"
 ---

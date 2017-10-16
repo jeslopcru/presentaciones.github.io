@@ -10,4 +10,8 @@ name: "Alcolea De Cinca"
 slug: "alcolea-de-cinca"
 slug-province: "huesca"
 permalink: /guarderias-en-alcolea-de-cinca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCOLEA DE CINCA"
+meta-description: "Listado con las mejores guarderías de ALCOLEA DE CINCA"
 ---

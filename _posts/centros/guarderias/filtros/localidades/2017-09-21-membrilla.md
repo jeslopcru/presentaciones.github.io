@@ -10,4 +10,8 @@ name: "Membrilla"
 slug: "membrilla"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-membrilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MEMBRILLA"
+meta-description: "Listado con las mejores guarderías de MEMBRILLA"
 ---

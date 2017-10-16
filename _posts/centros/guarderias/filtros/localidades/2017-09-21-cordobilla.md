@@ -10,4 +10,8 @@ name: "Cordobilla"
 slug: "cordobilla"
 slug-province: "cordoba"
 permalink: /guarderias-en-cordobilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CORDOBILLA"
+meta-description: "Listado con las mejores guarderías de CORDOBILLA"
 ---

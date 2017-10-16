@@ -10,4 +10,8 @@ name: "Villaverde Del Rio"
 slug: "villaverde-del-rio"
 slug-province: "sevilla"
 permalink: /guarderias-en-villaverde-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAVERDE DEL RIO"
+meta-description: "Listado con las mejores guarderías de VILLAVERDE DEL RIO"
 ---

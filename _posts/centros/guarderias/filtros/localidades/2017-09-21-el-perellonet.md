@@ -10,4 +10,8 @@ name: "El Perellonet"
 slug: "el-perellonet"
 slug-province: "valencia"
 permalink: /guarderias-en-el-perellonet/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL PERELLONET"
+meta-description: "Listado con las mejores guarderías de EL PERELLONET"
 ---

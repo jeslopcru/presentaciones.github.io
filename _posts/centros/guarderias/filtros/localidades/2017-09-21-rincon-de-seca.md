@@ -10,4 +10,8 @@ name: "Rincon De Seca"
 slug: "rincon-de-seca"
 slug-province: "murcia"
 permalink: /guarderias-en-rincon-de-seca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RINCON DE SECA"
+meta-description: "Listado con las mejores guarderías de RINCON DE SECA"
 ---

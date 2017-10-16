@@ -10,4 +10,8 @@ name: "San Pedro Del Pinatar"
 slug: "san-pedro-del-pinatar"
 slug-province: "murcia"
 permalink: /guarderias-en-san-pedro-del-pinatar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN PEDRO DEL PINATAR"
+meta-description: "Listado con las mejores guarderías de SAN PEDRO DEL PINATAR"
 ---

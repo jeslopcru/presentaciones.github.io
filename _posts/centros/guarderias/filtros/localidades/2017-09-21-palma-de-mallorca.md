@@ -10,4 +10,8 @@ name: "Palma De Mallorca"
 slug: "palma-de-mallorca"
 slug-province: "illes-balears"
 permalink: /guarderias-en-palma-de-mallorca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PALMA DE MALLORCA"
+meta-description: "Listado con las mejores guarderías de PALMA DE MALLORCA"
 ---

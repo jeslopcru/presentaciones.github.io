@@ -10,4 +10,8 @@ name: "Fuenlabrada"
 slug: "fuenlabrada"
 slug-province: "madrid"
 permalink: /guarderias-en-fuenlabrada/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENLABRADA"
+meta-description: "Listado con las mejores guarderías de FUENLABRADA"
 ---

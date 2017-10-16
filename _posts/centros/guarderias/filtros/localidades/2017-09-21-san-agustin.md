@@ -10,4 +10,8 @@ name: "San Agustin"
 slug: "san-agustin"
 slug-province: "almeria"
 permalink: /guarderias-en-san-agustin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN AGUSTIN"
+meta-description: "Listado con las mejores guarderías de SAN AGUSTIN"
 ---

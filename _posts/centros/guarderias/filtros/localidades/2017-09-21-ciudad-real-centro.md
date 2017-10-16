@@ -10,4 +10,8 @@ name: "Ciudad Real Centro"
 slug: "ciudad-real-centro"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-ciudad-real-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CIUDAD REAL CENTRO"
+meta-description: "Listado con las mejores guarderías de CIUDAD REAL CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Venta Nueva"
 slug: "venta-nueva"
 slug-province: "granada"
 permalink: /guarderias-en-venta-nueva/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VENTA NUEVA"
+meta-description: "Listado con las mejores guarderías de VENTA NUEVA"
 ---

@@ -10,4 +10,8 @@ name: "Candean De Arriba"
 slug: "candean-de-arriba"
 slug-province: "pontevedra"
 permalink: /guarderias-en-candean-de-arriba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANDEAN DE ARRIBA"
+meta-description: "Listado con las mejores guarderías de CANDEAN DE ARRIBA"
 ---

@@ -10,4 +10,8 @@ name: "A Coruña Centro"
 slug: "a-coruna-centro"
 slug-province: "a-coruna"
 permalink: /guarderias-en-a-coruna-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de A CORUñA CENTRO"
+meta-description: "Listado con las mejores guarderías de A CORUñA CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Villamanrique"
 slug: "villamanrique"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-villamanrique/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAMANRIQUE"
+meta-description: "Listado con las mejores guarderías de VILLAMANRIQUE"
 ---

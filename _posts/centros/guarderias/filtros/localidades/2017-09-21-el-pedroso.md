@@ -10,4 +10,8 @@ name: "El Pedroso"
 slug: "el-pedroso"
 slug-province: "sevilla"
 permalink: /guarderias-en-el-pedroso/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL PEDROSO"
+meta-description: "Listado con las mejores guarderías de EL PEDROSO"
 ---

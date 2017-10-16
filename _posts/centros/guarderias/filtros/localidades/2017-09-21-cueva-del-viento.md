@@ -10,4 +10,8 @@ name: "Cueva Del Viento"
 slug: "cueva-del-viento"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-cueva-del-viento/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CUEVA DEL VIENTO"
+meta-description: "Listado con las mejores guarderías de CUEVA DEL VIENTO"
 ---

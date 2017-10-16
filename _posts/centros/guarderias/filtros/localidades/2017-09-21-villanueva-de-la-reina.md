@@ -10,4 +10,8 @@ name: "Villanueva De La Reina"
 slug: "villanueva-de-la-reina"
 slug-province: "jaen"
 permalink: /guarderias-en-villanueva-de-la-reina/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE LA REINA"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE LA REINA"
 ---

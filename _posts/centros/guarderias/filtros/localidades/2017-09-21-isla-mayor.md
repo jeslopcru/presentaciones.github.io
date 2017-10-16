@@ -10,4 +10,8 @@ name: "Isla Mayor"
 slug: "isla-mayor"
 slug-province: "sevilla"
 permalink: /guarderias-en-isla-mayor/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ISLA MAYOR"
+meta-description: "Listado con las mejores guarderías de ISLA MAYOR"
 ---

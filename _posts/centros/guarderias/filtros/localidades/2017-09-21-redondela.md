@@ -10,4 +10,8 @@ name: "Redondela"
 slug: "redondela"
 slug-province: "pontevedra"
 permalink: /guarderias-en-redondela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de REDONDELA"
+meta-description: "Listado con las mejores guarderías de REDONDELA"
 ---

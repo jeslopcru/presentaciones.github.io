@@ -10,4 +10,8 @@ name: "Garinoain"
 slug: "garinoain"
 slug-province: "navarra"
 permalink: /guarderias-en-garinoain/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GARINOAIN"
+meta-description: "Listado con las mejores guarderías de GARINOAIN"
 ---

@@ -10,4 +10,8 @@ name: "Ibeas De Juarros"
 slug: "ibeas-de-juarros"
 slug-province: "burgos"
 permalink: /guarderias-en-ibeas-de-juarros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de IBEAS DE JUARROS"
+meta-description: "Listado con las mejores guarderías de IBEAS DE JUARROS"
 ---

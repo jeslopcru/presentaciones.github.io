@@ -10,4 +10,8 @@ name: "Palma Del Rio"
 slug: "palma-del-rio"
 slug-province: "cordoba"
 permalink: /guarderias-en-palma-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PALMA DEL RIO"
+meta-description: "Listado con las mejores guarderías de PALMA DEL RIO"
 ---

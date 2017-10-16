@@ -10,4 +10,8 @@ name: "Barajas De Melo"
 slug: "barajas-de-melo"
 slug-province: "cuenca"
 permalink: /guarderias-en-barajas-de-melo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BARAJAS DE MELO"
+meta-description: "Listado con las mejores guarderías de BARAJAS DE MELO"
 ---

@@ -10,4 +10,8 @@ name: "El Alquian"
 slug: "el-alquian"
 slug-province: "almeria"
 permalink: /guarderias-en-el-alquian/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL ALQUIAN"
+meta-description: "Listado con las mejores guarderías de EL ALQUIAN"
 ---

@@ -10,4 +10,8 @@ name: "Donostia/San Sebastián"
 slug: "donostia-san-sebastian"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-donostia-san-sebastian/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DONOSTIA/SAN SEBASTIáN"
+meta-description: "Listado con las mejores guarderías de DONOSTIA/SAN SEBASTIáN"
 ---

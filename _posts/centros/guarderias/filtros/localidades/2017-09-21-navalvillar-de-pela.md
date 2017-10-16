@@ -10,4 +10,8 @@ name: "Navalvillar De Pela"
 slug: "navalvillar-de-pela"
 slug-province: "badajoz"
 permalink: /guarderias-en-navalvillar-de-pela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVALVILLAR DE PELA"
+meta-description: "Listado con las mejores guarderías de NAVALVILLAR DE PELA"
 ---

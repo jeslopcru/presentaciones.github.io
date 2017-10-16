@@ -10,4 +10,8 @@ name: "Coria Del Rio"
 slug: "coria-del-rio"
 slug-province: "sevilla"
 permalink: /guarderias-en-coria-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CORIA DEL RIO"
+meta-description: "Listado con las mejores guarderías de CORIA DEL RIO"
 ---

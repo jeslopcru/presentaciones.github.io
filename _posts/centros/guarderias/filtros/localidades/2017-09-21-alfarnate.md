@@ -10,4 +10,8 @@ name: "Alfarnate"
 slug: "alfarnate"
 slug-province: "malaga"
 permalink: /guarderias-en-alfarnate/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALFARNATE"
+meta-description: "Listado con las mejores guarderías de ALFARNATE"
 ---

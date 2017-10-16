@@ -10,4 +10,8 @@ name: "A Corveira"
 slug: "a-corveira"
 slug-province: "a-coruna"
 permalink: /guarderias-en-a-corveira/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de A CORVEIRA"
+meta-description: "Listado con las mejores guarderías de A CORVEIRA"
 ---

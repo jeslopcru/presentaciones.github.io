@@ -10,4 +10,8 @@ name: "La Fresneda"
 slug: "la-fresneda"
 slug-province: "teruel"
 permalink: /guarderias-en-la-fresneda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA FRESNEDA"
+meta-description: "Listado con las mejores guarderías de LA FRESNEDA"
 ---

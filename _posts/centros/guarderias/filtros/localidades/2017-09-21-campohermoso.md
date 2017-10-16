@@ -10,4 +10,8 @@ name: "Campohermoso"
 slug: "campohermoso"
 slug-province: "almeria"
 permalink: /guarderias-en-campohermoso/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAMPOHERMOSO"
+meta-description: "Listado con las mejores guarderías de CAMPOHERMOSO"
 ---

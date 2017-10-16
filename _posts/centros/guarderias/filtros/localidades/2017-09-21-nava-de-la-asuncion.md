@@ -10,4 +10,8 @@ name: "Nava De La Asuncion"
 slug: "nava-de-la-asuncion"
 slug-province: "segovia"
 permalink: /guarderias-en-nava-de-la-asuncion/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVA DE LA ASUNCION"
+meta-description: "Listado con las mejores guarderías de NAVA DE LA ASUNCION"
 ---

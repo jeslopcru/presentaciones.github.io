@@ -10,4 +10,8 @@ name: "Osso De Cinca"
 slug: "osso-de-cinca"
 slug-province: "huesca"
 permalink: /guarderias-en-osso-de-cinca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de OSSO DE CINCA"
+meta-description: "Listado con las mejores guarderías de OSSO DE CINCA"
 ---

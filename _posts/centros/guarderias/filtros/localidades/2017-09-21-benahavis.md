@@ -10,4 +10,8 @@ name: "Benahavis"
 slug: "benahavis"
 slug-province: "malaga"
 permalink: /guarderias-en-benahavis/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAHAVIS"
+meta-description: "Listado con las mejores guarderías de BENAHAVIS"
 ---

@@ -10,4 +10,8 @@ name: "Melilla Centro"
 slug: "melilla-centro"
 slug-province: "melilla"
 permalink: /guarderias-en-melilla-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MELILLA CENTRO"
+meta-description: "Listado con las mejores guarderías de MELILLA CENTRO"
 ---

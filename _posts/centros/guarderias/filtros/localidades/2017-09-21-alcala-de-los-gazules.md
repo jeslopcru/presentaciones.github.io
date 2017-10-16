@@ -10,4 +10,8 @@ name: "Alcala De Los Gazules"
 slug: "alcala-de-los-gazules"
 slug-province: "cadiz"
 permalink: /guarderias-en-alcala-de-los-gazules/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCALA DE LOS GAZULES"
+meta-description: "Listado con las mejores guarderías de ALCALA DE LOS GAZULES"
 ---

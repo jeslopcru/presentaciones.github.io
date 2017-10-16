@@ -10,4 +10,8 @@ name: "Ciempozuelos"
 slug: "ciempozuelos"
 slug-province: "madrid"
 permalink: /guarderias-en-ciempozuelos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CIEMPOZUELOS"
+meta-description: "Listado con las mejores guarderías de CIEMPOZUELOS"
 ---

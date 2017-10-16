@@ -10,4 +10,8 @@ name: "Arteaga Derio"
 slug: "arteaga-derio"
 slug-province: "bizkaia"
 permalink: /guarderias-en-arteaga-derio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARTEAGA DERIO"
+meta-description: "Listado con las mejores guarderías de ARTEAGA DERIO"
 ---

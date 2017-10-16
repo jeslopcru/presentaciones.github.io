@@ -10,4 +10,8 @@ name: "O Serrallo"
 slug: "o-serrallo"
 slug-province: "pontevedra"
 permalink: /guarderias-en-o-serrallo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de O SERRALLO"
+meta-description: "Listado con las mejores guarderías de O SERRALLO"
 ---

@@ -10,4 +10,8 @@ name: "Sa Creu Vermella"
 slug: "sa-creu-vermella"
 slug-province: "illes-balears"
 permalink: /guarderias-en-sa-creu-vermella/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SA CREU VERMELLA"
+meta-description: "Listado con las mejores guarderías de SA CREU VERMELLA"
 ---

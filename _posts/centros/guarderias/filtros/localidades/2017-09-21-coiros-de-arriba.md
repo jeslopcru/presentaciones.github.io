@@ -10,4 +10,8 @@ name: "Coiros De Arriba"
 slug: "coiros-de-arriba"
 slug-province: "a-coruna"
 permalink: /guarderias-en-coiros-de-arriba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COIROS DE ARRIBA"
+meta-description: "Listado con las mejores guarderías de COIROS DE ARRIBA"
 ---

@@ -10,4 +10,8 @@ name: "Maspalomas"
 slug: "maspalomas"
 slug-province: "las-palmas"
 permalink: /guarderias-en-maspalomas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MASPALOMAS"
+meta-description: "Listado con las mejores guarderías de MASPALOMAS"
 ---

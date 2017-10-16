@@ -48,7 +48,7 @@ if (($handle = fopen("centros2.tsv", "r")) !== FALSE) {
 
         createGuarderia($data);
 
-//        if ($row == 500) {
+//        if ($row == 1000) {
 //            break;
 //        }
     }
@@ -106,6 +106,10 @@ function createGuarderia(array $data)
     file_put_contents($fileName, 'type: "' . $data[5] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'img: guarderia.jpg' . "\n", FILE_APPEND);
     file_put_contents($fileName, 'permalink: ' . $permalink . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'robot: noindex, follow' . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'sitemap: false' . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'meta-title: "Toda la información de la guardería ' . strtoupper($title) . "\"\n", FILE_APPEND);
+    file_put_contents($fileName, 'meta-description: "Toda la información de la guardería ' . strtoupper($title) . "\"\n", FILE_APPEND);
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
 
     $province = [
@@ -141,6 +145,10 @@ function createProvince(array $province)
     file_put_contents($fileName, 'name: "' . $title . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'slug: "' . $province['slug'] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'permalink: ' . $permalink . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'robot: noindex, follow' . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'sitemap: false' . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'meta-title: "Listado con las mejores guarderías de ' . strtoupper($title) . "\"\n", FILE_APPEND);
+    file_put_contents($fileName, 'meta-description: "Busca la mejor guardería de ' . strtoupper($title) . ' para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles.' . "\"\n", FILE_APPEND);
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
 }
 
@@ -168,6 +176,10 @@ function createLocation(array $location)
     file_put_contents($fileName, 'slug: "' . $location['slug'] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'slug-province: "' . $location['province'] . "\"\n", FILE_APPEND);
     file_put_contents($fileName, 'permalink: ' . $permalink . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'robot: noindex, follow' . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'sitemap: false' . "\n", FILE_APPEND);
+    file_put_contents($fileName, 'meta-title: "Listado con las mejores guarderías de ' . strtoupper($title) . "\"\n", FILE_APPEND);
+    file_put_contents($fileName, 'meta-description: "Listado con las mejores guarderías de ' . strtoupper($title) . "\"\n", FILE_APPEND);
     file_put_contents($fileName, '---' . "\n", FILE_APPEND);
 }
 

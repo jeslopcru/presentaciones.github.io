@@ -10,4 +10,8 @@ name: "Huesca Centro"
 slug: "huesca-centro"
 slug-province: "huesca"
 permalink: /guarderias-en-huesca-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HUESCA CENTRO"
+meta-description: "Listado con las mejores guarderías de HUESCA CENTRO"
 ---

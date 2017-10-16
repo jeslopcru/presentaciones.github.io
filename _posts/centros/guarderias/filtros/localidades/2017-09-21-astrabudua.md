@@ -10,4 +10,8 @@ name: "Astrabudua"
 slug: "astrabudua"
 slug-province: "bizkaia"
 permalink: /guarderias-en-astrabudua/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ASTRABUDUA"
+meta-description: "Listado con las mejores guarderías de ASTRABUDUA"
 ---

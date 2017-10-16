@@ -10,4 +10,8 @@ name: "Soria Centro"
 slug: "soria-centro"
 slug-province: "soria"
 permalink: /guarderias-en-soria-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SORIA CENTRO"
+meta-description: "Listado con las mejores guarderías de SORIA CENTRO"
 ---

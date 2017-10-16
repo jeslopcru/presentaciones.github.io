@@ -10,4 +10,8 @@ name: "Alalpardo"
 slug: "alalpardo"
 slug-province: "madrid"
 permalink: /guarderias-en-alalpardo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALALPARDO"
+meta-description: "Listado con las mejores guarderías de ALALPARDO"
 ---

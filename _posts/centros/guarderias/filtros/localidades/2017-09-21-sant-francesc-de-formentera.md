@@ -10,4 +10,8 @@ name: "Sant Francesc De Formentera"
 slug: "sant-francesc-de-formentera"
 slug-province: "illes-balears"
 permalink: /guarderias-en-sant-francesc-de-formentera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANT FRANCESC DE FORMENTERA"
+meta-description: "Listado con las mejores guarderías de SANT FRANCESC DE FORMENTERA"
 ---

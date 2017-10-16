@@ -10,4 +10,8 @@ name: "San Martin"
 slug: "san-martin"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-san-martin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN MARTIN"
+meta-description: "Listado con las mejores guarderías de SAN MARTIN"
 ---

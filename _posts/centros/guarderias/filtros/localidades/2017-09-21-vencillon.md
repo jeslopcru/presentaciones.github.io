@@ -10,4 +10,8 @@ name: "Vencillon"
 slug: "vencillon"
 slug-province: "huesca"
 permalink: /guarderias-en-vencillon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VENCILLON"
+meta-description: "Listado con las mejores guarderías de VENCILLON"
 ---

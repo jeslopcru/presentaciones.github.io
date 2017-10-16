@@ -10,4 +10,8 @@ name: "Albacete Centro"
 slug: "albacete-centro"
 slug-province: "albacete"
 permalink: /guarderias-en-albacete-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALBACETE CENTRO"
+meta-description: "Listado con las mejores guarderías de ALBACETE CENTRO"
 ---

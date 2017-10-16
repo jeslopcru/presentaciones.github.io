@@ -10,4 +10,8 @@ name: "Fuente Palmera"
 slug: "fuente-palmera"
 slug-province: "cordoba"
 permalink: /guarderias-en-fuente-palmera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENTE PALMERA"
+meta-description: "Listado con las mejores guarderías de FUENTE PALMERA"
 ---

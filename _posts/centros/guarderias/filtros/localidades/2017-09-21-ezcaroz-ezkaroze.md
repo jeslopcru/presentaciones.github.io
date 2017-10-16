@@ -10,4 +10,8 @@ name: "Ezcaroz/Ezkaroze"
 slug: "ezcaroz-ezkaroze"
 slug-province: "navarra"
 permalink: /guarderias-en-ezcaroz-ezkaroze/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EZCAROZ/EZKAROZE"
+meta-description: "Listado con las mejores guarderías de EZCAROZ/EZKAROZE"
 ---

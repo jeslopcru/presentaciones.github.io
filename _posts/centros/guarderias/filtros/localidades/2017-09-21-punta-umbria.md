@@ -10,4 +10,8 @@ name: "Punta Umbria"
 slug: "punta-umbria"
 slug-province: "huelva"
 permalink: /guarderias-en-punta-umbria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUNTA UMBRIA"
+meta-description: "Listado con las mejores guarderías de PUNTA UMBRIA"
 ---

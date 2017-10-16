@@ -10,4 +10,8 @@ name: "El Arrecife"
 slug: "el-arrecife"
 slug-province: "cordoba"
 permalink: /guarderias-en-el-arrecife/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL ARRECIFE"
+meta-description: "Listado con las mejores guarderías de EL ARRECIFE"
 ---

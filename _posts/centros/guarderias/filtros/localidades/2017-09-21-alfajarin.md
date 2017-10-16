@@ -10,4 +10,8 @@ name: "Alfajarin"
 slug: "alfajarin"
 slug-province: "zaragoza"
 permalink: /guarderias-en-alfajarin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALFAJARIN"
+meta-description: "Listado con las mejores guarderías de ALFAJARIN"
 ---

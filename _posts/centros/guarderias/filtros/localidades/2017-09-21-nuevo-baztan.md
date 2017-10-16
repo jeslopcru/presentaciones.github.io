@@ -10,4 +10,8 @@ name: "Nuevo Baztan"
 slug: "nuevo-baztan"
 slug-province: "madrid"
 permalink: /guarderias-en-nuevo-baztan/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NUEVO BAZTAN"
+meta-description: "Listado con las mejores guarderías de NUEVO BAZTAN"
 ---

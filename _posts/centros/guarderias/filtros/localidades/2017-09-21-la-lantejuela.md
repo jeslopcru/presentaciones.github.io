@@ -10,4 +10,8 @@ name: "La Lantejuela"
 slug: "la-lantejuela"
 slug-province: "sevilla"
 permalink: /guarderias-en-la-lantejuela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA LANTEJUELA"
+meta-description: "Listado con las mejores guarderías de LA LANTEJUELA"
 ---

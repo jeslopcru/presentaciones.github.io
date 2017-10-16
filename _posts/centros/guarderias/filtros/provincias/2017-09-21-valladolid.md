@@ -8,4 +8,8 @@ categories:
 name: "Valladolid"
 slug: "valladolid"
 permalink: /guarderias-en-valladolid/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALLADOLID"
+meta-description: "Busca la mejor guardería de VALLADOLID para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles."
 ---

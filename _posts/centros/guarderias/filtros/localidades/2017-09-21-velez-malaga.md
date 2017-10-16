@@ -10,4 +10,8 @@ name: "Velez-Malaga"
 slug: "velez-malaga"
 slug-province: "malaga"
 permalink: /guarderias-en-velez-malaga/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VELEZ-MALAGA"
+meta-description: "Listado con las mejores guarderías de VELEZ-MALAGA"
 ---

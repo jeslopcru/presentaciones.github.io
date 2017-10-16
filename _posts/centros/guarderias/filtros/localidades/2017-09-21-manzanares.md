@@ -10,4 +10,8 @@ name: "Manzanares"
 slug: "manzanares"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-manzanares/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MANZANARES"
+meta-description: "Listado con las mejores guarderías de MANZANARES"
 ---

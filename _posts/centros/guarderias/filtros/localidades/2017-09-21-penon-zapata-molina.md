@@ -10,4 +10,8 @@ name: "Peñon-Zapata-Molina"
 slug: "penon-zapata-molina"
 slug-province: "malaga"
 permalink: /guarderias-en-penon-zapata-molina/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PEñON-ZAPATA-MOLINA"
+meta-description: "Listado con las mejores guarderías de PEñON-ZAPATA-MOLINA"
 ---

@@ -10,4 +10,8 @@ name: "San Bartolomeu"
 slug: "san-bartolomeu"
 slug-province: "a-coruna"
 permalink: /guarderias-en-san-bartolomeu/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN BARTOLOMEU"
+meta-description: "Listado con las mejores guarderías de SAN BARTOLOMEU"
 ---

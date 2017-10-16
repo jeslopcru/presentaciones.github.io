@@ -10,4 +10,8 @@ name: "Ikaztegieta"
 slug: "ikaztegieta"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-ikaztegieta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de IKAZTEGIETA"
+meta-description: "Listado con las mejores guarderías de IKAZTEGIETA"
 ---

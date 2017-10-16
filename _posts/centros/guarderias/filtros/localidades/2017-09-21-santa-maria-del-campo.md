@@ -10,4 +10,8 @@ name: "Santa Maria Del Campo"
 slug: "santa-maria-del-campo"
 slug-province: "burgos"
 permalink: /guarderias-en-santa-maria-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA MARIA DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de SANTA MARIA DEL CAMPO"
 ---

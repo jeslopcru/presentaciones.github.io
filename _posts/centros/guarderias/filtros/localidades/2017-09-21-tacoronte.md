@@ -10,4 +10,8 @@ name: "Tacoronte"
 slug: "tacoronte"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-tacoronte/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TACORONTE"
+meta-description: "Listado con las mejores guarderías de TACORONTE"
 ---

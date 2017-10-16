@@ -10,4 +10,8 @@ name: "Berastegi"
 slug: "berastegi"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-berastegi/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BERASTEGI"
+meta-description: "Listado con las mejores guarderías de BERASTEGI"
 ---

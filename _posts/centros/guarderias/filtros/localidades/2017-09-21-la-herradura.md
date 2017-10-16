@@ -10,4 +10,8 @@ name: "La Herradura"
 slug: "la-herradura"
 slug-province: "granada"
 permalink: /guarderias-en-la-herradura/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA HERRADURA"
+meta-description: "Listado con las mejores guarderías de LA HERRADURA"
 ---

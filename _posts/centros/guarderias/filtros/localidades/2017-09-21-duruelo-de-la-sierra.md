@@ -10,4 +10,8 @@ name: "Duruelo De La Sierra"
 slug: "duruelo-de-la-sierra"
 slug-province: "soria"
 permalink: /guarderias-en-duruelo-de-la-sierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DURUELO DE LA SIERRA"
+meta-description: "Listado con las mejores guarderías de DURUELO DE LA SIERRA"
 ---

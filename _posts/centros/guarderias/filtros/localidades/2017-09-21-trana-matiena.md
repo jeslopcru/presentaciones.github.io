@@ -10,4 +10,8 @@ name: "Traña-Matiena"
 slug: "trana-matiena"
 slug-province: "bizkaia"
 permalink: /guarderias-en-trana-matiena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TRAñA-MATIENA"
+meta-description: "Listado con las mejores guarderías de TRAñA-MATIENA"
 ---

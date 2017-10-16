@@ -10,4 +10,8 @@ name: "Cabra Del Santo Cristo"
 slug: "cabra-del-santo-cristo"
 slug-province: "jaen"
 permalink: /guarderias-en-cabra-del-santo-cristo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CABRA DEL SANTO CRISTO"
+meta-description: "Listado con las mejores guarderías de CABRA DEL SANTO CRISTO"
 ---

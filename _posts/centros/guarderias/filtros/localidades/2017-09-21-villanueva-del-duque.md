@@ -10,4 +10,8 @@ name: "Villanueva Del Duque"
 slug: "villanueva-del-duque"
 slug-province: "cordoba"
 permalink: /guarderias-en-villanueva-del-duque/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DEL DUQUE"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DEL DUQUE"
 ---

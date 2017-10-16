@@ -10,4 +10,8 @@ name: "Bouza Do Rei"
 slug: "bouza-do-rei"
 slug-province: "pontevedra"
 permalink: /guarderias-en-bouza-do-rei/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BOUZA DO REI"
+meta-description: "Listado con las mejores guarderías de BOUZA DO REI"
 ---

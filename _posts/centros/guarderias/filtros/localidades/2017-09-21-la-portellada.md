@@ -10,4 +10,8 @@ name: "La Portellada"
 slug: "la-portellada"
 slug-province: "teruel"
 permalink: /guarderias-en-la-portellada/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA PORTELLADA"
+meta-description: "Listado con las mejores guarderías de LA PORTELLADA"
 ---

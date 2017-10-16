@@ -10,4 +10,8 @@ name: "La Guardia De Jaen"
 slug: "la-guardia-de-jaen"
 slug-province: "jaen"
 permalink: /guarderias-en-la-guardia-de-jaen/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA GUARDIA DE JAEN"
+meta-description: "Listado con las mejores guarderías de LA GUARDIA DE JAEN"
 ---

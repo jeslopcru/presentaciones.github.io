@@ -10,4 +10,8 @@ name: "Motilla Del Palancar"
 slug: "motilla-del-palancar"
 slug-province: "cuenca"
 permalink: /guarderias-en-motilla-del-palancar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MOTILLA DEL PALANCAR"
+meta-description: "Listado con las mejores guarderías de MOTILLA DEL PALANCAR"
 ---

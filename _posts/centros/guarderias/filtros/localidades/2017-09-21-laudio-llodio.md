@@ -10,4 +10,8 @@ name: "Laudio/Llodio"
 slug: "laudio-llodio"
 slug-province: "alava"
 permalink: /guarderias-en-laudio-llodio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAUDIO/LLODIO"
+meta-description: "Listado con las mejores guarderías de LAUDIO/LLODIO"
 ---

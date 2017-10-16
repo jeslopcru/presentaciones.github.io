@@ -10,4 +10,8 @@ name: "Vega De Ouria"
 slug: "vega-de-ouria"
 slug-province: "asturias"
 permalink: /guarderias-en-vega-de-ouria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VEGA DE OURIA"
+meta-description: "Listado con las mejores guarderías de VEGA DE OURIA"
 ---

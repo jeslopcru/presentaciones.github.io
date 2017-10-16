@@ -10,4 +10,8 @@ name: "Ávila Centro"
 slug: "avila-centro"
 slug-province: "avila"
 permalink: /guarderias-en-avila-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ÁVILA CENTRO"
+meta-description: "Listado con las mejores guarderías de ÁVILA CENTRO"
 ---

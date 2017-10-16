@@ -10,4 +10,8 @@ name: "Agurain/Salvatierra"
 slug: "agurain-salvatierra"
 slug-province: "alava"
 permalink: /guarderias-en-agurain-salvatierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AGURAIN/SALVATIERRA"
+meta-description: "Listado con las mejores guarderías de AGURAIN/SALVATIERRA"
 ---

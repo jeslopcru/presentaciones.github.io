@@ -8,4 +8,8 @@ categories:
 name: "Cantabria"
 slug: "cantabria"
 permalink: /guarderias-en-cantabria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANTABRIA"
+meta-description: "Busca la mejor guardería de CANTABRIA para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles."
 ---

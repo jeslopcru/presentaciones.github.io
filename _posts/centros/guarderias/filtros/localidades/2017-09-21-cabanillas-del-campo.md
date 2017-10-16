@@ -10,4 +10,8 @@ name: "Cabanillas Del Campo"
 slug: "cabanillas-del-campo"
 slug-province: "guadalajara"
 permalink: /guarderias-en-cabanillas-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CABANILLAS DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de CABANILLAS DEL CAMPO"
 ---

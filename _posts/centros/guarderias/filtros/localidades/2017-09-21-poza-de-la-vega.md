@@ -10,4 +10,8 @@ name: "Poza De La Vega"
 slug: "poza-de-la-vega"
 slug-province: "palencia"
 permalink: /guarderias-en-poza-de-la-vega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POZA DE LA VEGA"
+meta-description: "Listado con las mejores guarderías de POZA DE LA VEGA"
 ---

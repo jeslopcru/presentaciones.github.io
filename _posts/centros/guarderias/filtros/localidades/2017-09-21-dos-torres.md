@@ -10,4 +10,8 @@ name: "Dos Torres"
 slug: "dos-torres"
 slug-province: "cordoba"
 permalink: /guarderias-en-dos-torres/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DOS TORRES"
+meta-description: "Listado con las mejores guarderías de DOS TORRES"
 ---

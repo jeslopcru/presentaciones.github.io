@@ -10,4 +10,8 @@ name: "Tarazona De La Mancha"
 slug: "tarazona-de-la-mancha"
 slug-province: "albacete"
 permalink: /guarderias-en-tarazona-de-la-mancha/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TARAZONA DE LA MANCHA"
+meta-description: "Listado con las mejores guarderías de TARAZONA DE LA MANCHA"
 ---

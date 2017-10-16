@@ -10,4 +10,8 @@ name: "Villabona"
 slug: "villabona"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-villabona/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLABONA"
+meta-description: "Listado con las mejores guarderías de VILLABONA"
 ---

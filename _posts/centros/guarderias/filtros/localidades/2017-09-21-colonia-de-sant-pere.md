@@ -10,4 +10,8 @@ name: "Colonia De Sant Pere"
 slug: "colonia-de-sant-pere"
 slug-province: "illes-balears"
 permalink: /guarderias-en-colonia-de-sant-pere/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COLONIA DE SANT PERE"
+meta-description: "Listado con las mejores guarderías de COLONIA DE SANT PERE"
 ---

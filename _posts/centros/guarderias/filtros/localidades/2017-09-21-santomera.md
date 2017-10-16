@@ -10,4 +10,8 @@ name: "Santomera"
 slug: "santomera"
 slug-province: "murcia"
 permalink: /guarderias-en-santomera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTOMERA"
+meta-description: "Listado con las mejores guarderías de SANTOMERA"
 ---

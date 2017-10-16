@@ -10,4 +10,8 @@ name: "Moral De Calatrava"
 slug: "moral-de-calatrava"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-moral-de-calatrava/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MORAL DE CALATRAVA"
+meta-description: "Listado con las mejores guarderías de MORAL DE CALATRAVA"
 ---

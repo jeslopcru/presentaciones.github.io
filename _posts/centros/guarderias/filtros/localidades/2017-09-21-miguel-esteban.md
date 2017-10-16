@@ -10,4 +10,8 @@ name: "Miguel Esteban"
 slug: "miguel-esteban"
 slug-province: "toledo"
 permalink: /guarderias-en-miguel-esteban/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MIGUEL ESTEBAN"
+meta-description: "Listado con las mejores guarderías de MIGUEL ESTEBAN"
 ---

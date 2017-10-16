@@ -10,4 +10,8 @@ name: "Purullena"
 slug: "purullena"
 slug-province: "granada"
 permalink: /guarderias-en-purullena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PURULLENA"
+meta-description: "Listado con las mejores guarderías de PURULLENA"
 ---

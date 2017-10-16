@@ -10,4 +10,8 @@ name: "Casarrubuelos"
 slug: "casarrubuelos"
 slug-province: "madrid"
 permalink: /guarderias-en-casarrubuelos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASARRUBUELOS"
+meta-description: "Listado con las mejores guarderías de CASARRUBUELOS"
 ---

@@ -10,4 +10,8 @@ name: "Villalon De Campos"
 slug: "villalon-de-campos"
 slug-province: "valladolid"
 permalink: /guarderias-en-villalon-de-campos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLALON DE CAMPOS"
+meta-description: "Listado con las mejores guarderías de VILLALON DE CAMPOS"
 ---

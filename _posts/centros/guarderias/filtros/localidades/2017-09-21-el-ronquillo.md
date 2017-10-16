@@ -10,4 +10,8 @@ name: "El Ronquillo"
 slug: "el-ronquillo"
 slug-province: "sevilla"
 permalink: /guarderias-en-el-ronquillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL RONQUILLO"
+meta-description: "Listado con las mejores guarderías de EL RONQUILLO"
 ---

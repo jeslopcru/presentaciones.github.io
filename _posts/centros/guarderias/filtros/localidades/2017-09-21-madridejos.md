@@ -10,4 +10,8 @@ name: "Madridejos"
 slug: "madridejos"
 slug-province: "toledo"
 permalink: /guarderias-en-madridejos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MADRIDEJOS"
+meta-description: "Listado con las mejores guarderías de MADRIDEJOS"
 ---

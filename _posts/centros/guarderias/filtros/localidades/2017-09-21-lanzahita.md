@@ -10,4 +10,8 @@ name: "Lanzahita"
 slug: "lanzahita"
 slug-province: "avila"
 permalink: /guarderias-en-lanzahita/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LANZAHITA"
+meta-description: "Listado con las mejores guarderías de LANZAHITA"
 ---

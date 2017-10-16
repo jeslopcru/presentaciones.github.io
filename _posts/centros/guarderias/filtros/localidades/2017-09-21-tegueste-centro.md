@@ -10,4 +10,8 @@ name: "Tegueste Centro"
 slug: "tegueste-centro"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-tegueste-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TEGUESTE CENTRO"
+meta-description: "Listado con las mejores guarderías de TEGUESTE CENTRO"
 ---

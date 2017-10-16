@@ -10,4 +10,8 @@ name: "Mejorada Del Campo"
 slug: "mejorada-del-campo"
 slug-province: "madrid"
 permalink: /guarderias-en-mejorada-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MEJORADA DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de MEJORADA DEL CAMPO"
 ---

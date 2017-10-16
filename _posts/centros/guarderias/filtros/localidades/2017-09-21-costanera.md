@@ -10,4 +10,8 @@ name: "Costanera"
 slug: "costanera"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-costanera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COSTANERA"
+meta-description: "Listado con las mejores guarderías de COSTANERA"
 ---

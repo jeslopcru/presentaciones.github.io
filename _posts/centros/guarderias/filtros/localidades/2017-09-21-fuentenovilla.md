@@ -10,4 +10,8 @@ name: "Fuentenovilla"
 slug: "fuentenovilla"
 slug-province: "guadalajara"
 permalink: /guarderias-en-fuentenovilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENTENOVILLA"
+meta-description: "Listado con las mejores guarderías de FUENTENOVILLA"
 ---

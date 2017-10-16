@@ -10,4 +10,8 @@ name: "Aldea Del Rey"
 slug: "aldea-del-rey"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-aldea-del-rey/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALDEA DEL REY"
+meta-description: "Listado con las mejores guarderías de ALDEA DEL REY"
 ---

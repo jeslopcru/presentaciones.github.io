@@ -10,4 +10,8 @@ name: "Albalate De Zorita"
 slug: "albalate-de-zorita"
 slug-province: "guadalajara"
 permalink: /guarderias-en-albalate-de-zorita/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALBALATE DE ZORITA"
+meta-description: "Listado con las mejores guarderías de ALBALATE DE ZORITA"
 ---

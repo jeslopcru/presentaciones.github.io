@@ -10,4 +10,8 @@ name: "Villasuso"
 slug: "villasuso"
 slug-province: "cantabria"
 permalink: /guarderias-en-villasuso/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLASUSO"
+meta-description: "Listado con las mejores guarderías de VILLASUSO"
 ---

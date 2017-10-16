@@ -10,4 +10,8 @@ name: "Cintruenigo"
 slug: "cintruenigo"
 slug-province: "navarra"
 permalink: /guarderias-en-cintruenigo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CINTRUENIGO"
+meta-description: "Listado con las mejores guarderías de CINTRUENIGO"
 ---

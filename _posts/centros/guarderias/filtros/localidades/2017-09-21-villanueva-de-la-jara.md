@@ -10,4 +10,8 @@ name: "Villanueva De La Jara"
 slug: "villanueva-de-la-jara"
 slug-province: "cuenca"
 permalink: /guarderias-en-villanueva-de-la-jara/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE LA JARA"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE LA JARA"
 ---

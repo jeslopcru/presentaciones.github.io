@@ -10,4 +10,8 @@ name: "La Poblacion"
 slug: "la-poblacion"
 slug-province: "cantabria"
 permalink: /guarderias-en-la-poblacion/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA POBLACION"
+meta-description: "Listado con las mejores guarderías de LA POBLACION"
 ---

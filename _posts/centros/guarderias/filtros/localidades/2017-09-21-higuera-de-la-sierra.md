@@ -10,4 +10,8 @@ name: "Higuera De La Sierra"
 slug: "higuera-de-la-sierra"
 slug-province: "huelva"
 permalink: /guarderias-en-higuera-de-la-sierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HIGUERA DE LA SIERRA"
+meta-description: "Listado con las mejores guarderías de HIGUERA DE LA SIERRA"
 ---

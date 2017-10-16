@@ -10,4 +10,8 @@ name: "Palos De La Frontera"
 slug: "palos-de-la-frontera"
 slug-province: "huelva"
 permalink: /guarderias-en-palos-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PALOS DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de PALOS DE LA FRONTERA"
 ---

@@ -10,4 +10,8 @@ name: "Alhaurin De La Torre"
 slug: "alhaurin-de-la-torre"
 slug-province: "malaga"
 permalink: /guarderias-en-alhaurin-de-la-torre/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALHAURIN DE LA TORRE"
+meta-description: "Listado con las mejores guarderías de ALHAURIN DE LA TORRE"
 ---

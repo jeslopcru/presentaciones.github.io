@@ -10,4 +10,8 @@ name: "Cantalpino"
 slug: "cantalpino"
 slug-province: "salamanca"
 permalink: /guarderias-en-cantalpino/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANTALPINO"
+meta-description: "Listado con las mejores guarderías de CANTALPINO"
 ---

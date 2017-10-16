@@ -10,4 +10,8 @@ name: "Higueruela"
 slug: "higueruela"
 slug-province: "albacete"
 permalink: /guarderias-en-higueruela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HIGUERUELA"
+meta-description: "Listado con las mejores guarderías de HIGUERUELA"
 ---

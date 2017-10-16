@@ -10,4 +10,8 @@ name: "El Llano De Don Antonio"
 slug: "el-llano-de-don-antonio"
 slug-province: "almeria"
 permalink: /guarderias-en-el-llano-de-don-antonio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL LLANO DE DON ANTONIO"
+meta-description: "Listado con las mejores guarderías de EL LLANO DE DON ANTONIO"
 ---

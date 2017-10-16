@@ -10,4 +10,8 @@ name: "Alameda De La Sagra"
 slug: "alameda-de-la-sagra"
 slug-province: "toledo"
 permalink: /guarderias-en-alameda-de-la-sagra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALAMEDA DE LA SAGRA"
+meta-description: "Listado con las mejores guarderías de ALAMEDA DE LA SAGRA"
 ---

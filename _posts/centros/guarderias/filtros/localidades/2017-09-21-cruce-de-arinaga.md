@@ -10,4 +10,8 @@ name: "Cruce De Arinaga"
 slug: "cruce-de-arinaga"
 slug-province: "las-palmas"
 permalink: /guarderias-en-cruce-de-arinaga/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CRUCE DE ARINAGA"
+meta-description: "Listado con las mejores guarderías de CRUCE DE ARINAGA"
 ---

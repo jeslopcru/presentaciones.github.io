@@ -10,4 +10,8 @@ name: "La Codoñera"
 slug: "la-codonera"
 slug-province: "teruel"
 permalink: /guarderias-en-la-codonera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA CODOñERA"
+meta-description: "Listado con las mejores guarderías de LA CODOñERA"
 ---

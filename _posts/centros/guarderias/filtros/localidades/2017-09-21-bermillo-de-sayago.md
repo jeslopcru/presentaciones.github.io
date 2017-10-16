@@ -10,4 +10,8 @@ name: "Bermillo De Sayago"
 slug: "bermillo-de-sayago"
 slug-province: "zamora"
 permalink: /guarderias-en-bermillo-de-sayago/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BERMILLO DE SAYAGO"
+meta-description: "Listado con las mejores guarderías de BERMILLO DE SAYAGO"
 ---

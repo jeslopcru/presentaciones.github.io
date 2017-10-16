@@ -10,4 +10,8 @@ name: "Rio De Quintas"
 slug: "rio-de-quintas"
 slug-province: "a-coruna"
 permalink: /guarderias-en-rio-de-quintas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RIO DE QUINTAS"
+meta-description: "Listado con las mejores guarderías de RIO DE QUINTAS"
 ---

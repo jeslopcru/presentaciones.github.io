@@ -10,4 +10,8 @@ name: "Cañada Del Rabadan"
 slug: "canada-del-rabadan"
 slug-province: "cordoba"
 permalink: /guarderias-en-canada-del-rabadan/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAñADA DEL RABADAN"
+meta-description: "Listado con las mejores guarderías de CAñADA DEL RABADAN"
 ---

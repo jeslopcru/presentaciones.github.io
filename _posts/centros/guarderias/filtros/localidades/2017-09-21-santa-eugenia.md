@@ -10,4 +10,8 @@ name: "Santa Eugenia"
 slug: "santa-eugenia"
 slug-province: "illes-balears"
 permalink: /guarderias-en-santa-eugenia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA EUGENIA"
+meta-description: "Listado con las mejores guarderías de SANTA EUGENIA"
 ---

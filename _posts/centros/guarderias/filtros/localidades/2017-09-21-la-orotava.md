@@ -10,4 +10,8 @@ name: "La Orotava"
 slug: "la-orotava"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-la-orotava/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA OROTAVA"
+meta-description: "Listado con las mejores guarderías de LA OROTAVA"
 ---

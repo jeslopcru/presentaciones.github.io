@@ -10,4 +10,8 @@ name: "Marinaleda"
 slug: "marinaleda"
 slug-province: "sevilla"
 permalink: /guarderias-en-marinaleda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MARINALEDA"
+meta-description: "Listado con las mejores guarderías de MARINALEDA"
 ---

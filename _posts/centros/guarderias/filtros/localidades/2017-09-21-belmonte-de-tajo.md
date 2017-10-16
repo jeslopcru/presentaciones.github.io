@@ -10,4 +10,8 @@ name: "Belmonte De Tajo"
 slug: "belmonte-de-tajo"
 slug-province: "madrid"
 permalink: /guarderias-en-belmonte-de-tajo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BELMONTE DE TAJO"
+meta-description: "Listado con las mejores guarderías de BELMONTE DE TAJO"
 ---

@@ -10,4 +10,8 @@ name: "Marpequeña"
 slug: "marpequena"
 slug-province: "las-palmas"
 permalink: /guarderias-en-marpequena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MARPEQUEñA"
+meta-description: "Listado con las mejores guarderías de MARPEQUEñA"
 ---

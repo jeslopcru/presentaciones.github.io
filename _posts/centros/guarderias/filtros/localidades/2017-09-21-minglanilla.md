@@ -10,4 +10,8 @@ name: "Minglanilla"
 slug: "minglanilla"
 slug-province: "cuenca"
 permalink: /guarderias-en-minglanilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MINGLANILLA"
+meta-description: "Listado con las mejores guarderías de MINGLANILLA"
 ---

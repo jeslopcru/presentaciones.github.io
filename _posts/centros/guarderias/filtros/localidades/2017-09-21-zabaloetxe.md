@@ -10,4 +10,8 @@ name: "Zabaloetxe"
 slug: "zabaloetxe"
 slug-province: "bizkaia"
 permalink: /guarderias-en-zabaloetxe/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ZABALOETXE"
+meta-description: "Listado con las mejores guarderías de ZABALOETXE"
 ---

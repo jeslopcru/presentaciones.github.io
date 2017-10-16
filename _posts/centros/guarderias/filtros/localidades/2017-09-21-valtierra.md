@@ -10,4 +10,8 @@ name: "Valtierra"
 slug: "valtierra"
 slug-province: "navarra"
 permalink: /guarderias-en-valtierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALTIERRA"
+meta-description: "Listado con las mejores guarderías de VALTIERRA"
 ---

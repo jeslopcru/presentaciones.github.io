@@ -10,4 +10,8 @@ name: "Benacazon"
 slug: "benacazon"
 slug-province: "sevilla"
 permalink: /guarderias-en-benacazon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENACAZON"
+meta-description: "Listado con las mejores guarderías de BENACAZON"
 ---

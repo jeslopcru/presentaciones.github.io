@@ -10,4 +10,8 @@ name: "El Barraco"
 slug: "el-barraco"
 slug-province: "avila"
 permalink: /guarderias-en-el-barraco/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL BARRACO"
+meta-description: "Listado con las mejores guarderías de EL BARRACO"
 ---

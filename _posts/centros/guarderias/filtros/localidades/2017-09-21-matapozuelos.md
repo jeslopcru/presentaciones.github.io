@@ -10,4 +10,8 @@ name: "Matapozuelos"
 slug: "matapozuelos"
 slug-province: "valladolid"
 permalink: /guarderias-en-matapozuelos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MATAPOZUELOS"
+meta-description: "Listado con las mejores guarderías de MATAPOZUELOS"
 ---

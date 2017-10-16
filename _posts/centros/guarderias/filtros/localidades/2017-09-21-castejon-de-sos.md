@@ -10,4 +10,8 @@ name: "Castejon De Sos"
 slug: "castejon-de-sos"
 slug-province: "huesca"
 permalink: /guarderias-en-castejon-de-sos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTEJON DE SOS"
+meta-description: "Listado con las mejores guarderías de CASTEJON DE SOS"
 ---

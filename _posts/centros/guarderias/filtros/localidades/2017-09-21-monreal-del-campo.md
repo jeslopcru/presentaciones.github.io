@@ -10,4 +10,8 @@ name: "Monreal Del Campo"
 slug: "monreal-del-campo"
 slug-province: "teruel"
 permalink: /guarderias-en-monreal-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONREAL DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de MONREAL DEL CAMPO"
 ---

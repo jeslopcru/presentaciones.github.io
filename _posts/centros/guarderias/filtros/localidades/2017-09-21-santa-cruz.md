@@ -10,4 +10,8 @@ name: "Santa Cruz"
 slug: "santa-cruz"
 slug-province: "a-coruna"
 permalink: /guarderias-en-santa-cruz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA CRUZ"
+meta-description: "Listado con las mejores guarderías de SANTA CRUZ"
 ---

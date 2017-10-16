@@ -10,4 +10,8 @@ name: "Chiloeches"
 slug: "chiloeches"
 slug-province: "guadalajara"
 permalink: /guarderias-en-chiloeches/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CHILOECHES"
+meta-description: "Listado con las mejores guarderías de CHILOECHES"
 ---

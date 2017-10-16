@@ -10,4 +10,8 @@ name: "San Sebastian De Los Reyes"
 slug: "san-sebastian-de-los-reyes"
 slug-province: "madrid"
 permalink: /guarderias-en-san-sebastian-de-los-reyes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN SEBASTIAN DE LOS REYES"
+meta-description: "Listado con las mejores guarderías de SAN SEBASTIAN DE LOS REYES"
 ---

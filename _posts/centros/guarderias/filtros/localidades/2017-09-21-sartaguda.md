@@ -10,4 +10,8 @@ name: "Sartaguda"
 slug: "sartaguda"
 slug-province: "navarra"
 permalink: /guarderias-en-sartaguda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SARTAGUDA"
+meta-description: "Listado con las mejores guarderías de SARTAGUDA"
 ---

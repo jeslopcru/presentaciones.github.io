@@ -10,4 +10,8 @@ name: "Pozo Alcon"
 slug: "pozo-alcon"
 slug-province: "jaen"
 permalink: /guarderias-en-pozo-alcon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POZO ALCON"
+meta-description: "Listado con las mejores guarderías de POZO ALCON"
 ---

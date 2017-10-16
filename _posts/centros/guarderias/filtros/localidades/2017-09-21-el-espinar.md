@@ -10,4 +10,8 @@ name: "El Espinar"
 slug: "el-espinar"
 slug-province: "segovia"
 permalink: /guarderias-en-el-espinar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL ESPINAR"
+meta-description: "Listado con las mejores guarderías de EL ESPINAR"
 ---

@@ -10,4 +10,8 @@ name: "Belvís De La Jara"
 slug: "belvis-de-la-jara"
 slug-province: "toledo"
 permalink: /guarderias-en-belvis-de-la-jara/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BELVíS DE LA JARA"
+meta-description: "Listado con las mejores guarderías de BELVíS DE LA JARA"
 ---

@@ -10,4 +10,8 @@ name: "Burlada/Burlata"
 slug: "burlada-burlata"
 slug-province: "navarra"
 permalink: /guarderias-en-burlada-burlata/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BURLADA/BURLATA"
+meta-description: "Listado con las mejores guarderías de BURLADA/BURLATA"
 ---

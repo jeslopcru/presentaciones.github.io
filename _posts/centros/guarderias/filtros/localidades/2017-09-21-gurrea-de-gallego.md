@@ -10,4 +10,8 @@ name: "Gurrea De Gallego"
 slug: "gurrea-de-gallego"
 slug-province: "huesca"
 permalink: /guarderias-en-gurrea-de-gallego/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GURREA DE GALLEGO"
+meta-description: "Listado con las mejores guarderías de GURREA DE GALLEGO"
 ---

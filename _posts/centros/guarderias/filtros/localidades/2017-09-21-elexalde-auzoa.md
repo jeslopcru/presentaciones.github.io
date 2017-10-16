@@ -10,4 +10,8 @@ name: "Elexalde Auzoa"
 slug: "elexalde-auzoa"
 slug-province: "bizkaia"
 permalink: /guarderias-en-elexalde-auzoa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ELEXALDE AUZOA"
+meta-description: "Listado con las mejores guarderías de ELEXALDE AUZOA"
 ---

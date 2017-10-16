@@ -10,4 +10,8 @@ name: "Montalban De Cordoba"
 slug: "montalban-de-cordoba"
 slug-province: "cordoba"
 permalink: /guarderias-en-montalban-de-cordoba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTALBAN DE CORDOBA"
+meta-description: "Listado con las mejores guarderías de MONTALBAN DE CORDOBA"
 ---

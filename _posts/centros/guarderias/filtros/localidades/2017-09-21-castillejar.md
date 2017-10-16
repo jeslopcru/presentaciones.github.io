@@ -10,4 +10,8 @@ name: "Castillejar"
 slug: "castillejar"
 slug-province: "granada"
 permalink: /guarderias-en-castillejar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTILLEJAR"
+meta-description: "Listado con las mejores guarderías de CASTILLEJAR"
 ---

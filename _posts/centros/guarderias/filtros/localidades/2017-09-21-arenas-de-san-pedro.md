@@ -10,4 +10,8 @@ name: "Arenas De San Pedro"
 slug: "arenas-de-san-pedro"
 slug-province: "avila"
 permalink: /guarderias-en-arenas-de-san-pedro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARENAS DE SAN PEDRO"
+meta-description: "Listado con las mejores guarderías de ARENAS DE SAN PEDRO"
 ---

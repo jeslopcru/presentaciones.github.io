@@ -10,4 +10,8 @@ name: "La Arboleda"
 slug: "la-arboleda"
 slug-province: "guadalajara"
 permalink: /guarderias-en-la-arboleda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA ARBOLEDA"
+meta-description: "Listado con las mejores guarderías de LA ARBOLEDA"
 ---

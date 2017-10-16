@@ -10,4 +10,8 @@ name: "Montecalderon"
 slug: "montecalderon"
 slug-province: "guadalajara"
 permalink: /guarderias-en-montecalderon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTECALDERON"
+meta-description: "Listado con las mejores guarderías de MONTECALDERON"
 ---

@@ -10,4 +10,8 @@ name: "Mota Del Cuervo"
 slug: "mota-del-cuervo"
 slug-province: "cuenca"
 permalink: /guarderias-en-mota-del-cuervo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MOTA DEL CUERVO"
+meta-description: "Listado con las mejores guarderías de MOTA DEL CUERVO"
 ---

@@ -10,4 +10,8 @@ name: "Campanillas"
 slug: "campanillas"
 slug-province: "malaga"
 permalink: /guarderias-en-campanillas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAMPANILLAS"
+meta-description: "Listado con las mejores guarderías de CAMPANILLAS"
 ---

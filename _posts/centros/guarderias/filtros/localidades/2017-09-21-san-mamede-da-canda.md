@@ -10,4 +10,8 @@ name: "San Mamede Da Canda"
 slug: "san-mamede-da-canda"
 slug-province: "ourense"
 permalink: /guarderias-en-san-mamede-da-canda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN MAMEDE DA CANDA"
+meta-description: "Listado con las mejores guarderías de SAN MAMEDE DA CANDA"
 ---

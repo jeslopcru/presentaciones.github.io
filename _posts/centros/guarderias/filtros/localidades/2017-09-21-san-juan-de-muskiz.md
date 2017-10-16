@@ -10,4 +10,8 @@ name: "San Juan De Muskiz"
 slug: "san-juan-de-muskiz"
 slug-province: "bizkaia"
 permalink: /guarderias-en-san-juan-de-muskiz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN JUAN DE MUSKIZ"
+meta-description: "Listado con las mejores guarderías de SAN JUAN DE MUSKIZ"
 ---

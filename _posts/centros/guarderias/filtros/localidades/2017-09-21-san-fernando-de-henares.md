@@ -10,4 +10,8 @@ name: "San Fernando De Henares"
 slug: "san-fernando-de-henares"
 slug-province: "madrid"
 permalink: /guarderias-en-san-fernando-de-henares/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN FERNANDO DE HENARES"
+meta-description: "Listado con las mejores guarderías de SAN FERNANDO DE HENARES"
 ---

@@ -10,4 +10,8 @@ name: "Alcoy/Alcoi"
 slug: "alcoy-alcoi"
 slug-province: "alicante"
 permalink: /guarderias-en-alcoy-alcoi/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCOY/ALCOI"
+meta-description: "Listado con las mejores guarderías de ALCOY/ALCOI"
 ---

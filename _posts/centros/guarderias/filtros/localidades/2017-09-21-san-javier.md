@@ -10,4 +10,8 @@ name: "San Javier"
 slug: "san-javier"
 slug-province: "murcia"
 permalink: /guarderias-en-san-javier/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN JAVIER"
+meta-description: "Listado con las mejores guarderías de SAN JAVIER"
 ---

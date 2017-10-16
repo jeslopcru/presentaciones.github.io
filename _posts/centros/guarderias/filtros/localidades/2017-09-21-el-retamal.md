@@ -10,4 +10,8 @@ name: "El Retamal"
 slug: "el-retamal"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-el-retamal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL RETAMAL"
+meta-description: "Listado con las mejores guarderías de EL RETAMAL"
 ---

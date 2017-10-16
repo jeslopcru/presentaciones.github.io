@@ -10,4 +10,8 @@ name: "Sancti-Spiritus"
 slug: "sancti-spiritus"
 slug-province: "salamanca"
 permalink: /guarderias-en-sancti-spiritus/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANCTI-SPIRITUS"
+meta-description: "Listado con las mejores guarderías de SANCTI-SPIRITUS"
 ---

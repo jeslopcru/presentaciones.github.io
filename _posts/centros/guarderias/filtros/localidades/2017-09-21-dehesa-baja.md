@@ -10,4 +10,8 @@ name: "Dehesa Baja"
 slug: "dehesa-baja"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-dehesa-baja/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DEHESA BAJA"
+meta-description: "Listado con las mejores guarderías de DEHESA BAJA"
 ---

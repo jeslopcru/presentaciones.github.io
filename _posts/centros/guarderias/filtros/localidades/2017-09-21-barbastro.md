@@ -10,4 +10,8 @@ name: "Barbastro"
 slug: "barbastro"
 slug-province: "huesca"
 permalink: /guarderias-en-barbastro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BARBASTRO"
+meta-description: "Listado con las mejores guarderías de BARBASTRO"
 ---

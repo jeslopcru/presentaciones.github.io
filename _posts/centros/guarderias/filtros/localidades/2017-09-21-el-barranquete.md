@@ -10,4 +10,8 @@ name: "El Barranquete"
 slug: "el-barranquete"
 slug-province: "almeria"
 permalink: /guarderias-en-el-barranquete/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL BARRANQUETE"
+meta-description: "Listado con las mejores guarderías de EL BARRANQUETE"
 ---

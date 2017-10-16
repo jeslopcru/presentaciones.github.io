@@ -10,4 +10,8 @@ name: "Azkue (San Roke)"
 slug: "azkue-san-roke"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-azkue-san-roke/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AZKUE (SAN ROKE)"
+meta-description: "Listado con las mejores guarderías de AZKUE (SAN ROKE)"
 ---

@@ -10,4 +10,8 @@ name: "Talavera La Nueva"
 slug: "talavera-la-nueva"
 slug-province: "toledo"
 permalink: /guarderias-en-talavera-la-nueva/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TALAVERA LA NUEVA"
+meta-description: "Listado con las mejores guarderías de TALAVERA LA NUEVA"
 ---

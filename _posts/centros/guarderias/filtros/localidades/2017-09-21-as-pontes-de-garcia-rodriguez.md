@@ -10,4 +10,8 @@ name: "As Pontes De Garcia Rodriguez"
 slug: "as-pontes-de-garcia-rodriguez"
 slug-province: "a-coruna"
 permalink: /guarderias-en-as-pontes-de-garcia-rodriguez/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AS PONTES DE GARCIA RODRIGUEZ"
+meta-description: "Listado con las mejores guarderías de AS PONTES DE GARCIA RODRIGUEZ"
 ---

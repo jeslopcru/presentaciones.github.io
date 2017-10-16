@@ -10,4 +10,8 @@ name: "Nanclares De La Oca/Langraiz Oka"
 slug: "nanclares-de-la-oca-langraiz-oka"
 slug-province: "alava"
 permalink: /guarderias-en-nanclares-de-la-oca-langraiz-oka/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NANCLARES DE LA OCA/LANGRAIZ OKA"
+meta-description: "Listado con las mejores guarderías de NANCLARES DE LA OCA/LANGRAIZ OKA"
 ---

@@ -10,4 +10,8 @@ name: "San Enrique"
 slug: "san-enrique"
 slug-province: "cadiz"
 permalink: /guarderias-en-san-enrique/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN ENRIQUE"
+meta-description: "Listado con las mejores guarderías de SAN ENRIQUE"
 ---

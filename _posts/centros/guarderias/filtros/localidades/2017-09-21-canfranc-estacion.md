@@ -10,4 +10,8 @@ name: "Canfranc-Estacion"
 slug: "canfranc-estacion"
 slug-province: "huesca"
 permalink: /guarderias-en-canfranc-estacion/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANFRANC-ESTACION"
+meta-description: "Listado con las mejores guarderías de CANFRANC-ESTACION"
 ---

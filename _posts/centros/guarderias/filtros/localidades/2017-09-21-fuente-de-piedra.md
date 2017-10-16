@@ -10,4 +10,8 @@ name: "Fuente De Piedra"
 slug: "fuente-de-piedra"
 slug-province: "malaga"
 permalink: /guarderias-en-fuente-de-piedra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENTE DE PIEDRA"
+meta-description: "Listado con las mejores guarderías de FUENTE DE PIEDRA"
 ---

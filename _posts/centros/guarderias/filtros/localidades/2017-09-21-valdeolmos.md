@@ -10,4 +10,8 @@ name: "Valdeolmos"
 slug: "valdeolmos"
 slug-province: "madrid"
 permalink: /guarderias-en-valdeolmos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALDEOLMOS"
+meta-description: "Listado con las mejores guarderías de VALDEOLMOS"
 ---

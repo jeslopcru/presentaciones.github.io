@@ -10,4 +10,8 @@ name: "Montefrio"
 slug: "montefrio"
 slug-province: "granada"
 permalink: /guarderias-en-montefrio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTEFRIO"
+meta-description: "Listado con las mejores guarderías de MONTEFRIO"
 ---

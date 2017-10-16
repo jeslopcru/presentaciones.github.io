@@ -10,4 +10,8 @@ name: "Villafranca De Los Barros"
 slug: "villafranca-de-los-barros"
 slug-province: "badajoz"
 permalink: /guarderias-en-villafranca-de-los-barros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAFRANCA DE LOS BARROS"
+meta-description: "Listado con las mejores guarderías de VILLAFRANCA DE LOS BARROS"
 ---

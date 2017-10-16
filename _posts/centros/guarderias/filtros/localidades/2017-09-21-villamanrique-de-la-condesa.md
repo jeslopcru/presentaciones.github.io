@@ -10,4 +10,8 @@ name: "Villamanrique De La Condesa"
 slug: "villamanrique-de-la-condesa"
 slug-province: "sevilla"
 permalink: /guarderias-en-villamanrique-de-la-condesa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAMANRIQUE DE LA CONDESA"
+meta-description: "Listado con las mejores guarderías de VILLAMANRIQUE DE LA CONDESA"
 ---

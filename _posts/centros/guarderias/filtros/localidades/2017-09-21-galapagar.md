@@ -10,4 +10,8 @@ name: "Galapagar"
 slug: "galapagar"
 slug-province: "madrid"
 permalink: /guarderias-en-galapagar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GALAPAGAR"
+meta-description: "Listado con las mejores guarderías de GALAPAGAR"
 ---

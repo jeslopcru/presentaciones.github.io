@@ -10,4 +10,8 @@ name: "El Priorato"
 slug: "el-priorato"
 slug-province: "sevilla"
 permalink: /guarderias-en-el-priorato/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL PRIORATO"
+meta-description: "Listado con las mejores guarderías de EL PRIORATO"
 ---

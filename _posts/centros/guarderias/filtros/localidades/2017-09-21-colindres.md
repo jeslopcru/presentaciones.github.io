@@ -10,4 +10,8 @@ name: "Colindres"
 slug: "colindres"
 slug-province: "cantabria"
 permalink: /guarderias-en-colindres/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COLINDRES"
+meta-description: "Listado con las mejores guarderías de COLINDRES"
 ---

@@ -10,4 +10,8 @@ name: "Corralejo"
 slug: "corralejo"
 slug-province: "las-palmas"
 permalink: /guarderias-en-corralejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CORRALEJO"
+meta-description: "Listado con las mejores guarderías de CORRALEJO"
 ---

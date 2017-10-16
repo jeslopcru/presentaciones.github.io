@@ -10,4 +10,8 @@ name: "Sevilla La Nueva"
 slug: "sevilla-la-nueva"
 slug-province: "madrid"
 permalink: /guarderias-en-sevilla-la-nueva/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SEVILLA LA NUEVA"
+meta-description: "Listado con las mejores guarderías de SEVILLA LA NUEVA"
 ---

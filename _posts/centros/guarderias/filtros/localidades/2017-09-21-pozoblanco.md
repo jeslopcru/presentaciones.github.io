@@ -10,4 +10,8 @@ name: "Pozoblanco"
 slug: "pozoblanco"
 slug-province: "cordoba"
 permalink: /guarderias-en-pozoblanco/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POZOBLANCO"
+meta-description: "Listado con las mejores guarderías de POZOBLANCO"
 ---

@@ -10,4 +10,8 @@ name: "Doneztebe"
 slug: "doneztebe"
 slug-province: "bizkaia"
 permalink: /guarderias-en-doneztebe/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DONEZTEBE"
+meta-description: "Listado con las mejores guarderías de DONEZTEBE"
 ---

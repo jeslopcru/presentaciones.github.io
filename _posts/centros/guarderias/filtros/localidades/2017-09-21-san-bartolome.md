@@ -10,4 +10,8 @@ name: "San Bartolome"
 slug: "san-bartolome"
 slug-province: "las-palmas"
 permalink: /guarderias-en-san-bartolome/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN BARTOLOME"
+meta-description: "Listado con las mejores guarderías de SAN BARTOLOME"
 ---

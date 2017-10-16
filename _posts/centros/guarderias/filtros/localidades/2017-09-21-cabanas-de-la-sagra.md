@@ -10,4 +10,8 @@ name: "Cabañas De La Sagra"
 slug: "cabanas-de-la-sagra"
 slug-province: "toledo"
 permalink: /guarderias-en-cabanas-de-la-sagra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CABAñAS DE LA SAGRA"
+meta-description: "Listado con las mejores guarderías de CABAñAS DE LA SAGRA"
 ---

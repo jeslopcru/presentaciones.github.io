@@ -10,4 +10,8 @@ name: "Valderrobres"
 slug: "valderrobres"
 slug-province: "teruel"
 permalink: /guarderias-en-valderrobres/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALDERROBRES"
+meta-description: "Listado con las mejores guarderías de VALDERROBRES"
 ---

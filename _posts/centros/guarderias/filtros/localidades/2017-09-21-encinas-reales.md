@@ -10,4 +10,8 @@ name: "Encinas Reales"
 slug: "encinas-reales"
 slug-province: "cordoba"
 permalink: /guarderias-en-encinas-reales/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ENCINAS REALES"
+meta-description: "Listado con las mejores guarderías de ENCINAS REALES"
 ---

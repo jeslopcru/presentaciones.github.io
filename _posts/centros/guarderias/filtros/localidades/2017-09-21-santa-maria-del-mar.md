@@ -10,4 +10,8 @@ name: "Santa Maria Del Mar"
 slug: "santa-maria-del-mar"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-santa-maria-del-mar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA MARIA DEL MAR"
+meta-description: "Listado con las mejores guarderías de SANTA MARIA DEL MAR"
 ---

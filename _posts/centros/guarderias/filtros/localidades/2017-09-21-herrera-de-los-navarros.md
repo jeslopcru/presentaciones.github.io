@@ -10,4 +10,8 @@ name: "Herrera De Los Navarros"
 slug: "herrera-de-los-navarros"
 slug-province: "zaragoza"
 permalink: /guarderias-en-herrera-de-los-navarros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HERRERA DE LOS NAVARROS"
+meta-description: "Listado con las mejores guarderías de HERRERA DE LOS NAVARROS"
 ---

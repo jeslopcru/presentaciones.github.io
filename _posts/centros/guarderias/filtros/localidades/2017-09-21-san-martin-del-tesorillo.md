@@ -10,4 +10,8 @@ name: "San Martin Del Tesorillo"
 slug: "san-martin-del-tesorillo"
 slug-province: "cadiz"
 permalink: /guarderias-en-san-martin-del-tesorillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN MARTIN DEL TESORILLO"
+meta-description: "Listado con las mejores guarderías de SAN MARTIN DEL TESORILLO"
 ---

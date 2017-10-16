@@ -10,4 +10,8 @@ name: "Monterrubio De Armuña"
 slug: "monterrubio-de-armuna"
 slug-province: "salamanca"
 permalink: /guarderias-en-monterrubio-de-armuna/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTERRUBIO DE ARMUñA"
+meta-description: "Listado con las mejores guarderías de MONTERRUBIO DE ARMUñA"
 ---

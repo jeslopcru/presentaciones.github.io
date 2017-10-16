@@ -10,4 +10,8 @@ name: "Benalmadena"
 slug: "benalmadena"
 slug-province: "malaga"
 permalink: /guarderias-en-benalmadena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENALMADENA"
+meta-description: "Listado con las mejores guarderías de BENALMADENA"
 ---

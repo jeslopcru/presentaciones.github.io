@@ -10,4 +10,8 @@ name: "Berantevilla"
 slug: "berantevilla"
 slug-province: "alava"
 permalink: /guarderias-en-berantevilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BERANTEVILLA"
+meta-description: "Listado con las mejores guarderías de BERANTEVILLA"
 ---

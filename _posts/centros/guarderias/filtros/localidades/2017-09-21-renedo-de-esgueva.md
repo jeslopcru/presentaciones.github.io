@@ -10,4 +10,8 @@ name: "Renedo De Esgueva"
 slug: "renedo-de-esgueva"
 slug-province: "valladolid"
 permalink: /guarderias-en-renedo-de-esgueva/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RENEDO DE ESGUEVA"
+meta-description: "Listado con las mejores guarderías de RENEDO DE ESGUEVA"
 ---

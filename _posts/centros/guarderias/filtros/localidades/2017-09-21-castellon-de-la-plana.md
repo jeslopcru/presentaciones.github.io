@@ -10,4 +10,8 @@ name: "Castellon De La Plana"
 slug: "castellon-de-la-plana"
 slug-province: "castellon"
 permalink: /guarderias-en-castellon-de-la-plana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTELLON DE LA PLANA"
+meta-description: "Listado con las mejores guarderías de CASTELLON DE LA PLANA"
 ---

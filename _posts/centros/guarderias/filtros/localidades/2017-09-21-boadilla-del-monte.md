@@ -10,4 +10,8 @@ name: "Boadilla Del Monte"
 slug: "boadilla-del-monte"
 slug-province: "madrid"
 permalink: /guarderias-en-boadilla-del-monte/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BOADILLA DEL MONTE"
+meta-description: "Listado con las mejores guarderías de BOADILLA DEL MONTE"
 ---

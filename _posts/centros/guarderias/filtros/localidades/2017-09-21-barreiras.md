@@ -10,4 +10,8 @@ name: "Barreiras"
 slug: "barreiras"
 slug-province: "pontevedra"
 permalink: /guarderias-en-barreiras/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BARREIRAS"
+meta-description: "Listado con las mejores guarderías de BARREIRAS"
 ---

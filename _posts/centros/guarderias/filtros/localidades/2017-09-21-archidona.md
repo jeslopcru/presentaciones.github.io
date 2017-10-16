@@ -10,4 +10,8 @@ name: "Archidona"
 slug: "archidona"
 slug-province: "malaga"
 permalink: /guarderias-en-archidona/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARCHIDONA"
+meta-description: "Listado con las mejores guarderías de ARCHIDONA"
 ---

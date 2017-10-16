@@ -10,4 +10,8 @@ name: "Berducedo"
 slug: "berducedo"
 slug-province: "pontevedra"
 permalink: /guarderias-en-berducedo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BERDUCEDO"
+meta-description: "Listado con las mejores guarderías de BERDUCEDO"
 ---

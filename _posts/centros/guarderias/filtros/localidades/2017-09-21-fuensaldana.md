@@ -10,4 +10,8 @@ name: "Fuensaldaña"
 slug: "fuensaldana"
 slug-province: "valladolid"
 permalink: /guarderias-en-fuensaldana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENSALDAñA"
+meta-description: "Listado con las mejores guarderías de FUENSALDAñA"
 ---

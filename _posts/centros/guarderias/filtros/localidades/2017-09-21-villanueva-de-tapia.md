@@ -10,4 +10,8 @@ name: "Villanueva De Tapia"
 slug: "villanueva-de-tapia"
 slug-province: "malaga"
 permalink: /guarderias-en-villanueva-de-tapia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE TAPIA"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE TAPIA"
 ---

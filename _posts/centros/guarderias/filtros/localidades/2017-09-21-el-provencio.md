@@ -10,4 +10,8 @@ name: "El Provencio"
 slug: "el-provencio"
 slug-province: "cuenca"
 permalink: /guarderias-en-el-provencio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL PROVENCIO"
+meta-description: "Listado con las mejores guarderías de EL PROVENCIO"
 ---

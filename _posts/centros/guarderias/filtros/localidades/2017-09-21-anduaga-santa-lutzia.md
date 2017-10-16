@@ -10,4 +10,8 @@ name: "Anduaga (Santa Lutzia)"
 slug: "anduaga-santa-lutzia"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-anduaga-santa-lutzia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ANDUAGA (SANTA LUTZIA)"
+meta-description: "Listado con las mejores guarderías de ANDUAGA (SANTA LUTZIA)"
 ---

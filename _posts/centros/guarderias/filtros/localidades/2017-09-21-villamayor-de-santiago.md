@@ -10,4 +10,8 @@ name: "Villamayor De Santiago"
 slug: "villamayor-de-santiago"
 slug-province: "cuenca"
 permalink: /guarderias-en-villamayor-de-santiago/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAMAYOR DE SANTIAGO"
+meta-description: "Listado con las mejores guarderías de VILLAMAYOR DE SANTIAGO"
 ---

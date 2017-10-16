@@ -10,4 +10,8 @@ name: "Santa Marta De Tormes"
 slug: "santa-marta-de-tormes"
 slug-province: "salamanca"
 permalink: /guarderias-en-santa-marta-de-tormes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA MARTA DE TORMES"
+meta-description: "Listado con las mejores guarderías de SANTA MARTA DE TORMES"
 ---

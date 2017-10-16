@@ -10,4 +10,8 @@ name: "Alicante Centro"
 slug: "alicante-centro"
 slug-province: "alicante"
 permalink: /guarderias-en-alicante-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALICANTE CENTRO"
+meta-description: "Listado con las mejores guarderías de ALICANTE CENTRO"
 ---

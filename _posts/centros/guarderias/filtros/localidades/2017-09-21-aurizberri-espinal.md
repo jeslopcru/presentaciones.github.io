@@ -10,4 +10,8 @@ name: "Aurizberri/Espinal"
 slug: "aurizberri-espinal"
 slug-province: "navarra"
 permalink: /guarderias-en-aurizberri-espinal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AURIZBERRI/ESPINAL"
+meta-description: "Listado con las mejores guarderías de AURIZBERRI/ESPINAL"
 ---

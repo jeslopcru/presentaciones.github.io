@@ -10,4 +10,8 @@ name: "El Escorial"
 slug: "el-escorial"
 slug-province: "madrid"
 permalink: /guarderias-en-el-escorial/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL ESCORIAL"
+meta-description: "Listado con las mejores guarderías de EL ESCORIAL"
 ---

@@ -10,4 +10,8 @@ name: "Pinos-Puente"
 slug: "pinos-puente"
 slug-province: "granada"
 permalink: /guarderias-en-pinos-puente/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PINOS-PUENTE"
+meta-description: "Listado con las mejores guarderías de PINOS-PUENTE"
 ---

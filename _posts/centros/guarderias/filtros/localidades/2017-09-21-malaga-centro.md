@@ -10,4 +10,8 @@ name: "Malaga Centro"
 slug: "malaga-centro"
 slug-province: "malaga"
 permalink: /guarderias-en-malaga-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MALAGA CENTRO"
+meta-description: "Listado con las mejores guarderías de MALAGA CENTRO"
 ---

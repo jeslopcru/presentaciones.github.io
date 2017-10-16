@@ -10,4 +10,8 @@ name: "Villafranca De Los Caballeros"
 slug: "villafranca-de-los-caballeros"
 slug-province: "toledo"
 permalink: /guarderias-en-villafranca-de-los-caballeros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAFRANCA DE LOS CABALLEROS"
+meta-description: "Listado con las mejores guarderías de VILLAFRANCA DE LOS CABALLEROS"
 ---

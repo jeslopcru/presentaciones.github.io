@@ -10,4 +10,8 @@ name: "Canillas De Albaida"
 slug: "canillas-de-albaida"
 slug-province: "malaga"
 permalink: /guarderias-en-canillas-de-albaida/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANILLAS DE ALBAIDA"
+meta-description: "Listado con las mejores guarderías de CANILLAS DE ALBAIDA"
 ---

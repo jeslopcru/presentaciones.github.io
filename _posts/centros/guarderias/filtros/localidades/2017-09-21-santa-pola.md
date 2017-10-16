@@ -10,4 +10,8 @@ name: "Santa Pola"
 slug: "santa-pola"
 slug-province: "alicante"
 permalink: /guarderias-en-santa-pola/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA POLA"
+meta-description: "Listado con las mejores guarderías de SANTA POLA"
 ---

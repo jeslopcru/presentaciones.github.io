@@ -10,4 +10,8 @@ name: "Villafranca"
 slug: "villafranca"
 slug-province: "navarra"
 permalink: /guarderias-en-villafranca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAFRANCA"
+meta-description: "Listado con las mejores guarderías de VILLAFRANCA"
 ---

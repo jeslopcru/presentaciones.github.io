@@ -10,4 +10,8 @@ name: "Picassent"
 slug: "picassent"
 slug-province: "valencia"
 permalink: /guarderias-en-picassent/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PICASSENT"
+meta-description: "Listado con las mejores guarderías de PICASSENT"
 ---

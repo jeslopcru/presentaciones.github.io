@@ -10,4 +10,8 @@ name: "Dos Hermanas"
 slug: "dos-hermanas"
 slug-province: "sevilla"
 permalink: /guarderias-en-dos-hermanas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DOS HERMANAS"
+meta-description: "Listado con las mejores guarderías de DOS HERMANAS"
 ---

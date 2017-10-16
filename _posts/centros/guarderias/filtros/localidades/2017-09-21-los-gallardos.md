@@ -10,4 +10,8 @@ name: "Los Gallardos"
 slug: "los-gallardos"
 slug-province: "almeria"
 permalink: /guarderias-en-los-gallardos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS GALLARDOS"
+meta-description: "Listado con las mejores guarderías de LOS GALLARDOS"
 ---

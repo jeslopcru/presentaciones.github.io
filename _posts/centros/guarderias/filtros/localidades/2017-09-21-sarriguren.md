@@ -10,4 +10,8 @@ name: "Sarriguren"
 slug: "sarriguren"
 slug-province: "navarra"
 permalink: /guarderias-en-sarriguren/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SARRIGUREN"
+meta-description: "Listado con las mejores guarderías de SARRIGUREN"
 ---

@@ -10,4 +10,8 @@ name: "Yunquera De Henares"
 slug: "yunquera-de-henares"
 slug-province: "guadalajara"
 permalink: /guarderias-en-yunquera-de-henares/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de YUNQUERA DE HENARES"
+meta-description: "Listado con las mejores guarderías de YUNQUERA DE HENARES"
 ---

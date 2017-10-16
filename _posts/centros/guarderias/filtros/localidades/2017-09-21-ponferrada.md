@@ -10,4 +10,8 @@ name: "Ponferrada"
 slug: "ponferrada"
 slug-province: "leon"
 permalink: /guarderias-en-ponferrada/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PONFERRADA"
+meta-description: "Listado con las mejores guarderías de PONFERRADA"
 ---

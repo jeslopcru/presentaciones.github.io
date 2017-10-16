@@ -10,4 +10,8 @@ name: "Jaraiz De La Vera"
 slug: "jaraiz-de-la-vera"
 slug-province: "caceres"
 permalink: /guarderias-en-jaraiz-de-la-vera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de JARAIZ DE LA VERA"
+meta-description: "Listado con las mejores guarderías de JARAIZ DE LA VERA"
 ---

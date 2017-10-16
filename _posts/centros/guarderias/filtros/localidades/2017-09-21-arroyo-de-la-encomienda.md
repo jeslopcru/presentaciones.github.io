@@ -10,4 +10,8 @@ name: "Arroyo De La Encomienda"
 slug: "arroyo-de-la-encomienda"
 slug-province: "valladolid"
 permalink: /guarderias-en-arroyo-de-la-encomienda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARROYO DE LA ENCOMIENDA"
+meta-description: "Listado con las mejores guarderías de ARROYO DE LA ENCOMIENDA"
 ---

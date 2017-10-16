@@ -10,4 +10,8 @@ name: "Bobadilla-Estacion"
 slug: "bobadilla-estacion"
 slug-province: "malaga"
 permalink: /guarderias-en-bobadilla-estacion/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BOBADILLA-ESTACION"
+meta-description: "Listado con las mejores guarderías de BOBADILLA-ESTACION"
 ---

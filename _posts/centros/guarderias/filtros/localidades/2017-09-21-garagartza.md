@@ -10,4 +10,8 @@ name: "Garagartza"
 slug: "garagartza"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-garagartza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GARAGARTZA"
+meta-description: "Listado con las mejores guarderías de GARAGARTZA"
 ---

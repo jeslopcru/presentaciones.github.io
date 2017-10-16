@@ -10,4 +10,8 @@ name: "Consuegra"
 slug: "consuegra"
 slug-province: "toledo"
 permalink: /guarderias-en-consuegra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CONSUEGRA"
+meta-description: "Listado con las mejores guarderías de CONSUEGRA"
 ---

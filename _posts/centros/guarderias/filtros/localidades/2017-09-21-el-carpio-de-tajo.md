@@ -10,4 +10,8 @@ name: "El Carpio De Tajo"
 slug: "el-carpio-de-tajo"
 slug-province: "toledo"
 permalink: /guarderias-en-el-carpio-de-tajo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL CARPIO DE TAJO"
+meta-description: "Listado con las mejores guarderías de EL CARPIO DE TAJO"
 ---

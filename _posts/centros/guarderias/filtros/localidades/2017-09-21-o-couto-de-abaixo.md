@@ -10,4 +10,8 @@ name: "O Couto De Abaixo"
 slug: "o-couto-de-abaixo"
 slug-province: "pontevedra"
 permalink: /guarderias-en-o-couto-de-abaixo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de O COUTO DE ABAIXO"
+meta-description: "Listado con las mejores guarderías de O COUTO DE ABAIXO"
 ---

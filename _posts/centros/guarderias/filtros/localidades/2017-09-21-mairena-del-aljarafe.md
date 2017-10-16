@@ -10,4 +10,8 @@ name: "Mairena Del Aljarafe"
 slug: "mairena-del-aljarafe"
 slug-province: "sevilla"
 permalink: /guarderias-en-mairena-del-aljarafe/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MAIRENA DEL ALJARAFE"
+meta-description: "Listado con las mejores guarderías de MAIRENA DEL ALJARAFE"
 ---

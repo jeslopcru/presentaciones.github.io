@@ -10,4 +10,8 @@ name: "Altorricon"
 slug: "altorricon"
 slug-province: "huesca"
 permalink: /guarderias-en-altorricon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALTORRICON"
+meta-description: "Listado con las mejores guarderías de ALTORRICON"
 ---

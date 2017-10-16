@@ -10,4 +10,8 @@ name: "Villava/Atarrabia"
 slug: "villava-atarrabia"
 slug-province: "navarra"
 permalink: /guarderias-en-villava-atarrabia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAVA/ATARRABIA"
+meta-description: "Listado con las mejores guarderías de VILLAVA/ATARRABIA"
 ---

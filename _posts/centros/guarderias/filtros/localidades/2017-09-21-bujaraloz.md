@@ -10,4 +10,8 @@ name: "Bujaraloz"
 slug: "bujaraloz"
 slug-province: "zaragoza"
 permalink: /guarderias-en-bujaraloz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BUJARALOZ"
+meta-description: "Listado con las mejores guarderías de BUJARALOZ"
 ---

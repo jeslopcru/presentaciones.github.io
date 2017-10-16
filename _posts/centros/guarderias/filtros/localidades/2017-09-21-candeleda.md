@@ -10,4 +10,8 @@ name: "Candeleda"
 slug: "candeleda"
 slug-province: "avila"
 permalink: /guarderias-en-candeleda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANDELEDA"
+meta-description: "Listado con las mejores guarderías de CANDELEDA"
 ---

@@ -10,4 +10,8 @@ name: "Navas De San Juan"
 slug: "navas-de-san-juan"
 slug-province: "jaen"
 permalink: /guarderias-en-navas-de-san-juan/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVAS DE SAN JUAN"
+meta-description: "Listado con las mejores guarderías de NAVAS DE SAN JUAN"
 ---

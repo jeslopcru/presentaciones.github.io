@@ -10,4 +10,8 @@ name: "Salobreña"
 slug: "salobrena"
 slug-province: "granada"
 permalink: /guarderias-en-salobrena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SALOBREñA"
+meta-description: "Listado con las mejores guarderías de SALOBREñA"
 ---

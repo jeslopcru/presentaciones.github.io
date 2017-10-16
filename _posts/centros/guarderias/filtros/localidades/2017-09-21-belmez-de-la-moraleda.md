@@ -10,4 +10,8 @@ name: "Belmez De La Moraleda"
 slug: "belmez-de-la-moraleda"
 slug-province: "jaen"
 permalink: /guarderias-en-belmez-de-la-moraleda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BELMEZ DE LA MORALEDA"
+meta-description: "Listado con las mejores guarderías de BELMEZ DE LA MORALEDA"
 ---

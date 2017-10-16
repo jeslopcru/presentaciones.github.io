@@ -10,4 +10,8 @@ name: "Andra Mari Auzoa"
 slug: "andra-mari-auzoa"
 slug-province: "bizkaia"
 permalink: /guarderias-en-andra-mari-auzoa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ANDRA MARI AUZOA"
+meta-description: "Listado con las mejores guarderías de ANDRA MARI AUZOA"
 ---

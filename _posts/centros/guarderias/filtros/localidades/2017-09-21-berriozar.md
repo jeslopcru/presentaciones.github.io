@@ -10,4 +10,8 @@ name: "Berriozar"
 slug: "berriozar"
 slug-province: "navarra"
 permalink: /guarderias-en-berriozar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BERRIOZAR"
+meta-description: "Listado con las mejores guarderías de BERRIOZAR"
 ---

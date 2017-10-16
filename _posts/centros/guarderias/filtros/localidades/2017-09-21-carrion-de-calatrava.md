@@ -10,4 +10,8 @@ name: "Carrion De Calatrava"
 slug: "carrion-de-calatrava"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-carrion-de-calatrava/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARRION DE CALATRAVA"
+meta-description: "Listado con las mejores guarderías de CARRION DE CALATRAVA"
 ---

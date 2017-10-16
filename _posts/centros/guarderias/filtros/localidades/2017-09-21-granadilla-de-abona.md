@@ -10,4 +10,8 @@ name: "Granadilla De Abona"
 slug: "granadilla-de-abona"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-granadilla-de-abona/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GRANADILLA DE ABONA"
+meta-description: "Listado con las mejores guarderías de GRANADILLA DE ABONA"
 ---

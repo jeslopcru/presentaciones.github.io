@@ -10,4 +10,8 @@ name: "Abadiño-Zelaieta"
 slug: "abadino-zelaieta"
 slug-province: "bizkaia"
 permalink: /guarderias-en-abadino-zelaieta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ABADIñO-ZELAIETA"
+meta-description: "Listado con las mejores guarderías de ABADIñO-ZELAIETA"
 ---

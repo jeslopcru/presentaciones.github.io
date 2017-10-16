@@ -10,4 +10,8 @@ name: "Cuevas Del Campo"
 slug: "cuevas-del-campo"
 slug-province: "granada"
 permalink: /guarderias-en-cuevas-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CUEVAS DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de CUEVAS DEL CAMPO"
 ---

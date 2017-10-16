@@ -10,4 +10,8 @@ name: "Cantimpalos"
 slug: "cantimpalos"
 slug-province: "segovia"
 permalink: /guarderias-en-cantimpalos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANTIMPALOS"
+meta-description: "Listado con las mejores guarderías de CANTIMPALOS"
 ---

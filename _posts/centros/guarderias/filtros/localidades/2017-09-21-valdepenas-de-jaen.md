@@ -10,4 +10,8 @@ name: "Valdepeñas De Jaen"
 slug: "valdepenas-de-jaen"
 slug-province: "jaen"
 permalink: /guarderias-en-valdepenas-de-jaen/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALDEPEñAS DE JAEN"
+meta-description: "Listado con las mejores guarderías de VALDEPEñAS DE JAEN"
 ---

@@ -10,4 +10,8 @@ name: "Cuarte De Huerva"
 slug: "cuarte-de-huerva"
 slug-province: "zaragoza"
 permalink: /guarderias-en-cuarte-de-huerva/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CUARTE DE HUERVA"
+meta-description: "Listado con las mejores guarderías de CUARTE DE HUERVA"
 ---

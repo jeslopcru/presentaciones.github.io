@@ -10,4 +10,8 @@ name: "Romay Vello E Castro"
 slug: "romay-vello-e-castro"
 slug-province: "pontevedra"
 permalink: /guarderias-en-romay-vello-e-castro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ROMAY VELLO E CASTRO"
+meta-description: "Listado con las mejores guarderías de ROMAY VELLO E CASTRO"
 ---

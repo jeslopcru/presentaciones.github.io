@@ -10,4 +10,8 @@ name: "El Campillo"
 slug: "el-campillo"
 slug-province: "huelva"
 permalink: /guarderias-en-el-campillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL CAMPILLO"
+meta-description: "Listado con las mejores guarderías de EL CAMPILLO"
 ---

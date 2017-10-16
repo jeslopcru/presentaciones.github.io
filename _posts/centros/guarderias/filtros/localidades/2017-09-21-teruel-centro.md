@@ -10,4 +10,8 @@ name: "Teruel Centro"
 slug: "teruel-centro"
 slug-province: "teruel"
 permalink: /guarderias-en-teruel-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TERUEL CENTRO"
+meta-description: "Listado con las mejores guarderías de TERUEL CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Porto Cristo"
 slug: "porto-cristo"
 slug-province: "illes-balears"
 permalink: /guarderias-en-porto-cristo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PORTO CRISTO"
+meta-description: "Listado con las mejores guarderías de PORTO CRISTO"
 ---

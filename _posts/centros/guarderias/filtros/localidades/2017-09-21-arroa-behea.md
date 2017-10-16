@@ -10,4 +10,8 @@ name: "Arroa Behea"
 slug: "arroa-behea"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-arroa-behea/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARROA BEHEA"
+meta-description: "Listado con las mejores guarderías de ARROA BEHEA"
 ---

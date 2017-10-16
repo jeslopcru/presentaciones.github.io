@@ -10,4 +10,8 @@ name: "Nuñomoral"
 slug: "nunomoral"
 slug-province: "caceres"
 permalink: /guarderias-en-nunomoral/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NUñOMORAL"
+meta-description: "Listado con las mejores guarderías de NUñOMORAL"
 ---

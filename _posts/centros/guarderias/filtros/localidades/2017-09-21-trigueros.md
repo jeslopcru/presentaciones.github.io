@@ -10,4 +10,8 @@ name: "Trigueros"
 slug: "trigueros"
 slug-province: "huelva"
 permalink: /guarderias-en-trigueros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TRIGUEROS"
+meta-description: "Listado con las mejores guarderías de TRIGUEROS"
 ---

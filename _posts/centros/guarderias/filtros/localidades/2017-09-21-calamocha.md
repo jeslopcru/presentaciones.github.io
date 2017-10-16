@@ -10,4 +10,8 @@ name: "Calamocha"
 slug: "calamocha"
 slug-province: "teruel"
 permalink: /guarderias-en-calamocha/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALAMOCHA"
+meta-description: "Listado con las mejores guarderías de CALAMOCHA"
 ---

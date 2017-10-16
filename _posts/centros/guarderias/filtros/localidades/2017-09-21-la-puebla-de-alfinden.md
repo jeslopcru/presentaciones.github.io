@@ -10,4 +10,8 @@ name: "La Puebla De Alfinden"
 slug: "la-puebla-de-alfinden"
 slug-province: "zaragoza"
 permalink: /guarderias-en-la-puebla-de-alfinden/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA PUEBLA DE ALFINDEN"
+meta-description: "Listado con las mejores guarderías de LA PUEBLA DE ALFINDEN"
 ---

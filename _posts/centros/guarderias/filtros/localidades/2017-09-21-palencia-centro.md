@@ -10,4 +10,8 @@ name: "Palencia Centro"
 slug: "palencia-centro"
 slug-province: "palencia"
 permalink: /guarderias-en-palencia-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PALENCIA CENTRO"
+meta-description: "Listado con las mejores guarderías de PALENCIA CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Valleseco"
 slug: "valleseco"
 slug-province: "las-palmas"
 permalink: /guarderias-en-valleseco/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALLESECO"
+meta-description: "Listado con las mejores guarderías de VALLESECO"
 ---

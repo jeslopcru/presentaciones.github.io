@@ -10,4 +10,8 @@ name: "Casarrubios Del Monte"
 slug: "casarrubios-del-monte"
 slug-province: "toledo"
 permalink: /guarderias-en-casarrubios-del-monte/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASARRUBIOS DEL MONTE"
+meta-description: "Listado con las mejores guarderías de CASARRUBIOS DEL MONTE"
 ---

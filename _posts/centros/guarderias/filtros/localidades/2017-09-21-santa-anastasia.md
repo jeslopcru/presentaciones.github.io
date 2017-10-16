@@ -10,4 +10,8 @@ name: "Santa Anastasia"
 slug: "santa-anastasia"
 slug-province: "zaragoza"
 permalink: /guarderias-en-santa-anastasia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA ANASTASIA"
+meta-description: "Listado con las mejores guarderías de SANTA ANASTASIA"
 ---

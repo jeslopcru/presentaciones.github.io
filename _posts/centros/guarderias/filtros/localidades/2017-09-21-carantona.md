@@ -10,4 +10,8 @@ name: "Carantoña"
 slug: "carantona"
 slug-province: "a-coruna"
 permalink: /guarderias-en-carantona/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARANTOñA"
+meta-description: "Listado con las mejores guarderías de CARANTOñA"
 ---

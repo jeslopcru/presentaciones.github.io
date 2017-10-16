@@ -10,4 +10,8 @@ name: "Medina Del Campo"
 slug: "medina-del-campo"
 slug-province: "valladolid"
 permalink: /guarderias-en-medina-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MEDINA DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de MEDINA DEL CAMPO"
 ---

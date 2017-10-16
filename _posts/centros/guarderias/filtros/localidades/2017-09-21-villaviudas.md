@@ -10,4 +10,8 @@ name: "Villaviudas"
 slug: "villaviudas"
 slug-province: "palencia"
 permalink: /guarderias-en-villaviudas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAVIUDAS"
+meta-description: "Listado con las mejores guarderías de VILLAVIUDAS"
 ---

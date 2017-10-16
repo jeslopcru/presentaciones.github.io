@@ -10,4 +10,8 @@ name: "Fuente Del Rey"
 slug: "fuente-del-rey"
 slug-province: "sevilla"
 permalink: /guarderias-en-fuente-del-rey/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENTE DEL REY"
+meta-description: "Listado con las mejores guarderías de FUENTE DEL REY"
 ---

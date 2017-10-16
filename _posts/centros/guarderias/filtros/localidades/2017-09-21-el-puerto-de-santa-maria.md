@@ -10,4 +10,8 @@ name: "El Puerto De Santa Maria"
 slug: "el-puerto-de-santa-maria"
 slug-province: "cadiz"
 permalink: /guarderias-en-el-puerto-de-santa-maria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL PUERTO DE SANTA MARIA"
+meta-description: "Listado con las mejores guarderías de EL PUERTO DE SANTA MARIA"
 ---

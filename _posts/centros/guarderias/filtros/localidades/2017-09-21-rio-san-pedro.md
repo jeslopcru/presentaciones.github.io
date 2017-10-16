@@ -10,4 +10,8 @@ name: "Rio San Pedro"
 slug: "rio-san-pedro"
 slug-province: "cadiz"
 permalink: /guarderias-en-rio-san-pedro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RIO SAN PEDRO"
+meta-description: "Listado con las mejores guarderías de RIO SAN PEDRO"
 ---

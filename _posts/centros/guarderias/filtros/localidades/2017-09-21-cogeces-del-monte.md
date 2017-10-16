@@ -10,4 +10,8 @@ name: "Cogeces Del Monte"
 slug: "cogeces-del-monte"
 slug-province: "valladolid"
 permalink: /guarderias-en-cogeces-del-monte/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COGECES DEL MONTE"
+meta-description: "Listado con las mejores guarderías de COGECES DEL MONTE"
 ---

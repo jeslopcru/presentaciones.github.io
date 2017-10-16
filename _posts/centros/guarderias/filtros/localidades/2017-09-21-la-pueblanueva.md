@@ -10,4 +10,8 @@ name: "La Pueblanueva"
 slug: "la-pueblanueva"
 slug-province: "toledo"
 permalink: /guarderias-en-la-pueblanueva/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA PUEBLANUEVA"
+meta-description: "Listado con las mejores guarderías de LA PUEBLANUEVA"
 ---

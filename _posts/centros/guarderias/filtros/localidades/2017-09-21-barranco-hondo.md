@@ -10,4 +10,8 @@ name: "Barranco Hondo"
 slug: "barranco-hondo"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-barranco-hondo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BARRANCO HONDO"
+meta-description: "Listado con las mejores guarderías de BARRANCO HONDO"
 ---

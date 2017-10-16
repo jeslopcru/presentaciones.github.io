@@ -10,4 +10,8 @@ name: "Torrente De Cinca"
 slug: "torrente-de-cinca"
 slug-province: "huesca"
 permalink: /guarderias-en-torrente-de-cinca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORRENTE DE CINCA"
+meta-description: "Listado con las mejores guarderías de TORRENTE DE CINCA"
 ---

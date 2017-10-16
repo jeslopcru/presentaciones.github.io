@@ -10,4 +10,8 @@ name: "Benajarafe"
 slug: "benajarafe"
 slug-province: "malaga"
 permalink: /guarderias-en-benajarafe/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAJARAFE"
+meta-description: "Listado con las mejores guarderías de BENAJARAFE"
 ---

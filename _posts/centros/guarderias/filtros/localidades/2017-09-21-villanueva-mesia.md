@@ -10,4 +10,8 @@ name: "Villanueva Mesia"
 slug: "villanueva-mesia"
 slug-province: "granada"
 permalink: /guarderias-en-villanueva-mesia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA MESIA"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA MESIA"
 ---

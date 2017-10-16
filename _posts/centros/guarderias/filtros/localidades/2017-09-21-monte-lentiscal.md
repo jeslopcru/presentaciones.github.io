@@ -10,4 +10,8 @@ name: "Monte Lentiscal"
 slug: "monte-lentiscal"
 slug-province: "las-palmas"
 permalink: /guarderias-en-monte-lentiscal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTE LENTISCAL"
+meta-description: "Listado con las mejores guarderías de MONTE LENTISCAL"
 ---

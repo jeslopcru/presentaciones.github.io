@@ -10,4 +10,8 @@ name: "Benavides De Orbigo"
 slug: "benavides-de-orbigo"
 slug-province: "leon"
 permalink: /guarderias-en-benavides-de-orbigo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAVIDES DE ORBIGO"
+meta-description: "Listado con las mejores guarderías de BENAVIDES DE ORBIGO"
 ---

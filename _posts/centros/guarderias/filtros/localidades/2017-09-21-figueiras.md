@@ -10,4 +10,8 @@ name: "Figueiras"
 slug: "figueiras"
 slug-province: "a-coruna"
 permalink: /guarderias-en-figueiras/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FIGUEIRAS"
+meta-description: "Listado con las mejores guarderías de FIGUEIRAS"
 ---

@@ -10,4 +10,8 @@ name: "Calypo Fado"
 slug: "calypo-fado"
 slug-province: "toledo"
 permalink: /guarderias-en-calypo-fado/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALYPO FADO"
+meta-description: "Listado con las mejores guarderías de CALYPO FADO"
 ---

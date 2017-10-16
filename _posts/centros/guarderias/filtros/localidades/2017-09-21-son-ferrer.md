@@ -10,4 +10,8 @@ name: "Son Ferrer"
 slug: "son-ferrer"
 slug-province: "illes-balears"
 permalink: /guarderias-en-son-ferrer/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SON FERRER"
+meta-description: "Listado con las mejores guarderías de SON FERRER"
 ---

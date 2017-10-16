@@ -10,4 +10,8 @@ name: "Señorio De Muriel"
 slug: "senorio-de-muriel"
 slug-province: "guadalajara"
 permalink: /guarderias-en-senorio-de-muriel/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SEñORIO DE MURIEL"
+meta-description: "Listado con las mejores guarderías de SEñORIO DE MURIEL"
 ---

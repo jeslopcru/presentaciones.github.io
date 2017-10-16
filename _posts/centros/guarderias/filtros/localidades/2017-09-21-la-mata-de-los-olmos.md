@@ -10,4 +10,8 @@ name: "La Mata De Los Olmos"
 slug: "la-mata-de-los-olmos"
 slug-province: "teruel"
 permalink: /guarderias-en-la-mata-de-los-olmos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA MATA DE LOS OLMOS"
+meta-description: "Listado con las mejores guarderías de LA MATA DE LOS OLMOS"
 ---

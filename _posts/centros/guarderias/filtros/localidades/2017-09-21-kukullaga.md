@@ -10,4 +10,8 @@ name: "Kukullaga"
 slug: "kukullaga"
 slug-province: "bizkaia"
 permalink: /guarderias-en-kukullaga/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de KUKULLAGA"
+meta-description: "Listado con las mejores guarderías de KUKULLAGA"
 ---

@@ -10,4 +10,8 @@ name: "El Sobradillo"
 slug: "el-sobradillo"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-el-sobradillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL SOBRADILLO"
+meta-description: "Listado con las mejores guarderías de EL SOBRADILLO"
 ---

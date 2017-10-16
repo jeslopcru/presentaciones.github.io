@@ -10,4 +10,8 @@ name: "Campotejar"
 slug: "campotejar"
 slug-province: "granada"
 permalink: /guarderias-en-campotejar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAMPOTEJAR"
+meta-description: "Listado con las mejores guarderías de CAMPOTEJAR"
 ---

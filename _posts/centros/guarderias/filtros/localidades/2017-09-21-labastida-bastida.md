@@ -10,4 +10,8 @@ name: "Labastida/Bastida"
 slug: "labastida-bastida"
 slug-province: "alava"
 permalink: /guarderias-en-labastida-bastida/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LABASTIDA/BASTIDA"
+meta-description: "Listado con las mejores guarderías de LABASTIDA/BASTIDA"
 ---

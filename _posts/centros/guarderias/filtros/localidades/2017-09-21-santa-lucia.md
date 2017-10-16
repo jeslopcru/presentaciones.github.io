@@ -10,4 +10,8 @@ name: "Santa Lucia"
 slug: "santa-lucia"
 slug-province: "las-palmas"
 permalink: /guarderias-en-santa-lucia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA LUCIA"
+meta-description: "Listado con las mejores guarderías de SANTA LUCIA"
 ---

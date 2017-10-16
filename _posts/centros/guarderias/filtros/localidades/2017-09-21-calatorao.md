@@ -10,4 +10,8 @@ name: "Calatorao"
 slug: "calatorao"
 slug-province: "zaragoza"
 permalink: /guarderias-en-calatorao/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALATORAO"
+meta-description: "Listado con las mejores guarderías de CALATORAO"
 ---

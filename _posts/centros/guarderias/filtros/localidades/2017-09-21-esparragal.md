@@ -10,4 +10,8 @@ name: "Esparragal"
 slug: "esparragal"
 slug-province: "murcia"
 permalink: /guarderias-en-esparragal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ESPARRAGAL"
+meta-description: "Listado con las mejores guarderías de ESPARRAGAL"
 ---

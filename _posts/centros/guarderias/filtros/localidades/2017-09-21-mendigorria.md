@@ -10,4 +10,8 @@ name: "Mendigorria"
 slug: "mendigorria"
 slug-province: "navarra"
 permalink: /guarderias-en-mendigorria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MENDIGORRIA"
+meta-description: "Listado con las mejores guarderías de MENDIGORRIA"
 ---

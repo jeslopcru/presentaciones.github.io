@@ -10,4 +10,8 @@ name: "Foz-Calanda"
 slug: "foz-calanda"
 slug-province: "teruel"
 permalink: /guarderias-en-foz-calanda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FOZ-CALANDA"
+meta-description: "Listado con las mejores guarderías de FOZ-CALANDA"
 ---

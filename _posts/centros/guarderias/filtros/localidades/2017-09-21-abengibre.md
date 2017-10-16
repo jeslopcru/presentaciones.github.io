@@ -10,4 +10,8 @@ name: "Abengibre"
 slug: "abengibre"
 slug-province: "albacete"
 permalink: /guarderias-en-abengibre/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ABENGIBRE"
+meta-description: "Listado con las mejores guarderías de ABENGIBRE"
 ---

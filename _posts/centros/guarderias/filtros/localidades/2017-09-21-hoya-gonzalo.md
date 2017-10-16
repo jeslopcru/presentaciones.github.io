@@ -10,4 +10,8 @@ name: "Hoya-Gonzalo"
 slug: "hoya-gonzalo"
 slug-province: "albacete"
 permalink: /guarderias-en-hoya-gonzalo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HOYA-GONZALO"
+meta-description: "Listado con las mejores guarderías de HOYA-GONZALO"
 ---

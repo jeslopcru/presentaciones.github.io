@@ -10,4 +10,8 @@ name: "Benagalbon"
 slug: "benagalbon"
 slug-province: "malaga"
 permalink: /guarderias-en-benagalbon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAGALBON"
+meta-description: "Listado con las mejores guarderías de BENAGALBON"
 ---

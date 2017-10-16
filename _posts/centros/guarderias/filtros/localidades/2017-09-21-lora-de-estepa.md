@@ -10,4 +10,8 @@ name: "Lora De Estepa"
 slug: "lora-de-estepa"
 slug-province: "sevilla"
 permalink: /guarderias-en-lora-de-estepa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LORA DE ESTEPA"
+meta-description: "Listado con las mejores guarderías de LORA DE ESTEPA"
 ---

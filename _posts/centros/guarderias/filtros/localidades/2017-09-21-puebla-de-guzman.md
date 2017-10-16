@@ -10,4 +10,8 @@ name: "Puebla De Guzman"
 slug: "puebla-de-guzman"
 slug-province: "huelva"
 permalink: /guarderias-en-puebla-de-guzman/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUEBLA DE GUZMAN"
+meta-description: "Listado con las mejores guarderías de PUEBLA DE GUZMAN"
 ---

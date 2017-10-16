@@ -10,4 +10,8 @@ name: "Santa Cruz De La Zarza"
 slug: "santa-cruz-de-la-zarza"
 slug-province: "toledo"
 permalink: /guarderias-en-santa-cruz-de-la-zarza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA CRUZ DE LA ZARZA"
+meta-description: "Listado con las mejores guarderías de SANTA CRUZ DE LA ZARZA"
 ---

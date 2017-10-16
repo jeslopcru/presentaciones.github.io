@@ -10,4 +10,8 @@ name: "Santander"
 slug: "santander"
 slug-province: "cantabria"
 permalink: /guarderias-en-santander/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTANDER"
+meta-description: "Listado con las mejores guarderías de SANTANDER"
 ---

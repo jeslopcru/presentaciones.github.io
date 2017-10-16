@@ -10,4 +10,8 @@ name: "Santo Angel"
 slug: "santo-angel"
 slug-province: "murcia"
 permalink: /guarderias-en-santo-angel/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTO ANGEL"
+meta-description: "Listado con las mejores guarderías de SANTO ANGEL"
 ---

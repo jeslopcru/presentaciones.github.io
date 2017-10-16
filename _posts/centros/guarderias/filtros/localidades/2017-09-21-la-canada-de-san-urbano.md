@@ -10,4 +10,8 @@ name: "La Cañada De San Urbano"
 slug: "la-canada-de-san-urbano"
 slug-province: "almeria"
 permalink: /guarderias-en-la-canada-de-san-urbano/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA CAñADA DE SAN URBANO"
+meta-description: "Listado con las mejores guarderías de LA CAñADA DE SAN URBANO"
 ---

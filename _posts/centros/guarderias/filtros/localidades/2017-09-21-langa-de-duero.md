@@ -10,4 +10,8 @@ name: "Langa De Duero"
 slug: "langa-de-duero"
 slug-province: "soria"
 permalink: /guarderias-en-langa-de-duero/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LANGA DE DUERO"
+meta-description: "Listado con las mejores guarderías de LANGA DE DUERO"
 ---

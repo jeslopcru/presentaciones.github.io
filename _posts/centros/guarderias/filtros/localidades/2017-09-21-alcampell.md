@@ -10,4 +10,8 @@ name: "Alcampell"
 slug: "alcampell"
 slug-province: "huesca"
 permalink: /guarderias-en-alcampell/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCAMPELL"
+meta-description: "Listado con las mejores guarderías de ALCAMPELL"
 ---

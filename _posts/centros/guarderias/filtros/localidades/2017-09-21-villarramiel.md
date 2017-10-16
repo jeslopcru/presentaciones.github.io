@@ -10,4 +10,8 @@ name: "Villarramiel"
 slug: "villarramiel"
 slug-province: "palencia"
 permalink: /guarderias-en-villarramiel/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLARRAMIEL"
+meta-description: "Listado con las mejores guarderías de VILLARRAMIEL"
 ---

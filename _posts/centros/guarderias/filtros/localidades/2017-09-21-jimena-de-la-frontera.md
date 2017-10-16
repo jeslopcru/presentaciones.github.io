@@ -10,4 +10,8 @@ name: "Jimena De La Frontera"
 slug: "jimena-de-la-frontera"
 slug-province: "cadiz"
 permalink: /guarderias-en-jimena-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de JIMENA DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de JIMENA DE LA FRONTERA"
 ---

@@ -10,4 +10,8 @@ name: "Medina De Rioseco"
 slug: "medina-de-rioseco"
 slug-province: "valladolid"
 permalink: /guarderias-en-medina-de-rioseco/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MEDINA DE RIOSECO"
+meta-description: "Listado con las mejores guarderías de MEDINA DE RIOSECO"
 ---

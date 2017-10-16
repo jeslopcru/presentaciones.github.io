@@ -10,4 +10,8 @@ name: "Morro Jable"
 slug: "morro-jable"
 slug-province: "las-palmas"
 permalink: /guarderias-en-morro-jable/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MORRO JABLE"
+meta-description: "Listado con las mejores guarderías de MORRO JABLE"
 ---

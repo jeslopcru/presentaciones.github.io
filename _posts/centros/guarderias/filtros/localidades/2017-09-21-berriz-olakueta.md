@@ -10,4 +10,8 @@ name: "Berriz-Olakueta"
 slug: "berriz-olakueta"
 slug-province: "bizkaia"
 permalink: /guarderias-en-berriz-olakueta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BERRIZ-OLAKUETA"
+meta-description: "Listado con las mejores guarderías de BERRIZ-OLAKUETA"
 ---

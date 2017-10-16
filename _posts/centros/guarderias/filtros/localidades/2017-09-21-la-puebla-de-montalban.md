@@ -10,4 +10,8 @@ name: "La Puebla De Montalban"
 slug: "la-puebla-de-montalban"
 slug-province: "toledo"
 permalink: /guarderias-en-la-puebla-de-montalban/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA PUEBLA DE MONTALBAN"
+meta-description: "Listado con las mejores guarderías de LA PUEBLA DE MONTALBAN"
 ---

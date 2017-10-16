@@ -10,4 +10,8 @@ name: "Marmolejo"
 slug: "marmolejo"
 slug-province: "jaen"
 permalink: /guarderias-en-marmolejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MARMOLEJO"
+meta-description: "Listado con las mejores guarderías de MARMOLEJO"
 ---

@@ -10,4 +10,8 @@ name: "Arizgoiti"
 slug: "arizgoiti"
 slug-province: "bizkaia"
 permalink: /guarderias-en-arizgoiti/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARIZGOITI"
+meta-description: "Listado con las mejores guarderías de ARIZGOITI"
 ---

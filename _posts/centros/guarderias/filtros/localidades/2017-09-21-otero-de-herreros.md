@@ -10,4 +10,8 @@ name: "Otero De Herreros"
 slug: "otero-de-herreros"
 slug-province: "segovia"
 permalink: /guarderias-en-otero-de-herreros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de OTERO DE HERREROS"
+meta-description: "Listado con las mejores guarderías de OTERO DE HERREROS"
 ---

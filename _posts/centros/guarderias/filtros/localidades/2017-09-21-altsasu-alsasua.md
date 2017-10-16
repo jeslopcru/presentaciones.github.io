@@ -10,4 +10,8 @@ name: "Altsasu/Alsasua"
 slug: "altsasu-alsasua"
 slug-province: "navarra"
 permalink: /guarderias-en-altsasu-alsasua/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALTSASU/ALSASUA"
+meta-description: "Listado con las mejores guarderías de ALTSASU/ALSASUA"
 ---

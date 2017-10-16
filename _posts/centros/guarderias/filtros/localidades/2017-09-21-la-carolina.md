@@ -10,4 +10,8 @@ name: "La Carolina"
 slug: "la-carolina"
 slug-province: "jaen"
 permalink: /guarderias-en-la-carolina/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA CAROLINA"
+meta-description: "Listado con las mejores guarderías de LA CAROLINA"
 ---

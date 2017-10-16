@@ -10,4 +10,8 @@ name: "Tres Cantos"
 slug: "tres-cantos"
 slug-province: "madrid"
 permalink: /guarderias-en-tres-cantos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TRES CANTOS"
+meta-description: "Listado con las mejores guarderías de TRES CANTOS"
 ---

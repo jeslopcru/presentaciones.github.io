@@ -10,4 +10,8 @@ name: "Navas De Oro"
 slug: "navas-de-oro"
 slug-province: "segovia"
 permalink: /guarderias-en-navas-de-oro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVAS DE ORO"
+meta-description: "Listado con las mejores guarderías de NAVAS DE ORO"
 ---

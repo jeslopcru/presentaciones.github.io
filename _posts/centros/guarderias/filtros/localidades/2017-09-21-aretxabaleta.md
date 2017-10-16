@@ -10,4 +10,8 @@ name: "Aretxabaleta"
 slug: "aretxabaleta"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-aretxabaleta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARETXABALETA"
+meta-description: "Listado con las mejores guarderías de ARETXABALETA"
 ---

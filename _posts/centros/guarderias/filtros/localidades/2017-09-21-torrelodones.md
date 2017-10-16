@@ -10,4 +10,8 @@ name: "Torrelodones"
 slug: "torrelodones"
 slug-province: "madrid"
 permalink: /guarderias-en-torrelodones/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORRELODONES"
+meta-description: "Listado con las mejores guarderías de TORRELODONES"
 ---

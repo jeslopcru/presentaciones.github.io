@@ -10,4 +10,8 @@ name: "Cañada Rosal"
 slug: "canada-rosal"
 slug-province: "sevilla"
 permalink: /guarderias-en-canada-rosal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAñADA ROSAL"
+meta-description: "Listado con las mejores guarderías de CAñADA ROSAL"
 ---

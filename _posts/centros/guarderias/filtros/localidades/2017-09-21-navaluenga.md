@@ -10,4 +10,8 @@ name: "Navaluenga"
 slug: "navaluenga"
 slug-province: "avila"
 permalink: /guarderias-en-navaluenga/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVALUENGA"
+meta-description: "Listado con las mejores guarderías de NAVALUENGA"
 ---

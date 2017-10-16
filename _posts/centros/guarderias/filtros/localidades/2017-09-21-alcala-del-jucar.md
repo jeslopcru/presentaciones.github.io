@@ -10,4 +10,8 @@ name: "Alcala Del Jucar"
 slug: "alcala-del-jucar"
 slug-province: "albacete"
 permalink: /guarderias-en-alcala-del-jucar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCALA DEL JUCAR"
+meta-description: "Listado con las mejores guarderías de ALCALA DEL JUCAR"
 ---

@@ -10,4 +10,8 @@ name: "Velilla De San Antonio"
 slug: "velilla-de-san-antonio"
 slug-province: "madrid"
 permalink: /guarderias-en-velilla-de-san-antonio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VELILLA DE SAN ANTONIO"
+meta-description: "Listado con las mejores guarderías de VELILLA DE SAN ANTONIO"
 ---

@@ -10,4 +10,8 @@ name: "La Linea De La Concepcion"
 slug: "la-linea-de-la-concepcion"
 slug-province: "cadiz"
 permalink: /guarderias-en-la-linea-de-la-concepcion/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA LINEA DE LA CONCEPCION"
+meta-description: "Listado con las mejores guarderías de LA LINEA DE LA CONCEPCION"
 ---

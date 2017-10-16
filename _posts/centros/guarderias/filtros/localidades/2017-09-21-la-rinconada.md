@@ -10,4 +10,8 @@ name: "La Rinconada"
 slug: "la-rinconada"
 slug-province: "sevilla"
 permalink: /guarderias-en-la-rinconada/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA RINCONADA"
+meta-description: "Listado con las mejores guarderías de LA RINCONADA"
 ---

@@ -10,4 +10,8 @@ name: "Urduña/Orduña"
 slug: "urduna-orduna"
 slug-province: "bizkaia"
 permalink: /guarderias-en-urduna-orduna/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de URDUñA/ORDUñA"
+meta-description: "Listado con las mejores guarderías de URDUñA/ORDUñA"
 ---

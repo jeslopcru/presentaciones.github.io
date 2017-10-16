@@ -10,4 +10,8 @@ name: "Los Rosales"
 slug: "los-rosales"
 slug-province: "sevilla"
 permalink: /guarderias-en-los-rosales/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS ROSALES"
+meta-description: "Listado con las mejores guarderías de LOS ROSALES"
 ---

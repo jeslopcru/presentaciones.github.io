@@ -10,4 +10,8 @@ name: "Donramiro"
 slug: "donramiro"
 slug-province: "pontevedra"
 permalink: /guarderias-en-donramiro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DONRAMIRO"
+meta-description: "Listado con las mejores guarderías de DONRAMIRO"
 ---

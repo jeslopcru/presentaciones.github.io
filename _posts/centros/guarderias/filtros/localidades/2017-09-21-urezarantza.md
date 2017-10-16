@@ -10,4 +10,8 @@ name: "Urezarantza"
 slug: "urezarantza"
 slug-province: "bizkaia"
 permalink: /guarderias-en-urezarantza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de UREZARANTZA"
+meta-description: "Listado con las mejores guarderías de UREZARANTZA"
 ---

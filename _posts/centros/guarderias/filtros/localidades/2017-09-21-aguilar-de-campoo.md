@@ -10,4 +10,8 @@ name: "Aguilar De Campoo"
 slug: "aguilar-de-campoo"
 slug-province: "palencia"
 permalink: /guarderias-en-aguilar-de-campoo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AGUILAR DE CAMPOO"
+meta-description: "Listado con las mejores guarderías de AGUILAR DE CAMPOO"
 ---

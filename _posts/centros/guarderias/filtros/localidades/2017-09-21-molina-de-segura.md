@@ -10,4 +10,8 @@ name: "Molina De Segura"
 slug: "molina-de-segura"
 slug-province: "murcia"
 permalink: /guarderias-en-molina-de-segura/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MOLINA DE SEGURA"
+meta-description: "Listado con las mejores guarderías de MOLINA DE SEGURA"
 ---

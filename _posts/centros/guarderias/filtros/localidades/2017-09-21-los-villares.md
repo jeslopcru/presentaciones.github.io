@@ -10,4 +10,8 @@ name: "Los Villares"
 slug: "los-villares"
 slug-province: "jaen"
 permalink: /guarderias-en-los-villares/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS VILLARES"
+meta-description: "Listado con las mejores guarderías de LOS VILLARES"
 ---

@@ -10,4 +10,8 @@ name: "San Juan De Aznalfarache"
 slug: "san-juan-de-aznalfarache"
 slug-province: "sevilla"
 permalink: /guarderias-en-san-juan-de-aznalfarache/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN JUAN DE AZNALFARACHE"
+meta-description: "Listado con las mejores guarderías de SAN JUAN DE AZNALFARACHE"
 ---

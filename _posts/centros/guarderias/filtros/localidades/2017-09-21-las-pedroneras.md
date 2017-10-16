@@ -10,4 +10,8 @@ name: "Las Pedroñeras"
 slug: "las-pedroneras"
 slug-province: "cuenca"
 permalink: /guarderias-en-las-pedroneras/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS PEDROñERAS"
+meta-description: "Listado con las mejores guarderías de LAS PEDROñERAS"
 ---

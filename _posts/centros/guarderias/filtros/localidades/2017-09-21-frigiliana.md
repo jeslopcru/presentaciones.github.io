@@ -10,4 +10,8 @@ name: "Frigiliana"
 slug: "frigiliana"
 slug-province: "malaga"
 permalink: /guarderias-en-frigiliana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FRIGILIANA"
+meta-description: "Listado con las mejores guarderías de FRIGILIANA"
 ---

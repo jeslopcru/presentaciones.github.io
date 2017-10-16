@@ -10,4 +10,8 @@ name: "Cenes De La Vega"
 slug: "cenes-de-la-vega"
 slug-province: "granada"
 permalink: /guarderias-en-cenes-de-la-vega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CENES DE LA VEGA"
+meta-description: "Listado con las mejores guarderías de CENES DE LA VEGA"
 ---

@@ -10,4 +10,8 @@ name: "Beas De Segura"
 slug: "beas-de-segura"
 slug-province: "jaen"
 permalink: /guarderias-en-beas-de-segura/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BEAS DE SEGURA"
+meta-description: "Listado con las mejores guarderías de BEAS DE SEGURA"
 ---

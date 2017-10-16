@@ -10,4 +10,8 @@ name: "Gernika-Lumo"
 slug: "gernika-lumo"
 slug-province: "bizkaia"
 permalink: /guarderias-en-gernika-lumo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GERNIKA-LUMO"
+meta-description: "Listado con las mejores guarderías de GERNIKA-LUMO"
 ---

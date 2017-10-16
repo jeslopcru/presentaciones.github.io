@@ -10,4 +10,8 @@ name: "Es Migjorn Gran"
 slug: "es-migjorn-gran"
 slug-province: "illes-balears"
 permalink: /guarderias-en-es-migjorn-gran/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ES MIGJORN GRAN"
+meta-description: "Listado con las mejores guarderías de ES MIGJORN GRAN"
 ---

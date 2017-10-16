@@ -10,4 +10,8 @@ name: "Puente Tocinos"
 slug: "puente-tocinos"
 slug-province: "murcia"
 permalink: /guarderias-en-puente-tocinos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUENTE TOCINOS"
+meta-description: "Listado con las mejores guarderías de PUENTE TOCINOS"
 ---

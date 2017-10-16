@@ -10,4 +10,8 @@ name: "Moron De La Frontera"
 slug: "moron-de-la-frontera"
 slug-province: "sevilla"
 permalink: /guarderias-en-moron-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MORON DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de MORON DE LA FRONTERA"
 ---

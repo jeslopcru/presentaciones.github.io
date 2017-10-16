@@ -10,4 +10,8 @@ name: "Guadalix De La Sierra"
 slug: "guadalix-de-la-sierra"
 slug-province: "madrid"
 permalink: /guarderias-en-guadalix-de-la-sierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUADALIX DE LA SIERRA"
+meta-description: "Listado con las mejores guarderías de GUADALIX DE LA SIERRA"
 ---

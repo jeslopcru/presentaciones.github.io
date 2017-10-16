@@ -10,4 +10,8 @@ name: "Montealegre Del Castillo"
 slug: "montealegre-del-castillo"
 slug-province: "albacete"
 permalink: /guarderias-en-montealegre-del-castillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTEALEGRE DEL CASTILLO"
+meta-description: "Listado con las mejores guarderías de MONTEALEGRE DEL CASTILLO"
 ---

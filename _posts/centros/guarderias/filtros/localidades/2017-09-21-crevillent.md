@@ -10,4 +10,8 @@ name: "Crevillent"
 slug: "crevillent"
 slug-province: "alicante"
 permalink: /guarderias-en-crevillent/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CREVILLENT"
+meta-description: "Listado con las mejores guarderías de CREVILLENT"
 ---

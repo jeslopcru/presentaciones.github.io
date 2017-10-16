@@ -10,4 +10,8 @@ name: "Lantadilla"
 slug: "lantadilla"
 slug-province: "palencia"
 permalink: /guarderias-en-lantadilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LANTADILLA"
+meta-description: "Listado con las mejores guarderías de LANTADILLA"
 ---

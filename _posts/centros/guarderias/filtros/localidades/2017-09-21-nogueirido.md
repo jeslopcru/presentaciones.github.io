@@ -10,4 +10,8 @@ name: "Nogueirido"
 slug: "nogueirido"
 slug-province: "a-coruna"
 permalink: /guarderias-en-nogueirido/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NOGUEIRIDO"
+meta-description: "Listado con las mejores guarderías de NOGUEIRIDO"
 ---

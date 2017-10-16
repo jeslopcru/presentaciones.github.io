@@ -10,4 +10,8 @@ name: "León Centro"
 slug: "leon-centro"
 slug-province: "leon"
 permalink: /guarderias-en-leon-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LEóN CENTRO"
+meta-description: "Listado con las mejores guarderías de LEóN CENTRO"
 ---

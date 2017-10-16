@@ -10,4 +10,8 @@ name: "Benahadux"
 slug: "benahadux"
 slug-province: "almeria"
 permalink: /guarderias-en-benahadux/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAHADUX"
+meta-description: "Listado con las mejores guarderías de BENAHADUX"
 ---

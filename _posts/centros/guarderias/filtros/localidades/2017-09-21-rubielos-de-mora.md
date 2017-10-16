@@ -10,4 +10,8 @@ name: "Rubielos De Mora"
 slug: "rubielos-de-mora"
 slug-province: "teruel"
 permalink: /guarderias-en-rubielos-de-mora/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de RUBIELOS DE MORA"
+meta-description: "Listado con las mejores guarderías de RUBIELOS DE MORA"
 ---

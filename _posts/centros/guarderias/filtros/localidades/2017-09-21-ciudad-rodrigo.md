@@ -10,4 +10,8 @@ name: "Ciudad Rodrigo"
 slug: "ciudad-rodrigo"
 slug-province: "salamanca"
 permalink: /guarderias-en-ciudad-rodrigo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CIUDAD RODRIGO"
+meta-description: "Listado con las mejores guarderías de CIUDAD RODRIGO"
 ---

@@ -10,4 +10,8 @@ name: "Port De Pollença"
 slug: "port-de-pollença"
 slug-province: "illes-balears"
 permalink: /guarderias-en-port-de-pollença/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PORT DE POLLENçA"
+meta-description: "Listado con las mejores guarderías de PORT DE POLLENçA"
 ---

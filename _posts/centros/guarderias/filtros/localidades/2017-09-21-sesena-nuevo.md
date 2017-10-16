@@ -10,4 +10,8 @@ name: "Seseña Nuevo"
 slug: "sesena-nuevo"
 slug-province: "toledo"
 permalink: /guarderias-en-sesena-nuevo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SESEñA NUEVO"
+meta-description: "Listado con las mejores guarderías de SESEñA NUEVO"
 ---

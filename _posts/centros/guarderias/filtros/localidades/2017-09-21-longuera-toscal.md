@@ -10,4 +10,8 @@ name: "Longuera-Toscal"
 slug: "longuera-toscal"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-longuera-toscal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LONGUERA-TOSCAL"
+meta-description: "Listado con las mejores guarderías de LONGUERA-TOSCAL"
 ---

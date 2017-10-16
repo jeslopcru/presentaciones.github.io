@@ -10,4 +10,8 @@ name: "Villamartin"
 slug: "villamartin"
 slug-province: "cadiz"
 permalink: /guarderias-en-villamartin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAMARTIN"
+meta-description: "Listado con las mejores guarderías de VILLAMARTIN"
 ---

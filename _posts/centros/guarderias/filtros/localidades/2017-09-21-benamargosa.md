@@ -10,4 +10,8 @@ name: "Benamargosa"
 slug: "benamargosa"
 slug-province: "malaga"
 permalink: /guarderias-en-benamargosa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAMARGOSA"
+meta-description: "Listado con las mejores guarderías de BENAMARGOSA"
 ---

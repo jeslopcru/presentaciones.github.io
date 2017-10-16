@@ -10,4 +10,8 @@ name: "San Clemente"
 slug: "san-clemente"
 slug-province: "cuenca"
 permalink: /guarderias-en-san-clemente/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN CLEMENTE"
+meta-description: "Listado con las mejores guarderías de SAN CLEMENTE"
 ---

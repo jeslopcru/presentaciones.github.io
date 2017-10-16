@@ -10,4 +10,8 @@ name: "Fuente Vaqueros"
 slug: "fuente-vaqueros"
 slug-province: "granada"
 permalink: /guarderias-en-fuente-vaqueros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENTE VAQUEROS"
+meta-description: "Listado con las mejores guarderías de FUENTE VAQUEROS"
 ---

@@ -10,4 +10,8 @@ name: "Las Mercedes"
 slug: "las-mercedes"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-las-mercedes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS MERCEDES"
+meta-description: "Listado con las mejores guarderías de LAS MERCEDES"
 ---

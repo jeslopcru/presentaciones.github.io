@@ -10,4 +10,8 @@ name: "Salamanca Centro"
 slug: "salamanca-centro"
 slug-province: "salamanca"
 permalink: /guarderias-en-salamanca-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SALAMANCA CENTRO"
+meta-description: "Listado con las mejores guarderías de SALAMANCA CENTRO"
 ---

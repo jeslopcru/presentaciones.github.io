@@ -10,4 +10,8 @@ name: "Sallent De Gallego"
 slug: "sallent-de-gallego"
 slug-province: "huesca"
 permalink: /guarderias-en-sallent-de-gallego/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SALLENT DE GALLEGO"
+meta-description: "Listado con las mejores guarderías de SALLENT DE GALLEGO"
 ---

@@ -10,4 +10,8 @@ name: "Priego De Cordoba"
 slug: "priego-de-cordoba"
 slug-province: "cordoba"
 permalink: /guarderias-en-priego-de-cordoba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PRIEGO DE CORDOBA"
+meta-description: "Listado con las mejores guarderías de PRIEGO DE CORDOBA"
 ---

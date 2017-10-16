@@ -10,4 +10,8 @@ name: "Lumpiaque"
 slug: "lumpiaque"
 slug-province: "zaragoza"
 permalink: /guarderias-en-lumpiaque/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LUMPIAQUE"
+meta-description: "Listado con las mejores guarderías de LUMPIAQUE"
 ---

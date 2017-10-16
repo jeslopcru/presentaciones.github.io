@@ -10,4 +10,8 @@ name: "Agirre-Aperribai"
 slug: "agirre-aperribai"
 slug-province: "bizkaia"
 permalink: /guarderias-en-agirre-aperribai/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AGIRRE-APERRIBAI"
+meta-description: "Listado con las mejores guarderías de AGIRRE-APERRIBAI"
 ---

@@ -10,4 +10,8 @@ name: "Torre De Juan Abad"
 slug: "torre-de-juan-abad"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-torre-de-juan-abad/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORRE DE JUAN ABAD"
+meta-description: "Listado con las mejores guarderías de TORRE DE JUAN ABAD"
 ---

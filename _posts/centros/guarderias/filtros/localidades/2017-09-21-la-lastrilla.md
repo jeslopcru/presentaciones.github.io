@@ -10,4 +10,8 @@ name: "La Lastrilla"
 slug: "la-lastrilla"
 slug-province: "segovia"
 permalink: /guarderias-en-la-lastrilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA LASTRILLA"
+meta-description: "Listado con las mejores guarderías de LA LASTRILLA"
 ---

@@ -10,4 +10,8 @@ name: "Casas De Juan Nuñez"
 slug: "casas-de-juan-nunez"
 slug-province: "albacete"
 permalink: /guarderias-en-casas-de-juan-nunez/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASAS DE JUAN NUñEZ"
+meta-description: "Listado con las mejores guarderías de CASAS DE JUAN NUñEZ"
 ---

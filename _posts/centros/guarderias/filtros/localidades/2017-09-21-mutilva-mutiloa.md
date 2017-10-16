@@ -10,4 +10,8 @@ name: "Mutilva/Mutiloa"
 slug: "mutilva-mutiloa"
 slug-province: "navarra"
 permalink: /guarderias-en-mutilva-mutiloa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MUTILVA/MUTILOA"
+meta-description: "Listado con las mejores guarderías de MUTILVA/MUTILOA"
 ---

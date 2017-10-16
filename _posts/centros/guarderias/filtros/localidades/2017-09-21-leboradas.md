@@ -10,4 +10,8 @@ name: "Leboradas"
 slug: "leboradas"
 slug-province: "lugo"
 permalink: /guarderias-en-leboradas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LEBORADAS"
+meta-description: "Listado con las mejores guarderías de LEBORADAS"
 ---

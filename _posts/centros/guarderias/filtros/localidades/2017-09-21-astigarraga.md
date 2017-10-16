@@ -10,4 +10,8 @@ name: "Astigarraga"
 slug: "astigarraga"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-astigarraga/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ASTIGARRAGA"
+meta-description: "Listado con las mejores guarderías de ASTIGARRAGA"
 ---

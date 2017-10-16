@@ -10,4 +10,8 @@ name: "Castilleja Del Campo"
 slug: "castilleja-del-campo"
 slug-province: "sevilla"
 permalink: /guarderias-en-castilleja-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTILLEJA DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de CASTILLEJA DEL CAMPO"
 ---

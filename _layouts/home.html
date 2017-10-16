@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="home full-height">
     <div class="first-content full-height">
-        <h1 class="page-heading">Busca tu centro educativo</h1>
+        <h1 class="page-heading">Busca la mejor guardería para tu peque</h1>
         {% include searcher.html %}
     </div>
     <div class="second-content">
-        <h2>Busca tu centro por provincia</h2>
+        <h2>Busca guardería por provincia</h2>
         {% assign listPost = (site.posts | where: "categories", "provincia" | reverse) %}
         {% include list-highlighted.html list=listPost %}
     </div>

@@ -10,4 +10,8 @@ name: "Alcobendas"
 slug: "alcobendas"
 slug-province: "madrid"
 permalink: /guarderias-en-alcobendas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCOBENDAS"
+meta-description: "Listado con las mejores guarderías de ALCOBENDAS"
 ---

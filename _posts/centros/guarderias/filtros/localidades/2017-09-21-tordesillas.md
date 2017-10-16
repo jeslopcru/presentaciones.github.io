@@ -10,4 +10,8 @@ name: "Tordesillas"
 slug: "tordesillas"
 slug-province: "valladolid"
 permalink: /guarderias-en-tordesillas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORDESILLAS"
+meta-description: "Listado con las mejores guarderías de TORDESILLAS"
 ---

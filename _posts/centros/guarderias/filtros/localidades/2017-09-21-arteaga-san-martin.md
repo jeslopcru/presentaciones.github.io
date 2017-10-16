@@ -10,4 +10,8 @@ name: "Arteaga (San Martin)"
 slug: "arteaga-san-martin"
 slug-province: "bizkaia"
 permalink: /guarderias-en-arteaga-san-martin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARTEAGA (SAN MARTIN)"
+meta-description: "Listado con las mejores guarderías de ARTEAGA (SAN MARTIN)"
 ---

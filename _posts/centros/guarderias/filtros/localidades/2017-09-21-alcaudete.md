@@ -10,4 +10,8 @@ name: "Alcaudete"
 slug: "alcaudete"
 slug-province: "jaen"
 permalink: /guarderias-en-alcaudete/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCAUDETE"
+meta-description: "Listado con las mejores guarderías de ALCAUDETE"
 ---

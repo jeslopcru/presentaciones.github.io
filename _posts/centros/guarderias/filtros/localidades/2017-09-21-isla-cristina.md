@@ -10,4 +10,8 @@ name: "Isla-Cristina"
 slug: "isla-cristina"
 slug-province: "huelva"
 permalink: /guarderias-en-isla-cristina/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ISLA-CRISTINA"
+meta-description: "Listado con las mejores guarderías de ISLA-CRISTINA"
 ---

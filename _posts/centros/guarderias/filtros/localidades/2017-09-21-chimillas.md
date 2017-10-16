@@ -10,4 +10,8 @@ name: "Chimillas"
 slug: "chimillas"
 slug-province: "huesca"
 permalink: /guarderias-en-chimillas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CHIMILLAS"
+meta-description: "Listado con las mejores guarderías de CHIMILLAS"
 ---

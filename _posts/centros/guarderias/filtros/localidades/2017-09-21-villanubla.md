@@ -10,4 +10,8 @@ name: "Villanubla"
 slug: "villanubla"
 slug-province: "valladolid"
 permalink: /guarderias-en-villanubla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUBLA"
+meta-description: "Listado con las mejores guarderías de VILLANUBLA"
 ---

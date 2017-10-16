@@ -10,4 +10,8 @@ name: "Cedrillas"
 slug: "cedrillas"
 slug-province: "teruel"
 permalink: /guarderias-en-cedrillas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CEDRILLAS"
+meta-description: "Listado con las mejores guarderías de CEDRILLAS"
 ---

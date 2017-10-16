@@ -10,4 +10,8 @@ name: "Torralba De Calatrava"
 slug: "torralba-de-calatrava"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-torralba-de-calatrava/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORRALBA DE CALATRAVA"
+meta-description: "Listado con las mejores guarderías de TORRALBA DE CALATRAVA"
 ---

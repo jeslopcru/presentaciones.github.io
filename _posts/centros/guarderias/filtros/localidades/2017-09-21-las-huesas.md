@@ -10,4 +10,8 @@ name: "Las Huesas"
 slug: "las-huesas"
 slug-province: "las-palmas"
 permalink: /guarderias-en-las-huesas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS HUESAS"
+meta-description: "Listado con las mejores guarderías de LAS HUESAS"
 ---

@@ -10,4 +10,8 @@ name: "Huetor-Santillan"
 slug: "huetor-santillan"
 slug-province: "granada"
 permalink: /guarderias-en-huetor-santillan/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HUETOR-SANTILLAN"
+meta-description: "Listado con las mejores guarderías de HUETOR-SANTILLAN"
 ---

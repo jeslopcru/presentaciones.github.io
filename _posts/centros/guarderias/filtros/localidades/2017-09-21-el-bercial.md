@@ -10,4 +10,8 @@ name: "El Bercial"
 slug: "el-bercial"
 slug-province: "madrid"
 permalink: /guarderias-en-el-bercial/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL BERCIAL"
+meta-description: "Listado con las mejores guarderías de EL BERCIAL"
 ---

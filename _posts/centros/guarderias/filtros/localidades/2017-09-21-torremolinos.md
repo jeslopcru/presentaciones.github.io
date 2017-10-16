@@ -10,4 +10,8 @@ name: "Torremolinos"
 slug: "torremolinos"
 slug-province: "malaga"
 permalink: /guarderias-en-torremolinos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORREMOLINOS"
+meta-description: "Listado con las mejores guarderías de TORREMOLINOS"
 ---

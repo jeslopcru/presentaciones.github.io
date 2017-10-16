@@ -10,4 +10,8 @@ name: "Las Torres De Cotillas"
 slug: "las-torres-de-cotillas"
 slug-province: "murcia"
 permalink: /guarderias-en-las-torres-de-cotillas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS TORRES DE COTILLAS"
+meta-description: "Listado con las mejores guarderías de LAS TORRES DE COTILLAS"
 ---

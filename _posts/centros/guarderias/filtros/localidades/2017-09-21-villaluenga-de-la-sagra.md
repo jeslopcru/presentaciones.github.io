@@ -10,4 +10,8 @@ name: "Villaluenga De La Sagra"
 slug: "villaluenga-de-la-sagra"
 slug-province: "toledo"
 permalink: /guarderias-en-villaluenga-de-la-sagra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLALUENGA DE LA SAGRA"
+meta-description: "Listado con las mejores guarderías de VILLALUENGA DE LA SAGRA"
 ---

@@ -10,4 +10,8 @@ name: "Almayate Bajo"
 slug: "almayate-bajo"
 slug-province: "malaga"
 permalink: /guarderias-en-almayate-bajo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMAYATE BAJO"
+meta-description: "Listado con las mejores guarderías de ALMAYATE BAJO"
 ---

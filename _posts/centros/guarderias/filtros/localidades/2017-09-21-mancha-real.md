@@ -10,4 +10,8 @@ name: "Mancha Real"
 slug: "mancha-real"
 slug-province: "jaen"
 permalink: /guarderias-en-mancha-real/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MANCHA REAL"
+meta-description: "Listado con las mejores guarderías de MANCHA REAL"
 ---

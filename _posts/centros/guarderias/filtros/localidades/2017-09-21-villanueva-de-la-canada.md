@@ -10,4 +10,8 @@ name: "Villanueva De La Cañada"
 slug: "villanueva-de-la-canada"
 slug-province: "madrid"
 permalink: /guarderias-en-villanueva-de-la-canada/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE LA CAñADA"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE LA CAñADA"
 ---

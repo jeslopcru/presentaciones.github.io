@@ -10,4 +10,8 @@ name: "Miraflores De La Sierra"
 slug: "miraflores-de-la-sierra"
 slug-province: "madrid"
 permalink: /guarderias-en-miraflores-de-la-sierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MIRAFLORES DE LA SIERRA"
+meta-description: "Listado con las mejores guarderías de MIRAFLORES DE LA SIERRA"
 ---

@@ -10,4 +10,8 @@ name: "San Lorenzo De El Escorial"
 slug: "san-lorenzo-de-el-escorial"
 slug-province: "madrid"
 permalink: /guarderias-en-san-lorenzo-de-el-escorial/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN LORENZO DE EL ESCORIAL"
+meta-description: "Listado con las mejores guarderías de SAN LORENZO DE EL ESCORIAL"
 ---

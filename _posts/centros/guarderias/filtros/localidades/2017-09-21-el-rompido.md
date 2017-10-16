@@ -10,4 +10,8 @@ name: "El Rompido"
 slug: "el-rompido"
 slug-province: "huelva"
 permalink: /guarderias-en-el-rompido/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL ROMPIDO"
+meta-description: "Listado con las mejores guarderías de EL ROMPIDO"
 ---

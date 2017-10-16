@@ -10,4 +10,8 @@ name: "Bollullos De La Mitacion"
 slug: "bollullos-de-la-mitacion"
 slug-province: "sevilla"
 permalink: /guarderias-en-bollullos-de-la-mitacion/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BOLLULLOS DE LA MITACION"
+meta-description: "Listado con las mejores guarderías de BOLLULLOS DE LA MITACION"
 ---

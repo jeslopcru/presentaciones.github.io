@@ -10,4 +10,8 @@ name: "Lominchar"
 slug: "lominchar"
 slug-province: "toledo"
 permalink: /guarderias-en-lominchar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOMINCHAR"
+meta-description: "Listado con las mejores guarderías de LOMINCHAR"
 ---

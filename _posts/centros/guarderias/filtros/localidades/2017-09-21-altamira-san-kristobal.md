@@ -10,4 +10,8 @@ name: "Altamira-San Kristobal"
 slug: "altamira-san-kristobal"
 slug-province: "bizkaia"
 permalink: /guarderias-en-altamira-san-kristobal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALTAMIRA-SAN KRISTOBAL"
+meta-description: "Listado con las mejores guarderías de ALTAMIRA-SAN KRISTOBAL"
 ---

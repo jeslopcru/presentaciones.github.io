@@ -10,4 +10,8 @@ name: "Benamocarra"
 slug: "benamocarra"
 slug-province: "malaga"
 permalink: /guarderias-en-benamocarra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAMOCARRA"
+meta-description: "Listado con las mejores guarderías de BENAMOCARRA"
 ---

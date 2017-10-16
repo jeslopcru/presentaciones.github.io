@@ -10,4 +10,8 @@ name: "Colmenarejo"
 slug: "colmenarejo"
 slug-province: "madrid"
 permalink: /guarderias-en-colmenarejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COLMENAREJO"
+meta-description: "Listado con las mejores guarderías de COLMENAREJO"
 ---

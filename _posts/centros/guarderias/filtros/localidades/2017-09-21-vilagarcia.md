@@ -10,4 +10,8 @@ name: "Vilagarcia"
 slug: "vilagarcia"
 slug-province: "pontevedra"
 permalink: /guarderias-en-vilagarcia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILAGARCIA"
+meta-description: "Listado con las mejores guarderías de VILAGARCIA"
 ---

@@ -10,4 +10,8 @@ name: "Ossa De Montiel"
 slug: "ossa-de-montiel"
 slug-province: "albacete"
 permalink: /guarderias-en-ossa-de-montiel/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de OSSA DE MONTIEL"
+meta-description: "Listado con las mejores guarderías de OSSA DE MONTIEL"
 ---

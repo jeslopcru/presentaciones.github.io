@@ -10,4 +10,8 @@ name: "Elche De La Sierra"
 slug: "elche-de-la-sierra"
 slug-province: "albacete"
 permalink: /guarderias-en-elche-de-la-sierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ELCHE DE LA SIERRA"
+meta-description: "Listado con las mejores guarderías de ELCHE DE LA SIERRA"
 ---

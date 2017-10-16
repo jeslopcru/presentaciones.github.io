@@ -10,4 +10,8 @@ name: "Sant Climent"
 slug: "sant-climent"
 slug-province: "illes-balears"
 permalink: /guarderias-en-sant-climent/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANT CLIMENT"
+meta-description: "Listado con las mejores guarderías de SANT CLIMENT"
 ---

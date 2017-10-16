@@ -10,4 +10,8 @@ name: "La Victoria"
 slug: "la-victoria"
 slug-province: "cordoba"
 permalink: /guarderias-en-la-victoria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA VICTORIA"
+meta-description: "Listado con las mejores guarderías de LA VICTORIA"
 ---

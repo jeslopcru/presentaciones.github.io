@@ -10,4 +10,8 @@ name: "Los Corrales"
 slug: "los-corrales"
 slug-province: "sevilla"
 permalink: /guarderias-en-los-corrales/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS CORRALES"
+meta-description: "Listado con las mejores guarderías de LOS CORRALES"
 ---

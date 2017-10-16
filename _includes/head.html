@@ -2,11 +2,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
-    <meta name="robots" content="noindex, follow"/>
+    <meta name="robots" content="{% if page.robot %}{{ page.robot }}{% else %}{{ site.robot }}{% endif %}"/>
 
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <title>{% if page.meta-title %}{{ page.meta-title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description"
-          content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+          content="{{ page.meta-description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 

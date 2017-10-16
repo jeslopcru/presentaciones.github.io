@@ -10,4 +10,8 @@ name: "Los Palacios Y Villafranca"
 slug: "los-palacios-y-villafranca"
 slug-province: "sevilla"
 permalink: /guarderias-en-los-palacios-y-villafranca/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS PALACIOS Y VILLAFRANCA"
+meta-description: "Listado con las mejores guarderías de LOS PALACIOS Y VILLAFRANCA"
 ---

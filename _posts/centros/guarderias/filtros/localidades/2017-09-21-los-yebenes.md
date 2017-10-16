@@ -10,4 +10,8 @@ name: "Los Yebenes"
 slug: "los-yebenes"
 slug-province: "toledo"
 permalink: /guarderias-en-los-yebenes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS YEBENES"
+meta-description: "Listado con las mejores guarderías de LOS YEBENES"
 ---

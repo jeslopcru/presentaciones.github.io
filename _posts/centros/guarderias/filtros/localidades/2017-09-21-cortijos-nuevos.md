@@ -10,4 +10,8 @@ name: "Cortijos Nuevos"
 slug: "cortijos-nuevos"
 slug-province: "jaen"
 permalink: /guarderias-en-cortijos-nuevos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CORTIJOS NUEVOS"
+meta-description: "Listado con las mejores guarderías de CORTIJOS NUEVOS"
 ---

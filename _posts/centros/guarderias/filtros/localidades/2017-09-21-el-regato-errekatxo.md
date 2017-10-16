@@ -10,4 +10,8 @@ name: "El Regato/Errekatxo"
 slug: "el-regato-errekatxo"
 slug-province: "bizkaia"
 permalink: /guarderias-en-el-regato-errekatxo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL REGATO/ERREKATXO"
+meta-description: "Listado con las mejores guarderías de EL REGATO/ERREKATXO"
 ---

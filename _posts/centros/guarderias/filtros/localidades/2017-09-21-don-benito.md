@@ -10,4 +10,8 @@ name: "Don Benito"
 slug: "don-benito"
 slug-province: "badajoz"
 permalink: /guarderias-en-don-benito/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DON BENITO"
+meta-description: "Listado con las mejores guarderías de DON BENITO"
 ---

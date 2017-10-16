@@ -10,4 +10,8 @@ name: "Huetor-Tajar"
 slug: "huetor-tajar"
 slug-province: "granada"
 permalink: /guarderias-en-huetor-tajar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HUETOR-TAJAR"
+meta-description: "Listado con las mejores guarderías de HUETOR-TAJAR"
 ---

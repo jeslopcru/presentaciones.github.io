@@ -10,4 +10,8 @@ name: "Los Llanos De Aridane"
 slug: "los-llanos-de-aridane"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-los-llanos-de-aridane/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS LLANOS DE ARIDANE"
+meta-description: "Listado con las mejores guarderías de LOS LLANOS DE ARIDANE"
 ---

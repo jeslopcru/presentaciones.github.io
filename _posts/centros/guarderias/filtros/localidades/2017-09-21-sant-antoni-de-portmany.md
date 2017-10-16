@@ -10,4 +10,8 @@ name: "Sant Antoni De Portmany"
 slug: "sant-antoni-de-portmany"
 slug-province: "illes-balears"
 permalink: /guarderias-en-sant-antoni-de-portmany/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANT ANTONI DE PORTMANY"
+meta-description: "Listado con las mejores guarderías de SANT ANTONI DE PORTMANY"
 ---

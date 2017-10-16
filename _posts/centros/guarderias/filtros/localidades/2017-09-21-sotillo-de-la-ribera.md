@@ -10,4 +10,8 @@ name: "Sotillo De La Ribera"
 slug: "sotillo-de-la-ribera"
 slug-province: "burgos"
 permalink: /guarderias-en-sotillo-de-la-ribera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SOTILLO DE LA RIBERA"
+meta-description: "Listado con las mejores guarderías de SOTILLO DE LA RIBERA"
 ---

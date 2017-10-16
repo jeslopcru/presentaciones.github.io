@@ -10,4 +10,8 @@ name: "Rosal De La Frontera"
 slug: "rosal-de-la-frontera"
 slug-province: "huelva"
 permalink: /guarderias-en-rosal-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ROSAL DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de ROSAL DE LA FRONTERA"
 ---

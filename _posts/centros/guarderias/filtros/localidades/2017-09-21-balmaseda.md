@@ -10,4 +10,8 @@ name: "Balmaseda"
 slug: "balmaseda"
 slug-province: "bizkaia"
 permalink: /guarderias-en-balmaseda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BALMASEDA"
+meta-description: "Listado con las mejores guarderías de BALMASEDA"
 ---

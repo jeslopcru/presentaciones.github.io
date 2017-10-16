@@ -10,4 +10,8 @@ name: "Monturque"
 slug: "monturque"
 slug-province: "cordoba"
 permalink: /guarderias-en-monturque/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTURQUE"
+meta-description: "Listado con las mejores guarderías de MONTURQUE"
 ---

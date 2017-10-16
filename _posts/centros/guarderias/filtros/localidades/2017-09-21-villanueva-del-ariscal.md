@@ -10,4 +10,8 @@ name: "Villanueva Del Ariscal"
 slug: "villanueva-del-ariscal"
 slug-province: "sevilla"
 permalink: /guarderias-en-villanueva-del-ariscal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DEL ARISCAL"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DEL ARISCAL"
 ---

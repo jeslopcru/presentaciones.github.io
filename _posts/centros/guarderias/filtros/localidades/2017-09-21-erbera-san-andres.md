@@ -10,4 +10,8 @@ name: "Erbera/San Andres"
 slug: "erbera-san-andres"
 slug-province: "bizkaia"
 permalink: /guarderias-en-erbera-san-andres/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ERBERA/SAN ANDRES"
+meta-description: "Listado con las mejores guarderías de ERBERA/SAN ANDRES"
 ---

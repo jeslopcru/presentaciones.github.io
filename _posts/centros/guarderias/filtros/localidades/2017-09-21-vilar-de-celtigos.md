@@ -10,4 +10,8 @@ name: "Vilar De Celtigos"
 slug: "vilar-de-celtigos"
 slug-province: "a-coruna"
 permalink: /guarderias-en-vilar-de-celtigos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILAR DE CELTIGOS"
+meta-description: "Listado con las mejores guarderías de VILAR DE CELTIGOS"
 ---

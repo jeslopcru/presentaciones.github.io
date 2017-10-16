@@ -10,4 +10,8 @@ name: "Tamarite De Litera"
 slug: "tamarite-de-litera"
 slug-province: "huesca"
 permalink: /guarderias-en-tamarite-de-litera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TAMARITE DE LITERA"
+meta-description: "Listado con las mejores guarderías de TAMARITE DE LITERA"
 ---

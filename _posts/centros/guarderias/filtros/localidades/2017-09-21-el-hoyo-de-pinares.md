@@ -10,4 +10,8 @@ name: "El Hoyo De Pinares"
 slug: "el-hoyo-de-pinares"
 slug-province: "avila"
 permalink: /guarderias-en-el-hoyo-de-pinares/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL HOYO DE PINARES"
+meta-description: "Listado con las mejores guarderías de EL HOYO DE PINARES"
 ---

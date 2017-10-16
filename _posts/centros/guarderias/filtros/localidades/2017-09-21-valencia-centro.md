@@ -10,4 +10,8 @@ name: "Valencia Centro"
 slug: "valencia-centro"
 slug-province: "valencia"
 permalink: /guarderias-en-valencia-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALENCIA CENTRO"
+meta-description: "Listado con las mejores guarderías de VALENCIA CENTRO"
 ---

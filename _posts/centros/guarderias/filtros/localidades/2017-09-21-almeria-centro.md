@@ -10,4 +10,8 @@ name: "Almería Centro"
 slug: "almeria-centro"
 slug-province: "almeria"
 permalink: /guarderias-en-almeria-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMERíA CENTRO"
+meta-description: "Listado con las mejores guarderías de ALMERíA CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Chinchilla De Monte-Aragon"
 slug: "chinchilla-de-monte-aragon"
 slug-province: "albacete"
 permalink: /guarderias-en-chinchilla-de-monte-aragon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CHINCHILLA DE MONTE-ARAGON"
+meta-description: "Listado con las mejores guarderías de CHINCHILLA DE MONTE-ARAGON"
 ---

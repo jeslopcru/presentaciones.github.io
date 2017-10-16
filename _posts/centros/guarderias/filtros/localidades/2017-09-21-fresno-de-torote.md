@@ -10,4 +10,8 @@ name: "Fresno De Torote"
 slug: "fresno-de-torote"
 slug-province: "madrid"
 permalink: /guarderias-en-fresno-de-torote/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FRESNO DE TOROTE"
+meta-description: "Listado con las mejores guarderías de FRESNO DE TOROTE"
 ---

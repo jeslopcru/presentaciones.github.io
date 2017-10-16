@@ -10,4 +10,8 @@ name: "Pozo Del Camino"
 slug: "pozo-del-camino"
 slug-province: "huelva"
 permalink: /guarderias-en-pozo-del-camino/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POZO DEL CAMINO"
+meta-description: "Listado con las mejores guarderías de POZO DEL CAMINO"
 ---

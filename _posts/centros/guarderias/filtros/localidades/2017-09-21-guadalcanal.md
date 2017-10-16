@@ -10,4 +10,8 @@ name: "Guadalcanal"
 slug: "guadalcanal"
 slug-province: "sevilla"
 permalink: /guarderias-en-guadalcanal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUADALCANAL"
+meta-description: "Listado con las mejores guarderías de GUADALCANAL"
 ---

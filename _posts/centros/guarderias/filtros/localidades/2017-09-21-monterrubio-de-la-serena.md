@@ -10,4 +10,8 @@ name: "Monterrubio De La Serena"
 slug: "monterrubio-de-la-serena"
 slug-province: "badajoz"
 permalink: /guarderias-en-monterrubio-de-la-serena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTERRUBIO DE LA SERENA"
+meta-description: "Listado con las mejores guarderías de MONTERRUBIO DE LA SERENA"
 ---

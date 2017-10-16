@@ -10,4 +10,8 @@ name: "Cartaojal"
 slug: "cartaojal"
 slug-province: "malaga"
 permalink: /guarderias-en-cartaojal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARTAOJAL"
+meta-description: "Listado con las mejores guarderías de CARTAOJAL"
 ---

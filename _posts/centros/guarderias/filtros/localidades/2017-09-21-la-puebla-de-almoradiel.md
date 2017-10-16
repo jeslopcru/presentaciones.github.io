@@ -10,4 +10,8 @@ name: "La Puebla De Almoradiel"
 slug: "la-puebla-de-almoradiel"
 slug-province: "toledo"
 permalink: /guarderias-en-la-puebla-de-almoradiel/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA PUEBLA DE ALMORADIEL"
+meta-description: "Listado con las mejores guarderías de LA PUEBLA DE ALMORADIEL"
 ---

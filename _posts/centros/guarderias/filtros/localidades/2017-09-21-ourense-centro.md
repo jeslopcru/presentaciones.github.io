@@ -10,4 +10,8 @@ name: "Ourense Centro"
 slug: "ourense-centro"
 slug-province: "ourense"
 permalink: /guarderias-en-ourense-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de OURENSE CENTRO"
+meta-description: "Listado con las mejores guarderías de OURENSE CENTRO"
 ---

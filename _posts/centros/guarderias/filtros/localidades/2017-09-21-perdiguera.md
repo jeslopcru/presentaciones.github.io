@@ -10,4 +10,8 @@ name: "Perdiguera"
 slug: "perdiguera"
 slug-province: "zaragoza"
 permalink: /guarderias-en-perdiguera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PERDIGUERA"
+meta-description: "Listado con las mejores guarderías de PERDIGUERA"
 ---

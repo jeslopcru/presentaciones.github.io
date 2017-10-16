@@ -10,4 +10,8 @@ name: "Huelva Centro"
 slug: "huelva-centro"
 slug-province: "huelva"
 permalink: /guarderias-en-huelva-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HUELVA CENTRO"
+meta-description: "Listado con las mejores guarderías de HUELVA CENTRO"
 ---

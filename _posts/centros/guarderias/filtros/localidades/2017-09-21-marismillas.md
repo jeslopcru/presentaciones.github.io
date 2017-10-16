@@ -10,4 +10,8 @@ name: "Marismillas"
 slug: "marismillas"
 slug-province: "sevilla"
 permalink: /guarderias-en-marismillas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MARISMILLAS"
+meta-description: "Listado con las mejores guarderías de MARISMILLAS"
 ---

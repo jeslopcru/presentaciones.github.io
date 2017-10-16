@@ -10,4 +10,8 @@ name: "Jerez De La Frontera"
 slug: "jerez-de-la-frontera"
 slug-province: "cadiz"
 permalink: /guarderias-en-jerez-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de JEREZ DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de JEREZ DE LA FRONTERA"
 ---

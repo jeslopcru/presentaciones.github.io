@@ -10,4 +10,8 @@ name: "San Pedro Manrique"
 slug: "san-pedro-manrique"
 slug-province: "soria"
 permalink: /guarderias-en-san-pedro-manrique/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN PEDRO MANRIQUE"
+meta-description: "Listado con las mejores guarderías de SAN PEDRO MANRIQUE"
 ---

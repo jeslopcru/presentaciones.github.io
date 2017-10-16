@@ -10,4 +10,8 @@ name: "Almuñecar"
 slug: "almunecar"
 slug-province: "granada"
 permalink: /guarderias-en-almunecar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMUñECAR"
+meta-description: "Listado con las mejores guarderías de ALMUñECAR"
 ---

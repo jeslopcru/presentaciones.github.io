@@ -10,4 +10,8 @@ name: "Peñarroya-Pueblonuevo"
 slug: "penarroya-pueblonuevo"
 slug-province: "cordoba"
 permalink: /guarderias-en-penarroya-pueblonuevo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PEñARROYA-PUEBLONUEVO"
+meta-description: "Listado con las mejores guarderías de PEñARROYA-PUEBLONUEVO"
 ---

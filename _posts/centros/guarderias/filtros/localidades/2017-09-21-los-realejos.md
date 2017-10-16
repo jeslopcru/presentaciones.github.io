@@ -10,4 +10,8 @@ name: "Los Realejos"
 slug: "los-realejos"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-los-realejos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS REALEJOS"
+meta-description: "Listado con las mejores guarderías de LOS REALEJOS"
 ---

@@ -10,4 +10,8 @@ name: "Almodovar Del Campo"
 slug: "almodovar-del-campo"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-almodovar-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMODOVAR DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de ALMODOVAR DEL CAMPO"
 ---

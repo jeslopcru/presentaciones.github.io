@@ -10,4 +10,8 @@ name: "Navatejera"
 slug: "navatejera"
 slug-province: "leon"
 permalink: /guarderias-en-navatejera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NAVATEJERA"
+meta-description: "Listado con las mejores guarderías de NAVATEJERA"
 ---

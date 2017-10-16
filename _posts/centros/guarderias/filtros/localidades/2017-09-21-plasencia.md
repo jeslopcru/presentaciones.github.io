@@ -10,4 +10,8 @@ name: "Plasencia"
 slug: "plasencia"
 slug-province: "caceres"
 permalink: /guarderias-en-plasencia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PLASENCIA"
+meta-description: "Listado con las mejores guarderías de PLASENCIA"
 ---

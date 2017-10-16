@@ -10,4 +10,8 @@ name: "Lagartera"
 slug: "lagartera"
 slug-province: "toledo"
 permalink: /guarderias-en-lagartera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAGARTERA"
+meta-description: "Listado con las mejores guarderías de LAGARTERA"
 ---

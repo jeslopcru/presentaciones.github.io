@@ -8,4 +8,8 @@ categories:
 name: "Illes Balears"
 slug: "illes-balears"
 permalink: /guarderias-en-illes-balears/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ILLES BALEARS"
+meta-description: "Busca la mejor guardería de ILLES BALEARS para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles."
 ---

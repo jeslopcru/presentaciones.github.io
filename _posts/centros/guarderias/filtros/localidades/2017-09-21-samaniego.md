@@ -10,4 +10,8 @@ name: "Samaniego"
 slug: "samaniego"
 slug-province: "alava"
 permalink: /guarderias-en-samaniego/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAMANIEGO"
+meta-description: "Listado con las mejores guarderías de SAMANIEGO"
 ---

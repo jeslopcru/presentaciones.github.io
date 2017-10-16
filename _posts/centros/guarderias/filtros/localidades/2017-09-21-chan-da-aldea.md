@@ -10,4 +10,8 @@ name: "Chan Da Aldea"
 slug: "chan-da-aldea"
 slug-province: "a-coruna"
 permalink: /guarderias-en-chan-da-aldea/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CHAN DA ALDEA"
+meta-description: "Listado con las mejores guarderías de CHAN DA ALDEA"
 ---

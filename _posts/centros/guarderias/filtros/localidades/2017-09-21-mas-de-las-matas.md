@@ -10,4 +10,8 @@ name: "Mas De Las Matas"
 slug: "mas-de-las-matas"
 slug-province: "teruel"
 permalink: /guarderias-en-mas-de-las-matas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MAS DE LAS MATAS"
+meta-description: "Listado con las mejores guarderías de MAS DE LAS MATAS"
 ---

@@ -10,4 +10,8 @@ name: "Caparroso"
 slug: "caparroso"
 slug-province: "navarra"
 permalink: /guarderias-en-caparroso/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CAPARROSO"
+meta-description: "Listado con las mejores guarderías de CAPARROSO"
 ---

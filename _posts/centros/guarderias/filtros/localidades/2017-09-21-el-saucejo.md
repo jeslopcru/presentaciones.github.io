@@ -10,4 +10,8 @@ name: "El Saucejo"
 slug: "el-saucejo"
 slug-province: "sevilla"
 permalink: /guarderias-en-el-saucejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL SAUCEJO"
+meta-description: "Listado con las mejores guarderías de EL SAUCEJO"
 ---

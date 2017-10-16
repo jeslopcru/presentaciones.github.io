@@ -10,4 +10,8 @@ name: "A Oliveira"
 slug: "a-oliveira"
 slug-province: "pontevedra"
 permalink: /guarderias-en-a-oliveira/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de A OLIVEIRA"
+meta-description: "Listado con las mejores guarderías de A OLIVEIRA"
 ---

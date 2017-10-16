@@ -10,4 +10,8 @@ name: "Minas De Riotinto"
 slug: "minas-de-riotinto"
 slug-province: "huelva"
 permalink: /guarderias-en-minas-de-riotinto/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MINAS DE RIOTINTO"
+meta-description: "Listado con las mejores guarderías de MINAS DE RIOTINTO"
 ---

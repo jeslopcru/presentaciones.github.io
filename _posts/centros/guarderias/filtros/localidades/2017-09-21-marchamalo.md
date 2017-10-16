@@ -10,4 +10,8 @@ name: "Marchamalo"
 slug: "marchamalo"
 slug-province: "guadalajara"
 permalink: /guarderias-en-marchamalo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MARCHAMALO"
+meta-description: "Listado con las mejores guarderías de MARCHAMALO"
 ---

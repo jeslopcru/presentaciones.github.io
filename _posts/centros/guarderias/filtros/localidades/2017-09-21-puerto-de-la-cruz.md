@@ -10,4 +10,8 @@ name: "Puerto De La Cruz"
 slug: "puerto-de-la-cruz"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-puerto-de-la-cruz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUERTO DE LA CRUZ"
+meta-description: "Listado con las mejores guarderías de PUERTO DE LA CRUZ"
 ---

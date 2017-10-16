@@ -10,4 +10,8 @@ name: "Elizmendi"
 slug: "elizmendi"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-elizmendi/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ELIZMENDI"
+meta-description: "Listado con las mejores guarderías de ELIZMENDI"
 ---

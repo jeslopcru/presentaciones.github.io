@@ -10,4 +10,8 @@ name: "San Cristobal De La Laguna"
 slug: "san-cristobal-de-la-laguna"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-san-cristobal-de-la-laguna/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN CRISTOBAL DE LA LAGUNA"
+meta-description: "Listado con las mejores guarderías de SAN CRISTOBAL DE LA LAGUNA"
 ---

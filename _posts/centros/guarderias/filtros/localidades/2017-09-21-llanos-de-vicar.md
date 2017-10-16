@@ -10,4 +10,8 @@ name: "Llanos De Vicar"
 slug: "llanos-de-vicar"
 slug-province: "almeria"
 permalink: /guarderias-en-llanos-de-vicar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LLANOS DE VICAR"
+meta-description: "Listado con las mejores guarderías de LLANOS DE VICAR"
 ---

@@ -10,4 +10,8 @@ name: "Pasai San Pedro"
 slug: "pasai-san-pedro"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-pasai-san-pedro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PASAI SAN PEDRO"
+meta-description: "Listado con las mejores guarderías de PASAI SAN PEDRO"
 ---

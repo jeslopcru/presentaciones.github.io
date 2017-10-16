@@ -10,4 +10,8 @@ name: "Calzada De Calatrava"
 slug: "calzada-de-calatrava"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-calzada-de-calatrava/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALZADA DE CALATRAVA"
+meta-description: "Listado con las mejores guarderías de CALZADA DE CALATRAVA"
 ---

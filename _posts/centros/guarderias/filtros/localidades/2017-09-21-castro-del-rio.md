@@ -10,4 +10,8 @@ name: "Castro Del Rio"
 slug: "castro-del-rio"
 slug-province: "cordoba"
 permalink: /guarderias-en-castro-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTRO DEL RIO"
+meta-description: "Listado con las mejores guarderías de CASTRO DEL RIO"
 ---

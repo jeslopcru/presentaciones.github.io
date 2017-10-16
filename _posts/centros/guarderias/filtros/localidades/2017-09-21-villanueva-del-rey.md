@@ -10,4 +10,8 @@ name: "Villanueva Del Rey"
 slug: "villanueva-del-rey"
 slug-province: "cordoba"
 permalink: /guarderias-en-villanueva-del-rey/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DEL REY"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DEL REY"
 ---

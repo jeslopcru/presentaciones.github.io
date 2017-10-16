@@ -10,4 +10,8 @@ name: "Poyales Del Hoyo"
 slug: "poyales-del-hoyo"
 slug-province: "avila"
 permalink: /guarderias-en-poyales-del-hoyo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POYALES DEL HOYO"
+meta-description: "Listado con las mejores guarderías de POYALES DEL HOYO"
 ---

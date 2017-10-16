@@ -10,4 +10,8 @@ name: "La Campana"
 slug: "la-campana"
 slug-province: "sevilla"
 permalink: /guarderias-en-la-campana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA CAMPANA"
+meta-description: "Listado con las mejores guarderías de LA CAMPANA"
 ---

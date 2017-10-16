@@ -10,4 +10,8 @@ name: "Cádiz Centro"
 slug: "cadiz-centro"
 slug-province: "cadiz"
 permalink: /guarderias-en-cadiz-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CáDIZ CENTRO"
+meta-description: "Listado con las mejores guarderías de CáDIZ CENTRO"
 ---

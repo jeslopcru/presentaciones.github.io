@@ -10,4 +10,8 @@ name: "Valdemoro"
 slug: "valdemoro"
 slug-province: "madrid"
 permalink: /guarderias-en-valdemoro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALDEMORO"
+meta-description: "Listado con las mejores guarderías de VALDEMORO"
 ---

@@ -10,4 +10,8 @@ name: "Casas De Benitez"
 slug: "casas-de-benitez"
 slug-province: "cuenca"
 permalink: /guarderias-en-casas-de-benitez/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASAS DE BENITEZ"
+meta-description: "Listado con las mejores guarderías de CASAS DE BENITEZ"
 ---

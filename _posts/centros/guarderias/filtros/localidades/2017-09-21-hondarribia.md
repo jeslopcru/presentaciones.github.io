@@ -10,4 +10,8 @@ name: "Hondarribia"
 slug: "hondarribia"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-hondarribia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HONDARRIBIA"
+meta-description: "Listado con las mejores guarderías de HONDARRIBIA"
 ---

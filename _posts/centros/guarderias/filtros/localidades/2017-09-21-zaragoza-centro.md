@@ -10,4 +10,8 @@ name: "Zaragoza Centro"
 slug: "zaragoza-centro"
 slug-province: "zaragoza"
 permalink: /guarderias-en-zaragoza-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ZARAGOZA CENTRO"
+meta-description: "Listado con las mejores guarderías de ZARAGOZA CENTRO"
 ---

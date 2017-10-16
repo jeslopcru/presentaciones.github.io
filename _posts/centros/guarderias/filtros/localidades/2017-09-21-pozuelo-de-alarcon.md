@@ -10,4 +10,8 @@ name: "Pozuelo De Alarcon"
 slug: "pozuelo-de-alarcon"
 slug-province: "madrid"
 permalink: /guarderias-en-pozuelo-de-alarcon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POZUELO DE ALARCON"
+meta-description: "Listado con las mejores guarderías de POZUELO DE ALARCON"
 ---

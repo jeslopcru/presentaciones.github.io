@@ -10,4 +10,8 @@ name: "Pradanos De Ojeda"
 slug: "pradanos-de-ojeda"
 slug-province: "palencia"
 permalink: /guarderias-en-pradanos-de-ojeda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PRADANOS DE OJEDA"
+meta-description: "Listado con las mejores guarderías de PRADANOS DE OJEDA"
 ---

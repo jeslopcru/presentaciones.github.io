@@ -10,4 +10,8 @@ name: "Guadacorte"
 slug: "guadacorte"
 slug-province: "cadiz"
 permalink: /guarderias-en-guadacorte/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUADACORTE"
+meta-description: "Listado con las mejores guarderías de GUADACORTE"
 ---

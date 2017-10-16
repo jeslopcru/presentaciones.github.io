@@ -10,4 +10,8 @@ name: "Algodonales"
 slug: "algodonales"
 slug-province: "cadiz"
 permalink: /guarderias-en-algodonales/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALGODONALES"
+meta-description: "Listado con las mejores guarderías de ALGODONALES"
 ---

@@ -10,4 +10,8 @@ name: "El Viso De San Juan"
 slug: "el-viso-de-san-juan"
 slug-province: "toledo"
 permalink: /guarderias-en-el-viso-de-san-juan/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL VISO DE SAN JUAN"
+meta-description: "Listado con las mejores guarderías de EL VISO DE SAN JUAN"
 ---

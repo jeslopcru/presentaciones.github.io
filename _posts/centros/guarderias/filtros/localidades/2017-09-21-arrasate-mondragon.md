@@ -10,4 +10,8 @@ name: "Arrasate/Mondragon"
 slug: "arrasate-mondragon"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-arrasate-mondragon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARRASATE/MONDRAGON"
+meta-description: "Listado con las mejores guarderías de ARRASATE/MONDRAGON"
 ---

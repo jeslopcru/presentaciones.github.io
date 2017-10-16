@@ -10,4 +10,8 @@ name: "La Antilla"
 slug: "la-antilla"
 slug-province: "huelva"
 permalink: /guarderias-en-la-antilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA ANTILLA"
+meta-description: "Listado con las mejores guarderías de LA ANTILLA"
 ---

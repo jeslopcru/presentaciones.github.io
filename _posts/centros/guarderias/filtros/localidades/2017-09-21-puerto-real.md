@@ -10,4 +10,8 @@ name: "Puerto Real"
 slug: "puerto-real"
 slug-province: "cadiz"
 permalink: /guarderias-en-puerto-real/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUERTO REAL"
+meta-description: "Listado con las mejores guarderías de PUERTO REAL"
 ---

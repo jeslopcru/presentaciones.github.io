@@ -10,4 +10,8 @@ name: "Carranque"
 slug: "carranque"
 slug-province: "toledo"
 permalink: /guarderias-en-carranque/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARRANQUE"
+meta-description: "Listado con las mejores guarderías de CARRANQUE"
 ---

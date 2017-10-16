@@ -10,4 +10,8 @@ name: "Santervas De La Vega"
 slug: "santervas-de-la-vega"
 slug-province: "palencia"
 permalink: /guarderias-en-santervas-de-la-vega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTERVAS DE LA VEGA"
+meta-description: "Listado con las mejores guarderías de SANTERVAS DE LA VEGA"
 ---

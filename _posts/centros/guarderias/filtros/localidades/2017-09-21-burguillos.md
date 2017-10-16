@@ -10,4 +10,8 @@ name: "Burguillos"
 slug: "burguillos"
 slug-province: "sevilla"
 permalink: /guarderias-en-burguillos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BURGUILLOS"
+meta-description: "Listado con las mejores guarderías de BURGUILLOS"
 ---

@@ -10,4 +10,8 @@ name: "La Guardia"
 slug: "la-guardia"
 slug-province: "toledo"
 permalink: /guarderias-en-la-guardia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA GUARDIA"
+meta-description: "Listado con las mejores guarderías de LA GUARDIA"
 ---

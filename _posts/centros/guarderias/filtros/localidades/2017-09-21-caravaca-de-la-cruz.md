@@ -10,4 +10,8 @@ name: "Caravaca De La Cruz"
 slug: "caravaca-de-la-cruz"
 slug-province: "murcia"
 permalink: /guarderias-en-caravaca-de-la-cruz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARAVACA DE LA CRUZ"
+meta-description: "Listado con las mejores guarderías de CARAVACA DE LA CRUZ"
 ---

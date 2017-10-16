@@ -10,4 +10,8 @@ name: "San Martin De Valdeiglesias"
 slug: "san-martin-de-valdeiglesias"
 slug-province: "madrid"
 permalink: /guarderias-en-san-martin-de-valdeiglesias/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN MARTIN DE VALDEIGLESIAS"
+meta-description: "Listado con las mejores guarderías de SAN MARTIN DE VALDEIGLESIAS"
 ---

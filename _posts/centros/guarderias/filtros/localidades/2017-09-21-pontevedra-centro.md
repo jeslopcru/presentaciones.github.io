@@ -10,4 +10,8 @@ name: "Pontevedra Centro"
 slug: "pontevedra-centro"
 slug-province: "pontevedra"
 permalink: /guarderias-en-pontevedra-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PONTEVEDRA CENTRO"
+meta-description: "Listado con las mejores guarderías de PONTEVEDRA CENTRO"
 ---

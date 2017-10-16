@@ -10,4 +10,8 @@ name: "Laguardia"
 slug: "laguardia"
 slug-province: "alava"
 permalink: /guarderias-en-laguardia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAGUARDIA"
+meta-description: "Listado con las mejores guarderías de LAGUARDIA"
 ---

@@ -10,4 +10,8 @@ name: "Alcaracejos"
 slug: "alcaracejos"
 slug-province: "cordoba"
 permalink: /guarderias-en-alcaracejos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCARACEJOS"
+meta-description: "Listado con las mejores guarderías de ALCARACEJOS"
 ---

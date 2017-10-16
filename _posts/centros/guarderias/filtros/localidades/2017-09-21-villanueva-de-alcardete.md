@@ -10,4 +10,8 @@ name: "Villanueva De Alcardete"
 slug: "villanueva-de-alcardete"
 slug-province: "toledo"
 permalink: /guarderias-en-villanueva-de-alcardete/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE ALCARDETE"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE ALCARDETE"
 ---

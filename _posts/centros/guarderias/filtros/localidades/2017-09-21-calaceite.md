@@ -10,4 +10,8 @@ name: "Calaceite"
 slug: "calaceite"
 slug-province: "teruel"
 permalink: /guarderias-en-calaceite/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALACEITE"
+meta-description: "Listado con las mejores guarderías de CALACEITE"
 ---

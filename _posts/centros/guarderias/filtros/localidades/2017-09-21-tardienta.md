@@ -10,4 +10,8 @@ name: "Tardienta"
 slug: "tardienta"
 slug-province: "huesca"
 permalink: /guarderias-en-tardienta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TARDIENTA"
+meta-description: "Listado con las mejores guarderías de TARDIENTA"
 ---

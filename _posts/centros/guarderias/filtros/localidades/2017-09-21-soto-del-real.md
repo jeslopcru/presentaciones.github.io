@@ -10,4 +10,8 @@ name: "Soto Del Real"
 slug: "soto-del-real"
 slug-province: "madrid"
 permalink: /guarderias-en-soto-del-real/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SOTO DEL REAL"
+meta-description: "Listado con las mejores guarderías de SOTO DEL REAL"
 ---

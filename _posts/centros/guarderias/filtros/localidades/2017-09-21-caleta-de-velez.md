@@ -10,4 +10,8 @@ name: "Caleta De Velez"
 slug: "caleta-de-velez"
 slug-province: "malaga"
 permalink: /guarderias-en-caleta-de-velez/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CALETA DE VELEZ"
+meta-description: "Listado con las mejores guarderías de CALETA DE VELEZ"
 ---

@@ -10,4 +10,8 @@ name: "Villanueva De Gallego"
 slug: "villanueva-de-gallego"
 slug-province: "zaragoza"
 permalink: /guarderias-en-villanueva-de-gallego/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE GALLEGO"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE GALLEGO"
 ---

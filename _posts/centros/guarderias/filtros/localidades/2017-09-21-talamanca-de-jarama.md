@@ -10,4 +10,8 @@ name: "Talamanca De Jarama"
 slug: "talamanca-de-jarama"
 slug-province: "madrid"
 permalink: /guarderias-en-talamanca-de-jarama/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TALAMANCA DE JARAMA"
+meta-description: "Listado con las mejores guarderías de TALAMANCA DE JARAMA"
 ---

@@ -10,4 +10,8 @@ name: "Algarinejo"
 slug: "algarinejo"
 slug-province: "granada"
 permalink: /guarderias-en-algarinejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALGARINEJO"
+meta-description: "Listado con las mejores guarderías de ALGARINEJO"
 ---

@@ -10,4 +10,8 @@ name: "Las Chafiras"
 slug: "las-chafiras"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-las-chafiras/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS CHAFIRAS"
+meta-description: "Listado con las mejores guarderías de LAS CHAFIRAS"
 ---

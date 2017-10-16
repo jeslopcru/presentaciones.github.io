@@ -10,4 +10,8 @@ name: "Lora Del Rio"
 slug: "lora-del-rio"
 slug-province: "sevilla"
 permalink: /guarderias-en-lora-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LORA DEL RIO"
+meta-description: "Listado con las mejores guarderías de LORA DEL RIO"
 ---

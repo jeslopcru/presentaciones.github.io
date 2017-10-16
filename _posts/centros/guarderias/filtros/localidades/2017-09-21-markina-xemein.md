@@ -10,4 +10,8 @@ name: "Markina-Xemein"
 slug: "markina-xemein"
 slug-province: "bizkaia"
 permalink: /guarderias-en-markina-xemein/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MARKINA-XEMEIN"
+meta-description: "Listado con las mejores guarderías de MARKINA-XEMEIN"
 ---

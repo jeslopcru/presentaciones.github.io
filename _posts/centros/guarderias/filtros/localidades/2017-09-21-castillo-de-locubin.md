@@ -10,4 +10,8 @@ name: "Castillo De Locubin"
 slug: "castillo-de-locubin"
 slug-province: "jaen"
 permalink: /guarderias-en-castillo-de-locubin/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTILLO DE LOCUBIN"
+meta-description: "Listado con las mejores guarderías de CASTILLO DE LOCUBIN"
 ---

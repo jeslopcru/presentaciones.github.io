@@ -10,4 +10,8 @@ name: "Zalamea La Real"
 slug: "zalamea-la-real"
 slug-province: "huelva"
 permalink: /guarderias-en-zalamea-la-real/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ZALAMEA LA REAL"
+meta-description: "Listado con las mejores guarderías de ZALAMEA LA REAL"
 ---

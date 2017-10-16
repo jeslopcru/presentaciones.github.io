@@ -10,4 +10,8 @@ name: "Sierra De Yeguas"
 slug: "sierra-de-yeguas"
 slug-province: "malaga"
 permalink: /guarderias-en-sierra-de-yeguas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SIERRA DE YEGUAS"
+meta-description: "Listado con las mejores guarderías de SIERRA DE YEGUAS"
 ---

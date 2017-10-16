@@ -10,4 +10,8 @@ name: "Sevilla Centro"
 slug: "sevilla-centro"
 slug-province: "sevilla"
 permalink: /guarderias-en-sevilla-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SEVILLA CENTRO"
+meta-description: "Listado con las mejores guarderías de SEVILLA CENTRO"
 ---

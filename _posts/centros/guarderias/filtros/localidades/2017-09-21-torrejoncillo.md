@@ -10,4 +10,8 @@ name: "Torrejoncillo"
 slug: "torrejoncillo"
 slug-province: "caceres"
 permalink: /guarderias-en-torrejoncillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORREJONCILLO"
+meta-description: "Listado con las mejores guarderías de TORREJONCILLO"
 ---

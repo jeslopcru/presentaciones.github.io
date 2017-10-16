@@ -10,4 +10,8 @@ name: "Son Servera"
 slug: "son-servera"
 slug-province: "illes-balears"
 permalink: /guarderias-en-son-servera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SON SERVERA"
+meta-description: "Listado con las mejores guarderías de SON SERVERA"
 ---

@@ -10,4 +10,8 @@ name: "Arroyo De La Luz"
 slug: "arroyo-de-la-luz"
 slug-province: "caceres"
 permalink: /guarderias-en-arroyo-de-la-luz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARROYO DE LA LUZ"
+meta-description: "Listado con las mejores guarderías de ARROYO DE LA LUZ"
 ---

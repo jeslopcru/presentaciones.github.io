@@ -10,4 +10,8 @@ name: "Carcaixent"
 slug: "carcaixent"
 slug-province: "valencia"
 permalink: /guarderias-en-carcaixent/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARCAIXENT"
+meta-description: "Listado con las mejores guarderías de CARCAIXENT"
 ---

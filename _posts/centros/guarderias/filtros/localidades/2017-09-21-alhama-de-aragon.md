@@ -10,4 +10,8 @@ name: "Alhama De Aragon"
 slug: "alhama-de-aragon"
 slug-province: "zaragoza"
 permalink: /guarderias-en-alhama-de-aragon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALHAMA DE ARAGON"
+meta-description: "Listado con las mejores guarderías de ALHAMA DE ARAGON"
 ---

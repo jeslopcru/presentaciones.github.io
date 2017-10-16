@@ -10,4 +10,8 @@ name: "Santa Cruz De Campezo/Santikurutze Kanpezu"
 slug: "santa-cruz-de-campezo-santikurutze-kanpezu"
 slug-province: "alava"
 permalink: /guarderias-en-santa-cruz-de-campezo-santikurutze-kanpezu/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA CRUZ DE CAMPEZO/SANTIKURUTZE KANPEZU"
+meta-description: "Listado con las mejores guarderías de SANTA CRUZ DE CAMPEZO/SANTIKURUTZE KANPEZU"
 ---

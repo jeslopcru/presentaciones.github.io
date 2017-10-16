@@ -10,4 +10,8 @@ name: "Bronchales"
 slug: "bronchales"
 slug-province: "teruel"
 permalink: /guarderias-en-bronchales/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BRONCHALES"
+meta-description: "Listado con las mejores guarderías de BRONCHALES"
 ---

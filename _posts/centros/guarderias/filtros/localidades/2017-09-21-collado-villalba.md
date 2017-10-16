@@ -10,4 +10,8 @@ name: "Collado Villalba"
 slug: "collado-villalba"
 slug-province: "madrid"
 permalink: /guarderias-en-collado-villalba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de COLLADO VILLALBA"
+meta-description: "Listado con las mejores guarderías de COLLADO VILLALBA"
 ---

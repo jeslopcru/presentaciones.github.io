@@ -10,4 +10,8 @@ name: "Carcabuey"
 slug: "carcabuey"
 slug-province: "cordoba"
 permalink: /guarderias-en-carcabuey/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARCABUEY"
+meta-description: "Listado con las mejores guarderías de CARCABUEY"
 ---

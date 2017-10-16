@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://presentaciones.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+robot: noindex, follow
 
 sass:
   style: compressed
@@ -32,11 +33,12 @@ sass:
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
   - import.php
   - centros.tsv
+  - centros2.tsv
   - delete
   - type.txt

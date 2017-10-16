@@ -10,4 +10,8 @@ name: "Montemayor"
 slug: "montemayor"
 slug-province: "cordoba"
 permalink: /guarderias-en-montemayor/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTEMAYOR"
+meta-description: "Listado con las mejores guarderías de MONTEMAYOR"
 ---

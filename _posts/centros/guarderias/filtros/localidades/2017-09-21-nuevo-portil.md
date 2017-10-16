@@ -10,4 +10,8 @@ name: "Nuevo Portil"
 slug: "nuevo-portil"
 slug-province: "huelva"
 permalink: /guarderias-en-nuevo-portil/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NUEVO PORTIL"
+meta-description: "Listado con las mejores guarderías de NUEVO PORTIL"
 ---

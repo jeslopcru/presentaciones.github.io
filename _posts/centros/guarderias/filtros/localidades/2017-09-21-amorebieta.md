@@ -10,4 +10,8 @@ name: "Amorebieta"
 slug: "amorebieta"
 slug-province: "bizkaia"
 permalink: /guarderias-en-amorebieta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AMOREBIETA"
+meta-description: "Listado con las mejores guarderías de AMOREBIETA"
 ---

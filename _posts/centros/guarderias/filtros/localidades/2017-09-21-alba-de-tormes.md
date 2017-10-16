@@ -10,4 +10,8 @@ name: "Alba De Tormes"
 slug: "alba-de-tormes"
 slug-province: "salamanca"
 permalink: /guarderias-en-alba-de-tormes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALBA DE TORMES"
+meta-description: "Listado con las mejores guarderías de ALBA DE TORMES"
 ---

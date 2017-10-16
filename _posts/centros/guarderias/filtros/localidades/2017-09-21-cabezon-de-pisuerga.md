@@ -10,4 +10,8 @@ name: "Cabezon De Pisuerga"
 slug: "cabezon-de-pisuerga"
 slug-province: "valladolid"
 permalink: /guarderias-en-cabezon-de-pisuerga/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CABEZON DE PISUERGA"
+meta-description: "Listado con las mejores guarderías de CABEZON DE PISUERGA"
 ---

@@ -10,4 +10,8 @@ name: "Casariche"
 slug: "casariche"
 slug-province: "sevilla"
 permalink: /guarderias-en-casariche/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASARICHE"
+meta-description: "Listado con las mejores guarderías de CASARICHE"
 ---

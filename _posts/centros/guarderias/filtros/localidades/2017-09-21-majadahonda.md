@@ -10,4 +10,8 @@ name: "Majadahonda"
 slug: "majadahonda"
 slug-province: "madrid"
 permalink: /guarderias-en-majadahonda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MAJADAHONDA"
+meta-description: "Listado con las mejores guarderías de MAJADAHONDA"
 ---

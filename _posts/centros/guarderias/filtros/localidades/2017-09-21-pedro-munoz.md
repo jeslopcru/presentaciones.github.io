@@ -10,4 +10,8 @@ name: "Pedro Muñoz"
 slug: "pedro-munoz"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-pedro-munoz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PEDRO MUñOZ"
+meta-description: "Listado con las mejores guarderías de PEDRO MUñOZ"
 ---

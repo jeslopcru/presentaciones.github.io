@@ -10,4 +10,8 @@ name: "Villarrubia De Santiago"
 slug: "villarrubia-de-santiago"
 slug-province: "toledo"
 permalink: /guarderias-en-villarrubia-de-santiago/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLARRUBIA DE SANTIAGO"
+meta-description: "Listado con las mejores guarderías de VILLARRUBIA DE SANTIAGO"
 ---

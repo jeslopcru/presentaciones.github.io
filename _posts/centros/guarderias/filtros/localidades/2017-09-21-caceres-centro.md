@@ -10,4 +10,8 @@ name: "Cáceres Centro"
 slug: "caceres-centro"
 slug-province: "caceres"
 permalink: /guarderias-en-caceres-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CáCERES CENTRO"
+meta-description: "Listado con las mejores guarderías de CáCERES CENTRO"
 ---

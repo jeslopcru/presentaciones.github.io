@@ -10,4 +10,8 @@ name: "Pedro Abad"
 slug: "pedro-abad"
 slug-province: "cordoba"
 permalink: /guarderias-en-pedro-abad/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PEDRO ABAD"
+meta-description: "Listado con las mejores guarderías de PEDRO ABAD"
 ---

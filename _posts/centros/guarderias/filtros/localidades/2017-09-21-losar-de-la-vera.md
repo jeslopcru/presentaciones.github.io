@@ -10,4 +10,8 @@ name: "Losar De La Vera"
 slug: "losar-de-la-vera"
 slug-province: "caceres"
 permalink: /guarderias-en-losar-de-la-vera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOSAR DE LA VERA"
+meta-description: "Listado con las mejores guarderías de LOSAR DE LA VERA"
 ---

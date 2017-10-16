@@ -10,4 +10,8 @@ name: "Santa Cruz Da Rabeda"
 slug: "santa-cruz-da-rabeda"
 slug-province: "ourense"
 permalink: /guarderias-en-santa-cruz-da-rabeda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA CRUZ DA RABEDA"
+meta-description: "Listado con las mejores guarderías de SANTA CRUZ DA RABEDA"
 ---

@@ -10,4 +10,8 @@ name: "Alcolea De Calatrava"
 slug: "alcolea-de-calatrava"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-alcolea-de-calatrava/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCOLEA DE CALATRAVA"
+meta-description: "Listado con las mejores guarderías de ALCOLEA DE CALATRAVA"
 ---

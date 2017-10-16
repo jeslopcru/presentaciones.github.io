@@ -10,4 +10,8 @@ name: "El Tablero"
 slug: "el-tablero"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-el-tablero/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL TABLERO"
+meta-description: "Listado con las mejores guarderías de EL TABLERO"
 ---

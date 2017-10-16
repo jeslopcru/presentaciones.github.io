@@ -10,4 +10,8 @@ name: "Carbonero El Mayor"
 slug: "carbonero-el-mayor"
 slug-province: "segovia"
 permalink: /guarderias-en-carbonero-el-mayor/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARBONERO EL MAYOR"
+meta-description: "Listado con las mejores guarderías de CARBONERO EL MAYOR"
 ---

@@ -10,4 +10,8 @@ name: "Es Mercadal"
 slug: "es-mercadal"
 slug-province: "illes-balears"
 permalink: /guarderias-en-es-mercadal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ES MERCADAL"
+meta-description: "Listado con las mejores guarderías de ES MERCADAL"
 ---

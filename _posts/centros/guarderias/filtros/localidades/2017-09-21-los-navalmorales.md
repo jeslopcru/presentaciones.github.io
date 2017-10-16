@@ -10,4 +10,8 @@ name: "Los Navalmorales"
 slug: "los-navalmorales"
 slug-province: "toledo"
 permalink: /guarderias-en-los-navalmorales/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS NAVALMORALES"
+meta-description: "Listado con las mejores guarderías de LOS NAVALMORALES"
 ---

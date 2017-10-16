@@ -10,4 +10,8 @@ name: "Zizur Mayor/Zizur Nagusia"
 slug: "zizur-mayor-zizur-nagusia"
 slug-province: "navarra"
 permalink: /guarderias-en-zizur-mayor-zizur-nagusia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ZIZUR MAYOR/ZIZUR NAGUSIA"
+meta-description: "Listado con las mejores guarderías de ZIZUR MAYOR/ZIZUR NAGUSIA"
 ---

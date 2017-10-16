@@ -10,4 +10,8 @@ name: "Lugo Centro"
 slug: "lugo-centro"
 slug-province: "lugo"
 permalink: /guarderias-en-lugo-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LUGO CENTRO"
+meta-description: "Listado con las mejores guarderías de LUGO CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Paterna De Rivera"
 slug: "paterna-de-rivera"
 slug-province: "cadiz"
 permalink: /guarderias-en-paterna-de-rivera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PATERNA DE RIVERA"
+meta-description: "Listado con las mejores guarderías de PATERNA DE RIVERA"
 ---

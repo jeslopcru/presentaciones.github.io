@@ -10,4 +10,8 @@ name: "Sa Cabaneta"
 slug: "sa-cabaneta"
 slug-province: "illes-balears"
 permalink: /guarderias-en-sa-cabaneta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SA CABANETA"
+meta-description: "Listado con las mejores guarderías de SA CABANETA"
 ---

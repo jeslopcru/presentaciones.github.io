@@ -10,4 +10,8 @@ name: "Casasimarro"
 slug: "casasimarro"
 slug-province: "cuenca"
 permalink: /guarderias-en-casasimarro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASASIMARRO"
+meta-description: "Listado con las mejores guarderías de CASASIMARRO"
 ---

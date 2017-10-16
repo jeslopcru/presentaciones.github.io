@@ -10,4 +10,8 @@ name: "Alcoletge"
 slug: "alcoletge"
 slug-province: "lleida"
 permalink: /guarderias-en-alcoletge/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCOLETGE"
+meta-description: "Listado con las mejores guarderías de ALCOLETGE"
 ---

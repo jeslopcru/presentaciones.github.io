@@ -10,4 +10,8 @@ name: "Algarrobo"
 slug: "algarrobo"
 slug-province: "malaga"
 permalink: /guarderias-en-algarrobo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALGARROBO"
+meta-description: "Listado con las mejores guarderías de ALGARROBO"
 ---

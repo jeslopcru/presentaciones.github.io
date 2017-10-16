@@ -10,4 +10,8 @@ name: "Montemayor De Pililla"
 slug: "montemayor-de-pililla"
 slug-province: "valladolid"
 permalink: /guarderias-en-montemayor-de-pililla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTEMAYOR DE PILILLA"
+meta-description: "Listado con las mejores guarderías de MONTEMAYOR DE PILILLA"
 ---

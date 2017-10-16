@@ -10,4 +10,8 @@ name: "Puertito De Güimar"
 slug: "puertito-de-güimar"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-puertito-de-güimar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUERTITO DE GüIMAR"
+meta-description: "Listado con las mejores guarderías de PUERTITO DE GüIMAR"
 ---

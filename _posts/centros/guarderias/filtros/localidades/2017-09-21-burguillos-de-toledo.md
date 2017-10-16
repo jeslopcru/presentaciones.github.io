@@ -10,4 +10,8 @@ name: "Burguillos De Toledo"
 slug: "burguillos-de-toledo"
 slug-province: "toledo"
 permalink: /guarderias-en-burguillos-de-toledo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BURGUILLOS DE TOLEDO"
+meta-description: "Listado con las mejores guarderías de BURGUILLOS DE TOLEDO"
 ---

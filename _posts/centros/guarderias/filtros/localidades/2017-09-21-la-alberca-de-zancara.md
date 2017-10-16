@@ -10,4 +10,8 @@ name: "La Alberca De Zancara"
 slug: "la-alberca-de-zancara"
 slug-province: "cuenca"
 permalink: /guarderias-en-la-alberca-de-zancara/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA ALBERCA DE ZANCARA"
+meta-description: "Listado con las mejores guarderías de LA ALBERCA DE ZANCARA"
 ---

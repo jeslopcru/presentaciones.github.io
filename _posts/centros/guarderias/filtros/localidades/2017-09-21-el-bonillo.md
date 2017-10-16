@@ -10,4 +10,8 @@ name: "El Bonillo"
 slug: "el-bonillo"
 slug-province: "albacete"
 permalink: /guarderias-en-el-bonillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL BONILLO"
+meta-description: "Listado con las mejores guarderías de EL BONILLO"
 ---

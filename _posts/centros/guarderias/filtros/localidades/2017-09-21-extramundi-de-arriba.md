@@ -10,4 +10,8 @@ name: "Extramundi De Arriba"
 slug: "extramundi-de-arriba"
 slug-province: "a-coruna"
 permalink: /guarderias-en-extramundi-de-arriba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EXTRAMUNDI DE ARRIBA"
+meta-description: "Listado con las mejores guarderías de EXTRAMUNDI DE ARRIBA"
 ---

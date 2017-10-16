@@ -10,4 +10,8 @@ name: "Algamitas"
 slug: "algamitas"
 slug-province: "sevilla"
 permalink: /guarderias-en-algamitas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALGAMITAS"
+meta-description: "Listado con las mejores guarderías de ALGAMITAS"
 ---

@@ -10,4 +10,8 @@ name: "Gran Tarajal"
 slug: "gran-tarajal"
 slug-province: "las-palmas"
 permalink: /guarderias-en-gran-tarajal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GRAN TARAJAL"
+meta-description: "Listado con las mejores guarderías de GRAN TARAJAL"
 ---

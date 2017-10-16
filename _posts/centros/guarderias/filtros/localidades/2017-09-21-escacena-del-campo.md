@@ -10,4 +10,8 @@ name: "Escacena Del Campo"
 slug: "escacena-del-campo"
 slug-province: "huelva"
 permalink: /guarderias-en-escacena-del-campo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ESCACENA DEL CAMPO"
+meta-description: "Listado con las mejores guarderías de ESCACENA DEL CAMPO"
 ---

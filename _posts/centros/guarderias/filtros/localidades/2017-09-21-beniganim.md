@@ -10,4 +10,8 @@ name: "Beniganim"
 slug: "beniganim"
 slug-province: "valencia"
 permalink: /guarderias-en-beniganim/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENIGANIM"
+meta-description: "Listado con las mejores guarderías de BENIGANIM"
 ---

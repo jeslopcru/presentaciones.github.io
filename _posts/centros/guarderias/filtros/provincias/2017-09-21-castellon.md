@@ -8,4 +8,8 @@ categories:
 name: "Castellón"
 slug: "castellon"
 permalink: /guarderias-en-castellon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTELLóN"
+meta-description: "Busca la mejor guardería de CASTELLóN para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles."
 ---

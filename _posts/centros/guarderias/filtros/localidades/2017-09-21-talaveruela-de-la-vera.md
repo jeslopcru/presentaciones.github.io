@@ -10,4 +10,8 @@ name: "Talaveruela De La Vera"
 slug: "talaveruela-de-la-vera"
 slug-province: "caceres"
 permalink: /guarderias-en-talaveruela-de-la-vera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TALAVERUELA DE LA VERA"
+meta-description: "Listado con las mejores guarderías de TALAVERUELA DE LA VERA"
 ---

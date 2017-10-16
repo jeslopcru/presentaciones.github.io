@@ -10,4 +10,8 @@ name: "Murchante"
 slug: "murchante"
 slug-province: "navarra"
 permalink: /guarderias-en-murchante/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MURCHANTE"
+meta-description: "Listado con las mejores guarderías de MURCHANTE"
 ---

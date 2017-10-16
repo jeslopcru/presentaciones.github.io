@@ -10,4 +10,8 @@ name: "Santurtzi"
 slug: "santurtzi"
 slug-province: "bizkaia"
 permalink: /guarderias-en-santurtzi/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTURTZI"
+meta-description: "Listado con las mejores guarderías de SANTURTZI"
 ---

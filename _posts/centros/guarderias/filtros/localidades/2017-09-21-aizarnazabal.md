@@ -10,4 +10,8 @@ name: "Aizarnazabal"
 slug: "aizarnazabal"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-aizarnazabal/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AIZARNAZABAL"
+meta-description: "Listado con las mejores guarderías de AIZARNAZABAL"
 ---

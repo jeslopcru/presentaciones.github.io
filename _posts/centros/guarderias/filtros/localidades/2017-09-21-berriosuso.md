@@ -10,4 +10,8 @@ name: "Berriosuso"
 slug: "berriosuso"
 slug-province: "navarra"
 permalink: /guarderias-en-berriosuso/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BERRIOSUSO"
+meta-description: "Listado con las mejores guarderías de BERRIOSUSO"
 ---

@@ -10,4 +10,8 @@ name: "Peralta De Alcofea"
 slug: "peralta-de-alcofea"
 slug-province: "huesca"
 permalink: /guarderias-en-peralta-de-alcofea/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PERALTA DE ALCOFEA"
+meta-description: "Listado con las mejores guarderías de PERALTA DE ALCOFEA"
 ---

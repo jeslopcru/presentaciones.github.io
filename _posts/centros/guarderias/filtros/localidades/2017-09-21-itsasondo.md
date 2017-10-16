@@ -10,4 +10,8 @@ name: "Itsasondo"
 slug: "itsasondo"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-itsasondo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ITSASONDO"
+meta-description: "Listado con las mejores guarderías de ITSASONDO"
 ---

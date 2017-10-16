@@ -8,4 +8,8 @@ categories:
 name: "Guadalajara"
 slug: "guadalajara"
 permalink: /guarderias-en-guadalajara/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GUADALAJARA"
+meta-description: "Busca la mejor guardería de GUADALAJARA para tu peque. Tenemos una base de datos con más de 22.000 centros infantiles."
 ---

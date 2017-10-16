@@ -10,4 +10,8 @@ name: "Matagorda"
 slug: "matagorda"
 slug-province: "almeria"
 permalink: /guarderias-en-matagorda/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MATAGORDA"
+meta-description: "Listado con las mejores guarderías de MATAGORDA"
 ---

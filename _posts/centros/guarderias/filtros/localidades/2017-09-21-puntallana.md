@@ -10,4 +10,8 @@ name: "Puntallana"
 slug: "puntallana"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-puntallana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUNTALLANA"
+meta-description: "Listado con las mejores guarderías de PUNTALLANA"
 ---

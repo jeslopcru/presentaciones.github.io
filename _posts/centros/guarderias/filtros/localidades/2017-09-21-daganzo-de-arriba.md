@@ -10,4 +10,8 @@ name: "Daganzo De Arriba"
 slug: "daganzo-de-arriba"
 slug-province: "madrid"
 permalink: /guarderias-en-daganzo-de-arriba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DAGANZO DE ARRIBA"
+meta-description: "Listado con las mejores guarderías de DAGANZO DE ARRIBA"
 ---

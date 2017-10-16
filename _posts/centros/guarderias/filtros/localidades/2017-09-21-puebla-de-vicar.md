@@ -10,4 +10,8 @@ name: "Puebla De Vicar"
 slug: "puebla-de-vicar"
 slug-province: "almeria"
 permalink: /guarderias-en-puebla-de-vicar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUEBLA DE VICAR"
+meta-description: "Listado con las mejores guarderías de PUEBLA DE VICAR"
 ---

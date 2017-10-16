@@ -10,4 +10,8 @@ name: "Pampanico"
 slug: "pampanico"
 slug-province: "almeria"
 permalink: /guarderias-en-pampanico/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PAMPANICO"
+meta-description: "Listado con las mejores guarderías de PAMPANICO"
 ---

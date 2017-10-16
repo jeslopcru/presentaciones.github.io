@@ -10,4 +10,8 @@ name: "Aldeatejada"
 slug: "aldeatejada"
 slug-province: "salamanca"
 permalink: /guarderias-en-aldeatejada/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALDEATEJADA"
+meta-description: "Listado con las mejores guarderías de ALDEATEJADA"
 ---

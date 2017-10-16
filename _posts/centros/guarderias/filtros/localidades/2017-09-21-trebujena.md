@@ -10,4 +10,8 @@ name: "Trebujena"
 slug: "trebujena"
 slug-province: "cadiz"
 permalink: /guarderias-en-trebujena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TREBUJENA"
+meta-description: "Listado con las mejores guarderías de TREBUJENA"
 ---

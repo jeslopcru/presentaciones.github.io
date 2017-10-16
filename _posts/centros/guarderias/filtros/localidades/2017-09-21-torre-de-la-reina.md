@@ -10,4 +10,8 @@ name: "Torre De La Reina"
 slug: "torre-de-la-reina"
 slug-province: "sevilla"
 permalink: /guarderias-en-torre-de-la-reina/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORRE DE LA REINA"
+meta-description: "Listado con las mejores guarderías de TORRE DE LA REINA"
 ---

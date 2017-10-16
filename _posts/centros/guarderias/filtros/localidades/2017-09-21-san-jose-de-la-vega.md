@@ -10,4 +10,8 @@ name: "San Jose De La Vega"
 slug: "san-jose-de-la-vega"
 slug-province: "murcia"
 permalink: /guarderias-en-san-jose-de-la-vega/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN JOSE DE LA VEGA"
+meta-description: "Listado con las mejores guarderías de SAN JOSE DE LA VEGA"
 ---

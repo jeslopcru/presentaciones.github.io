@@ -7,7 +7,6 @@ layout: default
         {% assign listPost = (site.posts | where: "categories" , "guarderia" | where: "categories" , page.slug | sort: 'name') %}
         {% include list-card.html list=listPost %}
     </div>
-
     <div class="second-content">
         <h2>Listado de localidadess de {{ page.name }}</h2>
         {% assign listPost = (site.posts | where: "categories" , "localidad" | where: "categories" , page.slug | sort: 'name') %}

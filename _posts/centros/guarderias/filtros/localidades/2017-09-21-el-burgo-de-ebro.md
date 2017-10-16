@@ -10,4 +10,8 @@ name: "El Burgo De Ebro"
 slug: "el-burgo-de-ebro"
 slug-province: "zaragoza"
 permalink: /guarderias-en-el-burgo-de-ebro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL BURGO DE EBRO"
+meta-description: "Listado con las mejores guarderías de EL BURGO DE EBRO"
 ---

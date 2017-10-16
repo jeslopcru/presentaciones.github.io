@@ -10,4 +10,8 @@ name: "La Carlota"
 slug: "la-carlota"
 slug-province: "cordoba"
 permalink: /guarderias-en-la-carlota/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA CARLOTA"
+meta-description: "Listado con las mejores guarderías de LA CARLOTA"
 ---

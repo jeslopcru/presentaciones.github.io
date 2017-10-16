@@ -10,4 +10,8 @@ name: "Villa Del Rio"
 slug: "villa-del-rio"
 slug-province: "cordoba"
 permalink: /guarderias-en-villa-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLA DEL RIO"
+meta-description: "Listado con las mejores guarderías de VILLA DEL RIO"
 ---

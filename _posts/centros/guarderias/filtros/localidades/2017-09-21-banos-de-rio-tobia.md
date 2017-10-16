@@ -10,4 +10,8 @@ name: "Baños De Rio Tobia"
 slug: "banos-de-rio-tobia"
 slug-province: "la-rioja"
 permalink: /guarderias-en-banos-de-rio-tobia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BAñOS DE RIO TOBIA"
+meta-description: "Listado con las mejores guarderías de BAñOS DE RIO TOBIA"
 ---

@@ -10,4 +10,8 @@ name: "Elbarrena"
 slug: "elbarrena"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-elbarrena/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ELBARRENA"
+meta-description: "Listado con las mejores guarderías de ELBARRENA"
 ---

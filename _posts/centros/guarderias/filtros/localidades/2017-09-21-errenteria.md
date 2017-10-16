@@ -10,4 +10,8 @@ name: "Errenteria"
 slug: "errenteria"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-errenteria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ERRENTERIA"
+meta-description: "Listado con las mejores guarderías de ERRENTERIA"
 ---

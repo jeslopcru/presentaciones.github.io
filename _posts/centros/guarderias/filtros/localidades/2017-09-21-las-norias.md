@@ -10,4 +10,8 @@ name: "Las Norias"
 slug: "las-norias"
 slug-province: "almeria"
 permalink: /guarderias-en-las-norias/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS NORIAS"
+meta-description: "Listado con las mejores guarderías de LAS NORIAS"
 ---

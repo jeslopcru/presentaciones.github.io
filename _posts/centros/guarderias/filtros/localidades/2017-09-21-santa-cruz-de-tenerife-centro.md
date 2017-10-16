@@ -10,4 +10,8 @@ name: "Santa Cruz De Tenerife Centro"
 slug: "santa-cruz-de-tenerife-centro"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-santa-cruz-de-tenerife-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA CRUZ DE TENERIFE CENTRO"
+meta-description: "Listado con las mejores guarderías de SANTA CRUZ DE TENERIFE CENTRO"
 ---

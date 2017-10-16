@@ -10,4 +10,8 @@ name: "Tembleque"
 slug: "tembleque"
 slug-province: "toledo"
 permalink: /guarderias-en-tembleque/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TEMBLEQUE"
+meta-description: "Listado con las mejores guarderías de TEMBLEQUE"
 ---

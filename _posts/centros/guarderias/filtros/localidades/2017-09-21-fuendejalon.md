@@ -10,4 +10,8 @@ name: "Fuendejalon"
 slug: "fuendejalon"
 slug-province: "zaragoza"
 permalink: /guarderias-en-fuendejalon/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENDEJALON"
+meta-description: "Listado con las mejores guarderías de FUENDEJALON"
 ---

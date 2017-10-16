@@ -10,4 +10,8 @@ name: "Villafranca De Cordoba"
 slug: "villafranca-de-cordoba"
 slug-province: "cordoba"
 permalink: /guarderias-en-villafranca-de-cordoba/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAFRANCA DE CORDOBA"
+meta-description: "Listado con las mejores guarderías de VILLAFRANCA DE CORDOBA"
 ---

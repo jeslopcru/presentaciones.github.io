@@ -10,4 +10,8 @@ name: "Cortegana"
 slug: "cortegana"
 slug-province: "huelva"
 permalink: /guarderias-en-cortegana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CORTEGANA"
+meta-description: "Listado con las mejores guarderías de CORTEGANA"
 ---

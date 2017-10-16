@@ -10,4 +10,8 @@ name: "La Puebla Del Rio"
 slug: "la-puebla-del-rio"
 slug-province: "sevilla"
 permalink: /guarderias-en-la-puebla-del-rio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA PUEBLA DEL RIO"
+meta-description: "Listado con las mejores guarderías de LA PUEBLA DEL RIO"
 ---

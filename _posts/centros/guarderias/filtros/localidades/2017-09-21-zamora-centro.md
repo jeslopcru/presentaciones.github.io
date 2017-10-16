@@ -10,4 +10,8 @@ name: "Zamora Centro"
 slug: "zamora-centro"
 slug-province: "zamora"
 permalink: /guarderias-en-zamora-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ZAMORA CENTRO"
+meta-description: "Listado con las mejores guarderías de ZAMORA CENTRO"
 ---

@@ -10,4 +10,8 @@ name: "Chiclana De La Frontera"
 slug: "chiclana-de-la-frontera"
 slug-province: "cadiz"
 permalink: /guarderias-en-chiclana-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CHICLANA DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de CHICLANA DE LA FRONTERA"
 ---

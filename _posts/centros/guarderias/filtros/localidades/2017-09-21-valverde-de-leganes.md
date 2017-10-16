@@ -10,4 +10,8 @@ name: "Valverde De Leganes"
 slug: "valverde-de-leganes"
 slug-province: "badajoz"
 permalink: /guarderias-en-valverde-de-leganes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALVERDE DE LEGANES"
+meta-description: "Listado con las mejores guarderías de VALVERDE DE LEGANES"
 ---

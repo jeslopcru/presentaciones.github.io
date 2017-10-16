@@ -10,4 +10,8 @@ name: "Pasai Trintxerpe"
 slug: "pasai-trintxerpe"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-pasai-trintxerpe/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PASAI TRINTXERPE"
+meta-description: "Listado con las mejores guarderías de PASAI TRINTXERPE"
 ---

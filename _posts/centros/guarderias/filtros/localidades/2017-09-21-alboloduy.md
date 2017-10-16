@@ -10,4 +10,8 @@ name: "Alboloduy"
 slug: "alboloduy"
 slug-province: "almeria"
 permalink: /guarderias-en-alboloduy/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALBOLODUY"
+meta-description: "Listado con las mejores guarderías de ALBOLODUY"
 ---

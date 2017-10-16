@@ -10,4 +10,8 @@ name: "Quintanar Del Rey"
 slug: "quintanar-del-rey"
 slug-province: "cuenca"
 permalink: /guarderias-en-quintanar-del-rey/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de QUINTANAR DEL REY"
+meta-description: "Listado con las mejores guarderías de QUINTANAR DEL REY"
 ---

@@ -10,4 +10,8 @@ name: "Corral De Almaguer"
 slug: "corral-de-almaguer"
 slug-province: "toledo"
 permalink: /guarderias-en-corral-de-almaguer/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CORRAL DE ALMAGUER"
+meta-description: "Listado con las mejores guarderías de CORRAL DE ALMAGUER"
 ---

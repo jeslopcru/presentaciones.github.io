@@ -10,4 +10,8 @@ name: "Santa Cruz De Mudela"
 slug: "santa-cruz-de-mudela"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-santa-cruz-de-mudela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA CRUZ DE MUDELA"
+meta-description: "Listado con las mejores guarderías de SANTA CRUZ DE MUDELA"
 ---

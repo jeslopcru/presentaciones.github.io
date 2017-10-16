@@ -10,4 +10,8 @@ name: "Albuñuelas"
 slug: "albunuelas"
 slug-province: "granada"
 permalink: /guarderias-en-albunuelas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALBUñUELAS"
+meta-description: "Listado con las mejores guarderías de ALBUñUELAS"
 ---

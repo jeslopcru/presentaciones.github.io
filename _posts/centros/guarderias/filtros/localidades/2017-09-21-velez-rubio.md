@@ -10,4 +10,8 @@ name: "Velez-Rubio"
 slug: "velez-rubio"
 slug-province: "almeria"
 permalink: /guarderias-en-velez-rubio/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VELEZ-RUBIO"
+meta-description: "Listado con las mejores guarderías de VELEZ-RUBIO"
 ---

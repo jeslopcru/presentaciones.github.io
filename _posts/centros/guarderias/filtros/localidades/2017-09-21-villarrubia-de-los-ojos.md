@@ -10,4 +10,8 @@ name: "Villarrubia De Los Ojos"
 slug: "villarrubia-de-los-ojos"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-villarrubia-de-los-ojos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLARRUBIA DE LOS OJOS"
+meta-description: "Listado con las mejores guarderías de VILLARRUBIA DE LOS OJOS"
 ---

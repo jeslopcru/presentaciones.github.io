@@ -10,4 +10,8 @@ name: "Villaverde De Iscar"
 slug: "villaverde-de-iscar"
 slug-province: "segovia"
 permalink: /guarderias-en-villaverde-de-iscar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAVERDE DE ISCAR"
+meta-description: "Listado con las mejores guarderías de VILLAVERDE DE ISCAR"
 ---

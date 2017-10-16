@@ -10,4 +10,8 @@ name: "Jarandilla De La Vera"
 slug: "jarandilla-de-la-vera"
 slug-province: "caceres"
 permalink: /guarderias-en-jarandilla-de-la-vera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de JARANDILLA DE LA VERA"
+meta-description: "Listado con las mejores guarderías de JARANDILLA DE LA VERA"
 ---

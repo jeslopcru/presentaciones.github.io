@@ -10,4 +10,8 @@ name: "Quintanadueñas"
 slug: "quintanaduenas"
 slug-province: "burgos"
 permalink: /guarderias-en-quintanaduenas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de QUINTANADUEñAS"
+meta-description: "Listado con las mejores guarderías de QUINTANADUEñAS"
 ---

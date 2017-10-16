@@ -10,4 +10,8 @@ name: "Becerril De La Sierra"
 slug: "becerril-de-la-sierra"
 slug-province: "madrid"
 permalink: /guarderias-en-becerril-de-la-sierra/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BECERRIL DE LA SIERRA"
+meta-description: "Listado con las mejores guarderías de BECERRIL DE LA SIERRA"
 ---

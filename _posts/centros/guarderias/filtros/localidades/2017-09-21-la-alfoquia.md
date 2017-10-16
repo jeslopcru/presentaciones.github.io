@@ -10,4 +10,8 @@ name: "La Alfoquia"
 slug: "la-alfoquia"
 slug-province: "almeria"
 permalink: /guarderias-en-la-alfoquia/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA ALFOQUIA"
+meta-description: "Listado con las mejores guarderías de LA ALFOQUIA"
 ---

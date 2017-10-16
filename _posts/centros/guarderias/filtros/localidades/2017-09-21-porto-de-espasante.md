@@ -10,4 +10,8 @@ name: "Porto De Espasante"
 slug: "porto-de-espasante"
 slug-province: "a-coruna"
 permalink: /guarderias-en-porto-de-espasante/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PORTO DE ESPASANTE"
+meta-description: "Listado con las mejores guarderías de PORTO DE ESPASANTE"
 ---

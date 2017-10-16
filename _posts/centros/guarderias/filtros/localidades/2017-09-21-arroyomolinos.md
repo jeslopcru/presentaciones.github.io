@@ -10,4 +10,8 @@ name: "Arroyomolinos"
 slug: "arroyomolinos"
 slug-province: "madrid"
 permalink: /guarderias-en-arroyomolinos/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARROYOMOLINOS"
+meta-description: "Listado con las mejores guarderías de ARROYOMOLINOS"
 ---

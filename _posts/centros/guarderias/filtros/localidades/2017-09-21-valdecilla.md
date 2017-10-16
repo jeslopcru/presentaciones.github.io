@@ -10,4 +10,8 @@ name: "Valdecilla"
 slug: "valdecilla"
 slug-province: "cantabria"
 permalink: /guarderias-en-valdecilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALDECILLA"
+meta-description: "Listado con las mejores guarderías de VALDECILLA"
 ---

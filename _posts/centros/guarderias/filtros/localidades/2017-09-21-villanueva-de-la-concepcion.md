@@ -10,4 +10,8 @@ name: "Villanueva De La Concepción"
 slug: "villanueva-de-la-concepcion"
 slug-province: "malaga"
 permalink: /guarderias-en-villanueva-de-la-concepcion/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DE LA CONCEPCIóN"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DE LA CONCEPCIóN"
 ---

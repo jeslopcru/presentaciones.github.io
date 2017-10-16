@@ -10,4 +10,8 @@ name: "Benavente"
 slug: "benavente"
 slug-province: "zamora"
 permalink: /guarderias-en-benavente/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BENAVENTE"
+meta-description: "Listado con las mejores guarderías de BENAVENTE"
 ---

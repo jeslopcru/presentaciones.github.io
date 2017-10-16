@@ -10,4 +10,8 @@ name: "Villamayor"
 slug: "villamayor"
 slug-province: "salamanca"
 permalink: /guarderias-en-villamayor/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAMAYOR"
+meta-description: "Listado con las mejores guarderías de VILLAMAYOR"
 ---

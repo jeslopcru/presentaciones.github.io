@@ -10,4 +10,8 @@ name: "Puente-Cesures"
 slug: "puente-cesures"
 slug-province: "a-coruna"
 permalink: /guarderias-en-puente-cesures/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUENTE-CESURES"
+meta-description: "Listado con las mejores guarderías de PUENTE-CESURES"
 ---

@@ -10,4 +10,8 @@ name: "Santaella"
 slug: "santaella"
 slug-province: "cordoba"
 permalink: /guarderias-en-santaella/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTAELLA"
+meta-description: "Listado con las mejores guarderías de SANTAELLA"
 ---

@@ -10,4 +10,8 @@ name: "Toral De Los Vados"
 slug: "toral-de-los-vados"
 slug-province: "leon"
 permalink: /guarderias-en-toral-de-los-vados/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORAL DE LOS VADOS"
+meta-description: "Listado con las mejores guarderías de TORAL DE LOS VADOS"
 ---

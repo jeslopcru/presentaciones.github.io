@@ -10,4 +10,8 @@ name: "Las Pajanosas"
 slug: "las-pajanosas"
 slug-province: "sevilla"
 permalink: /guarderias-en-las-pajanosas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS PAJANOSAS"
+meta-description: "Listado con las mejores guarderías de LAS PAJANOSAS"
 ---

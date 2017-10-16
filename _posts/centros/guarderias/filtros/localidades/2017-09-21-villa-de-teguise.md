@@ -10,4 +10,8 @@ name: "Villa De Teguise"
 slug: "villa-de-teguise"
 slug-province: "las-palmas"
 permalink: /guarderias-en-villa-de-teguise/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLA DE TEGUISE"
+meta-description: "Listado con las mejores guarderías de VILLA DE TEGUISE"
 ---

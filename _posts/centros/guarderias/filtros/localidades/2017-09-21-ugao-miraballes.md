@@ -10,4 +10,8 @@ name: "Ugao-Miraballes"
 slug: "ugao-miraballes"
 slug-province: "bizkaia"
 permalink: /guarderias-en-ugao-miraballes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de UGAO-MIRABALLES"
+meta-description: "Listado con las mejores guarderías de UGAO-MIRABALLES"
 ---

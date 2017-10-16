@@ -10,4 +10,8 @@ name: "Puerto Del Rosario"
 slug: "puerto-del-rosario"
 slug-province: "las-palmas"
 permalink: /guarderias-en-puerto-del-rosario/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUERTO DEL ROSARIO"
+meta-description: "Listado con las mejores guarderías de PUERTO DEL ROSARIO"
 ---

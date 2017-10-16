@@ -10,4 +10,8 @@ name: "Villacañas"
 slug: "villacanas"
 slug-province: "toledo"
 permalink: /guarderias-en-villacanas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLACAñAS"
+meta-description: "Listado con las mejores guarderías de VILLACAñAS"
 ---

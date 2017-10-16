@@ -10,4 +10,8 @@ name: "Alcala Del Valle"
 slug: "alcala-del-valle"
 slug-province: "cadiz"
 permalink: /guarderias-en-alcala-del-valle/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALCALA DEL VALLE"
+meta-description: "Listado con las mejores guarderías de ALCALA DEL VALLE"
 ---

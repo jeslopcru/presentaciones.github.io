@@ -10,4 +10,8 @@ name: "La Luisiana"
 slug: "la-luisiana"
 slug-province: "sevilla"
 permalink: /guarderias-en-la-luisiana/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA LUISIANA"
+meta-description: "Listado con las mejores guarderías de LA LUISIANA"
 ---

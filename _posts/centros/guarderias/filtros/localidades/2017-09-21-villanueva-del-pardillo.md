@@ -10,4 +10,8 @@ name: "Villanueva Del Pardillo"
 slug: "villanueva-del-pardillo"
 slug-province: "madrid"
 permalink: /guarderias-en-villanueva-del-pardillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DEL PARDILLO"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DEL PARDILLO"
 ---

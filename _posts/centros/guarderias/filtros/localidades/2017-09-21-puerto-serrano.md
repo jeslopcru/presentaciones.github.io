@@ -10,4 +10,8 @@ name: "Puerto Serrano"
 slug: "puerto-serrano"
 slug-province: "cadiz"
 permalink: /guarderias-en-puerto-serrano/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de PUERTO SERRANO"
+meta-description: "Listado con las mejores guarderías de PUERTO SERRANO"
 ---

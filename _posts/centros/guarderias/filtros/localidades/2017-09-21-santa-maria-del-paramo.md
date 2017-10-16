@@ -10,4 +10,8 @@ name: "Santa Maria Del Paramo"
 slug: "santa-maria-del-paramo"
 slug-province: "leon"
 permalink: /guarderias-en-santa-maria-del-paramo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTA MARIA DEL PARAMO"
+meta-description: "Listado con las mejores guarderías de SANTA MARIA DEL PARAMO"
 ---

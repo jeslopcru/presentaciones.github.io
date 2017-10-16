@@ -10,4 +10,8 @@ name: "Almendralejo"
 slug: "almendralejo"
 slug-province: "badajoz"
 permalink: /guarderias-en-almendralejo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALMENDRALEJO"
+meta-description: "Listado con las mejores guarderías de ALMENDRALEJO"
 ---

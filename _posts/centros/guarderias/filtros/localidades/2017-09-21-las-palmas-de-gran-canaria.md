@@ -10,4 +10,8 @@ name: "Las Palmas De Gran Canaria"
 slug: "las-palmas-de-gran-canaria"
 slug-province: "las-palmas"
 permalink: /guarderias-en-las-palmas-de-gran-canaria/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS PALMAS DE GRAN CANARIA"
+meta-description: "Listado con las mejores guarderías de LAS PALMAS DE GRAN CANARIA"
 ---

@@ -10,4 +10,8 @@ name: "Ameiro-Longo"
 slug: "ameiro-longo"
 slug-province: "pontevedra"
 permalink: /guarderias-en-ameiro-longo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AMEIRO-LONGO"
+meta-description: "Listado con las mejores guarderías de AMEIRO-LONGO"
 ---

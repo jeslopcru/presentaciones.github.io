@@ -10,4 +10,8 @@ name: "Nuez De Ebro"
 slug: "nuez-de-ebro"
 slug-province: "zaragoza"
 permalink: /guarderias-en-nuez-de-ebro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de NUEZ DE EBRO"
+meta-description: "Listado con las mejores guarderías de NUEZ DE EBRO"
 ---

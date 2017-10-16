@@ -10,4 +10,8 @@ name: "Taboadela"
 slug: "taboadela"
 slug-province: "ourense"
 permalink: /guarderias-en-taboadela/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TABOADELA"
+meta-description: "Listado con las mejores guarderías de TABOADELA"
 ---

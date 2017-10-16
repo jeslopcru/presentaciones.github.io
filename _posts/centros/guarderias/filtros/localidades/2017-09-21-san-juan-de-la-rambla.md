@@ -10,4 +10,8 @@ name: "San Juan De La Rambla"
 slug: "san-juan-de-la-rambla"
 slug-province: "santa-cruz-de-tenerife"
 permalink: /guarderias-en-san-juan-de-la-rambla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN JUAN DE LA RAMBLA"
+meta-description: "Listado con las mejores guarderías de SAN JUAN DE LA RAMBLA"
 ---

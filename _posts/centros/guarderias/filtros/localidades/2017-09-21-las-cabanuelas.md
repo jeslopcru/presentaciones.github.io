@@ -10,4 +10,8 @@ name: "Las Cabañuelas"
 slug: "las-cabanuelas"
 slug-province: "almeria"
 permalink: /guarderias-en-las-cabanuelas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LAS CABAñUELAS"
+meta-description: "Listado con las mejores guarderías de LAS CABAñUELAS"
 ---

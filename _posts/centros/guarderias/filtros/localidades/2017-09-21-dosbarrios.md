@@ -10,4 +10,8 @@ name: "Dosbarrios"
 slug: "dosbarrios"
 slug-province: "toledo"
 permalink: /guarderias-en-dosbarrios/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de DOSBARRIOS"
+meta-description: "Listado con las mejores guarderías de DOSBARRIOS"
 ---

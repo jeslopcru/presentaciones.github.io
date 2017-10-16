@@ -10,4 +10,8 @@ name: "El Palmar De Troya"
 slug: "el-palmar-de-troya"
 slug-province: "sevilla"
 permalink: /guarderias-en-el-palmar-de-troya/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL PALMAR DE TROYA"
+meta-description: "Listado con las mejores guarderías de EL PALMAR DE TROYA"
 ---

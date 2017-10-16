@@ -10,4 +10,8 @@ name: "Cabanillas"
 slug: "cabanillas"
 slug-province: "navarra"
 permalink: /guarderias-en-cabanillas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CABANILLAS"
+meta-description: "Listado con las mejores guarderías de CABANILLAS"
 ---

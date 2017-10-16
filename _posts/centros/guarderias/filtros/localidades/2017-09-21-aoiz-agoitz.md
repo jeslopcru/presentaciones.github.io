@@ -10,4 +10,8 @@ name: "Aoiz/Agoitz"
 slug: "aoiz-agoitz"
 slug-province: "navarra"
 permalink: /guarderias-en-aoiz-agoitz/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AOIZ/AGOITZ"
+meta-description: "Listado con las mejores guarderías de AOIZ/AGOITZ"
 ---

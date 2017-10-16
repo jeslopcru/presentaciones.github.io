@@ -10,4 +10,8 @@ name: "Villamalea"
 slug: "villamalea"
 slug-province: "albacete"
 permalink: /guarderias-en-villamalea/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAMALEA"
+meta-description: "Listado con las mejores guarderías de VILLAMALEA"
 ---

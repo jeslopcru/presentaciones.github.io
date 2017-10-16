@@ -10,4 +10,8 @@ name: "Añover De Tajo"
 slug: "anover-de-tajo"
 slug-province: "toledo"
 permalink: /guarderias-en-anover-de-tajo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de AñOVER DE TAJO"
+meta-description: "Listado con las mejores guarderías de AñOVER DE TAJO"
 ---

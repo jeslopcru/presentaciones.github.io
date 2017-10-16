@@ -10,4 +10,8 @@ name: "Es Castell"
 slug: "es-castell"
 slug-province: "illes-balears"
 permalink: /guarderias-en-es-castell/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ES CASTELL"
+meta-description: "Listado con las mejores guarderías de ES CASTELL"
 ---

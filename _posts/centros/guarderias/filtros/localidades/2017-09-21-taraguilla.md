@@ -10,4 +10,8 @@ name: "Taraguilla"
 slug: "taraguilla"
 slug-province: "cadiz"
 permalink: /guarderias-en-taraguilla/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TARAGUILLA"
+meta-description: "Listado con las mejores guarderías de TARAGUILLA"
 ---

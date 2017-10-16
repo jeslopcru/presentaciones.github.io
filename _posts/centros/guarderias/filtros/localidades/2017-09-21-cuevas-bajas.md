@@ -10,4 +10,8 @@ name: "Cuevas Bajas"
 slug: "cuevas-bajas"
 slug-province: "malaga"
 permalink: /guarderias-en-cuevas-bajas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CUEVAS BAJAS"
+meta-description: "Listado con las mejores guarderías de CUEVAS BAJAS"
 ---

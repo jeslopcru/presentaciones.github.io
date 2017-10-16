@@ -10,4 +10,8 @@ name: "Encinasola"
 slug: "encinasola"
 slug-province: "huelva"
 permalink: /guarderias-en-encinasola/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ENCINASOLA"
+meta-description: "Listado con las mejores guarderías de ENCINASOLA"
 ---

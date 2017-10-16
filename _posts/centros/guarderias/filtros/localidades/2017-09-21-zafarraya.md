@@ -10,4 +10,8 @@ name: "Zafarraya"
 slug: "zafarraya"
 slug-province: "granada"
 permalink: /guarderias-en-zafarraya/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ZAFARRAYA"
+meta-description: "Listado con las mejores guarderías de ZAFARRAYA"
 ---

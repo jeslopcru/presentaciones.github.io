@@ -10,4 +10,8 @@ name: "Cartuja Baja"
 slug: "cartuja-baja"
 slug-province: "zaragoza"
 permalink: /guarderias-en-cartuja-baja/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CARTUJA BAJA"
+meta-description: "Listado con las mejores guarderías de CARTUJA BAJA"
 ---

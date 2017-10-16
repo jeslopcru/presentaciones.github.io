@@ -10,4 +10,8 @@ name: "Badolatosa"
 slug: "badolatosa"
 slug-province: "sevilla"
 permalink: /guarderias-en-badolatosa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de BADOLATOSA"
+meta-description: "Listado con las mejores guarderías de BADOLATOSA"
 ---

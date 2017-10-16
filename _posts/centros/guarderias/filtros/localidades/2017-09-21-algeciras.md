@@ -10,4 +10,8 @@ name: "Algeciras"
 slug: "algeciras"
 slug-province: "cadiz"
 permalink: /guarderias-en-algeciras/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALGECIRAS"
+meta-description: "Listado con las mejores guarderías de ALGECIRAS"
 ---

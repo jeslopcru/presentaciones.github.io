@@ -10,4 +10,8 @@ name: "Solana De Los Barros"
 slug: "solana-de-los-barros"
 slug-province: "badajoz"
 permalink: /guarderias-en-solana-de-los-barros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SOLANA DE LOS BARROS"
+meta-description: "Listado con las mejores guarderías de SOLANA DE LOS BARROS"
 ---

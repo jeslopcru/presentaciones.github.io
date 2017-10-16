@@ -10,4 +10,8 @@ name: "Torreperogil"
 slug: "torreperogil"
 slug-province: "jaen"
 permalink: /guarderias-en-torreperogil/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORREPEROGIL"
+meta-description: "Listado con las mejores guarderías de TORREPEROGIL"
 ---

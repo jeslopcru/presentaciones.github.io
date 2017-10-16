@@ -10,4 +10,8 @@ name: "Los Arenales"
 slug: "los-arenales"
 slug-province: "guadalajara"
 permalink: /guarderias-en-los-arenales/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LOS ARENALES"
+meta-description: "Listado con las mejores guarderías de LOS ARENALES"
 ---

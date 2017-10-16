@@ -10,4 +10,8 @@ name: "Ojos De Garza"
 slug: "ojos-de-garza"
 slug-province: "las-palmas"
 permalink: /guarderias-en-ojos-de-garza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de OJOS DE GARZA"
+meta-description: "Listado con las mejores guarderías de OJOS DE GARZA"
 ---

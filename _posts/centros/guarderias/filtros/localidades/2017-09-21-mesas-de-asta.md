@@ -10,4 +10,8 @@ name: "Mesas De Asta"
 slug: "mesas-de-asta"
 slug-province: "cadiz"
 permalink: /guarderias-en-mesas-de-asta/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MESAS DE ASTA"
+meta-description: "Listado con las mejores guarderías de MESAS DE ASTA"
 ---

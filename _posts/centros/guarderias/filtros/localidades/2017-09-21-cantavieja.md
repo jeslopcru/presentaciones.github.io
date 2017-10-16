@@ -10,4 +10,8 @@ name: "Cantavieja"
 slug: "cantavieja"
 slug-province: "teruel"
 permalink: /guarderias-en-cantavieja/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CANTAVIEJA"
+meta-description: "Listado con las mejores guarderías de CANTAVIEJA"
 ---

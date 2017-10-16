@@ -10,4 +10,8 @@ name: "Fuensalida"
 slug: "fuensalida"
 slug-province: "toledo"
 permalink: /guarderias-en-fuensalida/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FUENSALIDA"
+meta-description: "Listado con las mejores guarderías de FUENSALIDA"
 ---

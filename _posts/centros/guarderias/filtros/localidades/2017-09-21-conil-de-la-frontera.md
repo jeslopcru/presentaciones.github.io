@@ -10,4 +10,8 @@ name: "Conil De La Frontera"
 slug: "conil-de-la-frontera"
 slug-province: "cadiz"
 permalink: /guarderias-en-conil-de-la-frontera/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CONIL DE LA FRONTERA"
+meta-description: "Listado con las mejores guarderías de CONIL DE LA FRONTERA"
 ---

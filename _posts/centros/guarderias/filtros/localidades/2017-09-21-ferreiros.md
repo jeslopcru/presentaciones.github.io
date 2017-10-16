@@ -10,4 +10,8 @@ name: "Ferreiros"
 slug: "ferreiros"
 slug-province: "pontevedra"
 permalink: /guarderias-en-ferreiros/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FERREIROS"
+meta-description: "Listado con las mejores guarderías de FERREIROS"
 ---

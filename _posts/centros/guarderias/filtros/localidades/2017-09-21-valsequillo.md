@@ -10,4 +10,8 @@ name: "Valsequillo"
 slug: "valsequillo"
 slug-province: "las-palmas"
 permalink: /guarderias-en-valsequillo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALSEQUILLO"
+meta-description: "Listado con las mejores guarderías de VALSEQUILLO"
 ---

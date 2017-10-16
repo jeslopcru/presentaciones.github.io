@@ -10,4 +10,8 @@ name: "Hoyo De Manzanares"
 slug: "hoyo-de-manzanares"
 slug-province: "madrid"
 permalink: /guarderias-en-hoyo-de-manzanares/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de HOYO DE MANZANARES"
+meta-description: "Listado con las mejores guarderías de HOYO DE MANZANARES"
 ---

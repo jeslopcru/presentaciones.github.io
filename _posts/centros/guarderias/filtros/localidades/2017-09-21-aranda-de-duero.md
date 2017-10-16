@@ -10,4 +10,8 @@ name: "Aranda De Duero"
 slug: "aranda-de-duero"
 slug-province: "burgos"
 permalink: /guarderias-en-aranda-de-duero/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ARANDA DE DUERO"
+meta-description: "Listado con las mejores guarderías de ARANDA DE DUERO"
 ---

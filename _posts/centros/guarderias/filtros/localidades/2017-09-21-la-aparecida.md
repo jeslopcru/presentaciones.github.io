@@ -10,4 +10,8 @@ name: "La Aparecida"
 slug: "la-aparecida"
 slug-province: "murcia"
 permalink: /guarderias-en-la-aparecida/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de LA APARECIDA"
+meta-description: "Listado con las mejores guarderías de LA APARECIDA"
 ---

@@ -10,4 +10,8 @@ name: "Castrillo Del Val"
 slug: "castrillo-del-val"
 slug-province: "burgos"
 permalink: /guarderias-en-castrillo-del-val/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de CASTRILLO DEL VAL"
+meta-description: "Listado con las mejores guarderías de CASTRILLO DEL VAL"
 ---

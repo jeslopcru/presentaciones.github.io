@@ -10,4 +10,8 @@ name: "El Varadero"
 slug: "el-varadero"
 slug-province: "granada"
 permalink: /guarderias-en-el-varadero/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de EL VARADERO"
+meta-description: "Listado con las mejores guarderías de EL VARADERO"
 ---

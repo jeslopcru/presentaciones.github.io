@@ -10,4 +10,8 @@ name: "Pozohondo"
 slug: "pozohondo"
 slug-province: "albacete"
 permalink: /guarderias-en-pozohondo/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de POZOHONDO"
+meta-description: "Listado con las mejores guarderías de POZOHONDO"
 ---

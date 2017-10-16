@@ -10,4 +10,8 @@ name: "Valmojado"
 slug: "valmojado"
 slug-province: "toledo"
 permalink: /guarderias-en-valmojado/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALMOJADO"
+meta-description: "Listado con las mejores guarderías de VALMOJADO"
 ---

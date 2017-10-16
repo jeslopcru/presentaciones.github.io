@@ -10,4 +10,8 @@ name: "Villafranca De Ebro"
 slug: "villafranca-de-ebro"
 slug-province: "zaragoza"
 permalink: /guarderias-en-villafranca-de-ebro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLAFRANCA DE EBRO"
+meta-description: "Listado con las mejores guarderías de VILLAFRANCA DE EBRO"
 ---

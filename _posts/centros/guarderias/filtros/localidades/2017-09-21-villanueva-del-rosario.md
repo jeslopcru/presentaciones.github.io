@@ -10,4 +10,8 @@ name: "Villanueva Del Rosario"
 slug: "villanueva-del-rosario"
 slug-province: "malaga"
 permalink: /guarderias-en-villanueva-del-rosario/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VILLANUEVA DEL ROSARIO"
+meta-description: "Listado con las mejores guarderías de VILLANUEVA DEL ROSARIO"
 ---

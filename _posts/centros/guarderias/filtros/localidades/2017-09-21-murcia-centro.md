@@ -10,4 +10,8 @@ name: "Murcia Centro"
 slug: "murcia-centro"
 slug-province: "murcia"
 permalink: /guarderias-en-murcia-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MURCIA CENTRO"
+meta-description: "Listado con las mejores guarderías de MURCIA CENTRO"
 ---

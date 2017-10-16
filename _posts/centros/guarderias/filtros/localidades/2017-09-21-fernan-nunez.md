@@ -10,4 +10,8 @@ name: "Fernan Nuñez"
 slug: "fernan-nunez"
 slug-province: "cordoba"
 permalink: /guarderias-en-fernan-nunez/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de FERNAN NUñEZ"
+meta-description: "Listado con las mejores guarderías de FERNAN NUñEZ"
 ---

@@ -10,4 +10,8 @@ name: "San Isidro De Nijar"
 slug: "san-isidro-de-nijar"
 slug-province: "almeria"
 permalink: /guarderias-en-san-isidro-de-nijar/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SAN ISIDRO DE NIJAR"
+meta-description: "Listado con las mejores guarderías de SAN ISIDRO DE NIJAR"
 ---

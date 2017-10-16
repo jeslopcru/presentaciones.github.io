@@ -10,4 +10,8 @@ name: "Santisteban Del Puerto"
 slug: "santisteban-del-puerto"
 slug-province: "jaen"
 permalink: /guarderias-en-santisteban-del-puerto/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de SANTISTEBAN DEL PUERTO"
+meta-description: "Listado con las mejores guarderías de SANTISTEBAN DEL PUERTO"
 ---

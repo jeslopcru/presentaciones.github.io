@@ -10,4 +10,8 @@ name: "Ormaiztegi"
 slug: "ormaiztegi"
 slug-province: "gipuzkoa"
 permalink: /guarderias-en-ormaiztegi/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ORMAIZTEGI"
+meta-description: "Listado con las mejores guarderías de ORMAIZTEGI"
 ---

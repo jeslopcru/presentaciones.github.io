@@ -10,4 +10,8 @@ name: "Olias Del Rey"
 slug: "olias-del-rey"
 slug-province: "toledo"
 permalink: /guarderias-en-olias-del-rey/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de OLIAS DEL REY"
+meta-description: "Listado con las mejores guarderías de OLIAS DEL REY"
 ---

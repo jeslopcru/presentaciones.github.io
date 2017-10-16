@@ -10,4 +10,8 @@ name: "Torrox-Costa"
 slug: "torrox-costa"
 slug-province: "malaga"
 permalink: /guarderias-en-torrox-costa/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TORROX-COSTA"
+meta-description: "Listado con las mejores guarderías de TORROX-COSTA"
 ---

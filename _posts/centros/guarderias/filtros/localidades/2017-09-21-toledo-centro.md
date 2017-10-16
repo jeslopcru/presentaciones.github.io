@@ -10,4 +10,8 @@ name: "Toledo Centro"
 slug: "toledo-centro"
 slug-province: "toledo"
 permalink: /guarderias-en-toledo-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de TOLEDO CENTRO"
+meta-description: "Listado con las mejores guarderías de TOLEDO CENTRO"
 ---

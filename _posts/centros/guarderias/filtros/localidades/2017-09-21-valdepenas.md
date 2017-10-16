@@ -10,4 +10,8 @@ name: "Valdepeñas"
 slug: "valdepenas"
 slug-province: "ciudad-real"
 permalink: /guarderias-en-valdepenas/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de VALDEPEñAS"
+meta-description: "Listado con las mejores guarderías de VALDEPEñAS"
 ---

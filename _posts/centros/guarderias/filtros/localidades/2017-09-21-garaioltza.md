@@ -10,4 +10,8 @@ name: "Garaioltza"
 slug: "garaioltza"
 slug-province: "bizkaia"
 permalink: /guarderias-en-garaioltza/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GARAIOLTZA"
+meta-description: "Listado con las mejores guarderías de GARAIOLTZA"
 ---

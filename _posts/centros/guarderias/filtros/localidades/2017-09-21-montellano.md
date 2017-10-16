@@ -10,4 +10,8 @@ name: "Montellano"
 slug: "montellano"
 slug-province: "sevilla"
 permalink: /guarderias-en-montellano/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de MONTELLANO"
+meta-description: "Listado con las mejores guarderías de MONTELLANO"
 ---

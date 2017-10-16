@@ -10,4 +10,8 @@ name: "Granada Centro"
 slug: "granada-centro"
 slug-province: "granada"
 permalink: /guarderias-en-granada-centro/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de GRANADA CENTRO"
+meta-description: "Listado con las mejores guarderías de GRANADA CENTRO"
 ---

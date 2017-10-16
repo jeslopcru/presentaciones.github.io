@@ -10,4 +10,8 @@ name: "Alomartes"
 slug: "alomartes"
 slug-province: "granada"
 permalink: /guarderias-en-alomartes/
+robot: noindex, follow
+sitemap: false
+meta-title: "Listado con las mejores guarderías de ALOMARTES"
+meta-description: "Listado con las mejores guarderías de ALOMARTES"
 ---
